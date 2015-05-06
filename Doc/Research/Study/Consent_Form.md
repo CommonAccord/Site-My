@@ -1,4 +1,4 @@
-Doc.Title={m-}Mental Readiness following breast cancer (breast cancer Survivor Study){-m}
+Study.Title={m-}Mental Readiness following breast cancer (breast cancer Survivor Study){-m}
 
 Protocol#={m-}20142012345{-m}
 
