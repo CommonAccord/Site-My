@@ -1,4 +1,4 @@
-Ti=Assignment of Patent Applications
+Doc.Title=Assignment of Patent Applications
 
 0.1.sec={P1.N,E,A}	
 

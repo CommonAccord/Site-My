@@ -1,10 +1,3 @@
-
-Agreement={d-}Agreement{-d}
-
-this_Agreement=this {d-}Agreement{-d}
-
-This_Agreement=This {d-}Agreement{-d}
-
 Client={d-}Client{-d}
 
 The_Client=The {d-}Client{-d}
@@ -25,8 +18,6 @@ The_Disclosing_Party={The_Client}
 
 the_Disclosing_Party={the_Client}
 
-Effective_Date={d-}Effective Date{-d}
-
 Future_Patents={d-}Future_Patents{-d}
 
 Patent_Applications={d-}Patent Applications{-d}
@@ -45,6 +36,4 @@ Services={d-}Services{-d}
 
 Work_Product={d-}Work Product{-d}
 
-d-=<font color="green">
-
--d=</font>
+=[Z/Agt/DT_Base.md]

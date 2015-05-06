@@ -1,4 +1,4 @@
-Agt.Ti=Consulting Agreement
+Doc.Title=Consulting Agreement
 
 Secs={Service.Sec}<li>{Comp.Sec}<li>{Ownership.Sec}<li>{Conf.Sec}<li>{Rep.Sec}<li>{IndependentContractor.Sec}<li>{Cov.Sec}<li>{Term.Sec}<li>{Remedy.Sec}<li>{Dispute.Sec}<li>{Misc.Sec}
 
