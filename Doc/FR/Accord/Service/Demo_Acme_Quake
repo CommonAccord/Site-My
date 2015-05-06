@@ -1,0 +1,21 @@
+P1.=[FR/ID/Acme_SARL.md]
+
+P2.=[FR/ID/Quake_SA.md]
+
+Prix=1.000,00 Euro
+
+Contrat.Durée=six mois
+
+Contrat.Début={m-}1 mai 2015{-m}
+
+Contrat.Fin={m-}31 octobre 2015{-m}
+
+Sign.Date={m-}21 avril 2015{-m}
+
+Sign.Ville={m-}Paris{-m}
+
+=[FR/Accord/Service/Contrat_de_Service.md]
+
+m-=<font color="red">
+
+-m=</font>
