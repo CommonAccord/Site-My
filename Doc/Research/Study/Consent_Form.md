@@ -1,6 +1,4 @@
-Title.Full={m-}Mental Readiness following breast cancer (breast cancer Survivor Study){-m}
-
-MessageToUser=Draft
+Doc.Title={m-}Mental Readiness following breast cancer (breast cancer Survivor Study){-m}
 
 Protocol#={m-}20142012345{-m}
 
@@ -46,6 +44,6 @@ Withdraw.Telephone={IC.Telephone}
 
 =[Research/Consent/Form/Research_Consent_Form.md]
 
-m-=<font color="red">
+m-=<font color="magenta">
 
 -m=</font>

@@ -1,3 +1,5 @@
+MessageToUser=<font color="red">INFORMATIONAL ONLY! <br>You still need institutional review. <br> (But think about contributing your terms as a repo!)</red>
+
 Doc.Title=STUDY INFORMATION AND CONSENT to RESEARCH
 
 sec={Intro.Sec}<ol><li>{Summary.Sec}<li>{Purpose.Sec}<li>{Procedure.Sec}<li>{Risk.Sec}<li>{Benefit.Sec}<li>{Payment.Sec}<li>{Cost.Sec}<li>{Alternatives.Sec}<li>{Authorization.Sec}<li>{Confidentiality.Sec}<li>{CostOfInjury.Sec}<li>{Participation.Sec}<li>{Use.Sec}<li>{Funding.Sec}<li>{QuestionsAndContacts.Sec}</ol>{End.Sec}<hr><hr>{Consent.Doc}
