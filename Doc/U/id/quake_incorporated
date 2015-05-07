@@ -2,12 +2,6 @@
 
 =[U/at/USA/CA/San_Mateo/Menlo_Park/Geo]
 
-President.Title=President and Chairman 
-
-President.=[U/id/colleen_kendall]
-
-Atty.=[U/id/quade_and_quinn]
-
 <b>Quake Info</b>
 
 Name.Full=Quake Inc.
@@ -22,10 +16,18 @@ Phone=650.555.5500
 
 Fax=650.555.5511
 
+entity=Delaware corporation
 
 Addr.Type=business
 
 BusinessDomain=information services consulting
+
+
+President.Title=President and Chairman 
+
+President.=[U/id/colleen_kendall]
+
+Atty.=[U/id/quade_and_quinn]
 
 Notice.Name,Title={President.Name.Full}, {President.Title}
 
@@ -36,6 +38,3 @@ Sign.Name.Full={President.ID.Name.Full}
 Sign.Title={President.Title}
 
 Email=Kendall@quake.com
-
-entity=Delaware corporation
-						      

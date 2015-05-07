@@ -1,6 +1,9 @@
 =[U/class/ID]
 
+
 entity=legal person
+
+entity.a=a {entity}
 
 For French:
 
