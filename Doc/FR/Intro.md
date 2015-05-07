@@ -6,7 +6,7 @@ Ti=Le Défi
 
 1.2.sec=Les avocats se doivent d’éplucher la documentation, au lieu de se concentrer sur leur plaidoyer et le conseil aux clients. Les citoyens et les chefs d'entreprise passent trop de temps à lire des documents juridiques complexes, sans jamais pouvoir être assurés d’un niveau adéquat de sécurité juridique, en l’absence d'une base documentaire juridique stable sur laquelle s’appuyer.
 
-1.=[Bit/Sec_s02]
+1.=[Z/Sec/s2]
 
 2.Ti=Une solution
 
@@ -16,7 +16,7 @@ Ti=Le Défi
 
 2.3.sec=Avec d'un commun accord, le contrat et le texte juridique deviennent des fiches de texte testées et améliorées par interopérabilité.
 
-2.=[Bit/Sec_s03]
+2.=[Z/Sec/s3]
 
 3.Ti=Notre vision
 
@@ -28,6 +28,6 @@ Ti=Le Défi
 
 3.4.sec=Découvrez comment un commun accord peut vous aider.
 
-3.=[Bit/Sec_s04]
+3.=[Z/Sec/s4]
 
-=[Bit/Sec_03]
+=[Z/Sec/3]
