@@ -2,7 +2,7 @@ Ti=Definition of {Confidential_Information}
 
 0.sec="{Confidential_Information}" as used in {this_Agreement} means any and all information
 
-1.0.sec=Select one
+1.0.sec=Select one Conf.Def.1.X.sec, where X is 1-4
 
 1.1.sec=that is disclosed by a {party} (the "{Disclosing_Party}") to the other {party} (the "{Receiving_Party}")
 

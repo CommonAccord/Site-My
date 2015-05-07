@@ -30,7 +30,7 @@ Ti=Successors and Assigns
 
 3.3.sec=Subject to the foregoing, {this_Agreement} will be for the benefit of {P2.the}'s successors and assigns, and will be binding on {P1.the}'s assignees.
 
-3.=[Z/Sec/2]
+3.=[Z/Sec/s3]
 
 Note=Mutual
 

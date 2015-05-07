@@ -14,6 +14,8 @@ X.3.sec={sec}
 
 Model.Root={X.Sec}
 
+1.sec={e-}{1.4.sec}{-e}
+
 X.=[Z/Sec/3]
 
 =[NDA/Sec/Sec_Definition_ConfInfo_MChanLibrary.md]

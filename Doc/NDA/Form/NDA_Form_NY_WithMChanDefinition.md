@@ -2,9 +2,9 @@
 
 MC.=[NDA/Sec/Sec_Definition_ConfInfo_MChanExamples.md]
 
-Note=Selecting format - (X.1) which is a single paragraph.
+Note=Selecting format - (X.2) which is a paragraph with subparagraphs.
 
-Conf.Def.sec={m-}{MC.X.1.sec}{-m}
+Conf.Def.sec={m-}{MC.X.2.sec}{-m}
 
 Note=Selecting Mutual
 
