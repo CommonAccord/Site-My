@@ -1,9 +1,9 @@
-IndependentContact.=[U/ID/nirb]
+IndependentContact.=[U/id/nirb]
 
 IndependentContact.Handle=NIRB
 
-Sponsor.=[U/ID/openmemed]
+Sponsor.=[U/id/openmemed]
 
-Monitor.=[U/ID/alison_trudeau]
+Monitor.=[U/id/alison_trudeau]
 
-Investigator.=[U/ID/william_walder]
+Investigator.=[U/id/william_walder]
