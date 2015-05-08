@@ -12,6 +12,8 @@ Name.FmL={Name.First} {Name.M}. {Name.Last}
 
 Name.FML,Dr={Name.First} {Name.Middle} {Name.Last}, {Name.Dr}
 
+Name.Full,Dr={Name.Full}, {Name.Dr}
+
 Name.FmL,Dr={Name.First} {Name.M}. {Name.Last}, {Name.Dr}
 
 Name.FL={Name.First} {Name.Last}
@@ -49,4 +51,3 @@ my/our=my
 Model.Root={Addr.Table}<br>{Pronoun.List}
 
 SignBy=By: <u>{xSignature}</u>
-																        

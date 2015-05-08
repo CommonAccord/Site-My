@@ -1,0 +1,4 @@
+
+Model.Root={Element.List}
+
+Element.List=<b>Title</b>: {Title}<li><b>Protocol#</b>: {Protocol#}<li><b>IndependentContact.Protocol#</b>: {IndependentContact.Protocol#}<li><b>Sponsor.N,E,A</b>: {Sponsor.N,E,A}<li><b>Investigator.N,E,A</b>: {Investigator.N,E,A}<li><b>Related-Phone-Numbers,A/Z</b>: {Related-Phone-Numbers,A/Z}<li><b>Topic.cl</b>: {Topic.cl}<li><b>Population.cl</b>: {Population.cl}<li><b>Purpose.sec</b>: {Purpose.sec}<li><b>SurveyDetails.sec</b>: {SurveyDetails.sec}<li><b>ActivityDetails.sec</b>: {ActivityDetails.sec}<li><b>StoragePlatform.Name.Full</b>: {StoragePlatform.Name.Full}<li><b>Disclose.MandatoryAgencies.sec</b>: {Disclose.MandatoryAgencies.sec}<li><b>IndependentContact.Name.Full</b>: {IndependentContact.Name.Full}<li><b>StoragePlatform.Name.Short</b>: {StoragePlatform.Name.Short}<li><b>Withdraw.Email</b>: {Withdraw.Email}<li><b>Withdraw.Telephone</b>: {Withdraw.Telephone}<li><b>QuestionsContact.cl</b>: {QuestionsContact.cl}</ol>
