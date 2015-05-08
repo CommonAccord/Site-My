@@ -1,21 +1,13 @@
-=[NDA/Form/NDA_Form_NY.md]
+Conf.Def.=[NDA/Sec/Sec_Definition_ConfInfo_MChanLibrary.md]
 
-MC.=[NDA/Sec/Sec_Definition_ConfInfo_MChanExamples.md]
+Note=Using clause that defines the Disclosing and Receiving Parties:  
 
-Note=Selecting format - (X.2) which is a paragraph with subparagraphs.
-
-Conf.Def.sec={m-}{MC.X.2.sec}{-m}
-
-Note=Selecting Mutual
-
-MC.1.sec={MC.1.1.sec}
-
-Note=Conforming to party handles
+Conf.Def.1.sec={Conf.Def.1.1.sec}
 
 Note=We haven't defined this term
 
 Authorized_Representatives=employees, contractors{q} or other agents  
 
-Note=Selecting term:
+Dispute.=[NDA/Sec/Sec_Dispute_NY_MChan.md]
 
-Conf.Term.sec={m-}{Conf.Term.1.sec}{-m}
+=[NDA/Form/NDA_Form.md]

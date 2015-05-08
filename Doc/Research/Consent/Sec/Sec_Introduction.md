@@ -1,6 +1,6 @@
 1.Ti=TITLE
 
-1.sec={Title.Full}
+1.sec={Study.Title}
 
 2.Ti=PROTOCOL
 

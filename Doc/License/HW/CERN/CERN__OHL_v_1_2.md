@@ -76,7 +76,7 @@ Note=Missing a period at the end of 4.2.  Added it.
 
 4.2.sec=The Licensee is invited to inform any Licensor who has indicated his wish to receive this information about the type, quantity and dates of production of Products the Licensee has (had) manufactured.
 
-4.=[Z/Sec/2]
+4.=[Z/Sec/s2]
 
 5.Ti=Warranty and liability
 

@@ -1,6 +1,6 @@
 Ti=Term of Confidentiality
 
-0.sec={m-}Select one - Conf.Term.X.sec where X is 1-3:{-m}
+0.sec={m-}Select one - Conf.Term.X.Sec where X is 1-3:{-m}
 
 1.sec={The_Receiving_Party}'s obligations with respect to all {Confidential_Information_of_the_Disclosing_Party} will terminate only pursuant to {Conf.Exclude.Xref}.
 

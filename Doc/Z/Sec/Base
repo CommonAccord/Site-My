@@ -140,3 +140,5 @@ blist=<ul type="none" style="padding-left: 0"><li>{secs}</ul>
 null=</i>
 
 Foot.Sec={null}
+
+Xref=Section {Xnum}

@@ -1,5 +1,7 @@
 Ti=Definition of {Confidential_Information}
 
+sec={0.sec}:<ol><li>{1.sec}; <li>{2.sec}; <li>{3.sec}</ol>
+
 0.sec="{Confidential_Information}" as used in {this_Agreement} means any and all information
 
 1.0.sec=Select one Conf.Def.1.X.sec, where X is 1-4
@@ -27,7 +29,5 @@ Ti=Definition of {Confidential_Information}
 3.4.sec=the existence of any business discussions, negotiations or agreements between the parties.
 
 3.=[Z/Sec/s4]
-
-sec={0.sec}:<ol><li>{1.sec}; <li>{2.sec}; and <li>{3.sec}</ol>
 
 =[Z/Sec/0]

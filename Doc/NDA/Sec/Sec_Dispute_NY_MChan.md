@@ -2,17 +2,25 @@ Ti=Dispute Resolution
 
 Law.Ti=Governing Law
 
-Law.0.sec=<b>Select (Law.1.Sec) with or (Law.2.Sec) without choice of law.  (Law.3.Sec is the bare clause.)</b>
+Law.0.sec={e-}Select Law.X.Sec where X is 1-3.  Law.1.Sec is the bare clause;  Law.2.Sec) with choice of law provisions; and Law.3.Sec without choice of law provisions.{-e}
 
-Law.1.sec={Law.Base.Cl}, including its choice of law rules.
+Law.1.sec={Law.Base.Cl}.
 
-Law.2.sec={Law.Base.Cl}, but not including its choice of law rules.
+Law.2.sec={Law.Base.Cl}, including its choice of law rules.
 
-Law.3.sec={Law.Base.Cl}.
+Law.3.sec={Law.Base.Cl}, but not including its choice of law rules.
 
 Law.Base.Cl={This_Agreement}, the rights and obligations of the {parties} hereto{q} and any claims or disputes relating thereto, shall be governed by and construed in accordance with the laws of {State.the}
 
 Law.=[Z/Sec/s3]
+
+Note=Named aliases for the above:
+
+Law.Bare.Sec={Law.1.Sec}
+
+Law.IncludingChoiceOfLaw.Sec={Law.2.Sec}
+
+Law.ExcludingChoiceOfLaw.Sec={Law.3.Sec}
 
 ConsentJuris.Ti=Consent to Jurisdiction
 
