@@ -4,7 +4,7 @@ Name.Last=Trudeau
 
 Name.Full={Name.First} {Name.Last}
 
-Name.PhD=M.D.
+Name.Dr=M.D.
 
 Addr.1=555 Western Avenue
 
@@ -14,4 +14,4 @@ Email=atrudeau@gmail.com
 
 Telephone=1.401.444.1001
 
-=[Research/ID/Base_US]
+=[U/class/ID_She]

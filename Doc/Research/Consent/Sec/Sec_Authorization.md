@@ -18,7 +18,7 @@ Ti=AUTHORIZATION TO USE AND DISCLOSE INFORMATION FOR RESEARCH PURPOSES
 
 3.2.sec=Governmental agencies in other countries,
 
-3.3.sec={IC.Name.Full} or other Institutional Review Board who watch over the safety, effectiveness and conduct of the research,
+3.3.sec={IndependentContact.Name.Full} or other Institutional Review Board who watch over the safety, effectiveness and conduct of the research,
 
 3.4.sec=Others, if the law requires
 

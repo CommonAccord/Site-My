@@ -6,6 +6,6 @@ Addr.1=444 Main Avenue
 
 Addr.2=Portland, OR 97000
 
-Addr.3=United States
+Addr.Nation=United States
 
-=[Research/ID/Base_US]
+=[U/class/ID_Entity]

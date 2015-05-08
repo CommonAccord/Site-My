@@ -15,7 +15,7 @@ Ti=VOLUNTARY PARTICIPATION AND WITHDRAWAL
 2.4.sec=You have a right to download or transfer a copy of all of your own study data.
 By agreeing to participate you do not waive any of your legal rights.
 
-2.5.sec=To withdraw from this study please contact the Study Principal Investigator, {Investigator.Name.Full,PhD}, by email at {Withdraw.Email} or callat  {Withdraw.Telephone}.
+2.5.sec=To withdraw from this study please contact the Study Principal Investigator, {Investigator.Name.Full,Dr}, by email at {Withdraw.Email} or call at  {Withdraw.Telephone}.
 
 2.6.sec=Although you can withdraw from the study at any time, you cannot withdraw the coded study data that have already been distributed. If you withdraw from the study, we will stop collecting new data, but the coded study data that you have already provided, and that have already been distributed will not be able to be destroyed or deleted.
 

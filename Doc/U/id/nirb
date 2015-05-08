@@ -4,8 +4,8 @@ Addr.1=111 Lafayette Avenue, Suite 111
 
 Addr.2=Washington, DC 20001
 
-Telephone=1-800-555-1212
+Phone=1-800-555-1212
 
 Email=contact@nirb.com
 
-=[Research/ID/Base_US]
+=[U/class/ID_Entity]

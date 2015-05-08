@@ -4,9 +4,9 @@
 
 2.Ti=PROTOCOL
 
-2.1.sec=Protocol Number: {Protocol#}
+2.1.sec=Protocol Number: {Study.Protocol#}
 
-2.2.sec=Independent Contact Protocol Number: {IC-Protocol#}
+2.2.sec=Independent Contact Protocol Number: {IndependentContact.Protocol#}
 
 2.=[Z/Sec/s2]
 
@@ -16,7 +16,7 @@
 
 4.Ti=INVESTIGATOR
 
-4.sec={Investigator.N,1,2,3}
+4.sec={Investigator.N,A}
 
 5.Ti=STUDY-RELATED PHONE NUMBER(S)
 
