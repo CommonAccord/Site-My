@@ -16,6 +16,6 @@ Ti=PURPOSE OF THE STUDY
 
 6.sec=We anticipate enrolling 20,000 subjects in the study.
 
-xlist={m-}{Olist}{-m}
+xlist={Olist}
 
 =[Z/Sec/6]
