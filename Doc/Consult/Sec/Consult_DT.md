@@ -1,18 +1,20 @@
 Client={d-}Client{-d}
 
-The_Client=The {d-}Client{-d}
+The_Client=The {Client}
 
-the_Client=the {d-}Client{-d}
+the_Client=the {Client}
 
 Confidential_Information={d-}Confidential Information{-d}
 
 Consultant={d-}Consultant{-d}
 
-the_Consultant=the {d-}Consultant{-d}
+the_Consultant=the {Consultant}
 
-The_Consultant=The {d-}Consultant{-d}
+The_Consultant=The {Consultant}
 
 Deliverables={d-}Deliverables{-d}
+
+Disclosing_Party={Client}
 
 The_Disclosing_Party={The_Client}
 
@@ -27,6 +29,8 @@ Preexisting_IP={d-}Preexisting IP{-d}
 Project_Assignment={d-}Project Assignment{-d}
 
 Project_Assignments={d-}Project Assignments{-d}
+
+Receiving_Party={Consultant}
 
 The_Receiving_Party={The_Consultant}
 

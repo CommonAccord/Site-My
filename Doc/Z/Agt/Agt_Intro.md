@@ -79,7 +79,7 @@ This.sec=This {Doc.Title} (the "{Agreement}") is made as of the {Effective_Date}
 
 Because.Sec={Because.sec}
 
-Because.sec=<ul type="none"><li>{Because.secs}</ul>
+Because.sec=<ul type="none"> <li>{Because.secs}</ul>
 
 That.Sec={That.sec}
 
