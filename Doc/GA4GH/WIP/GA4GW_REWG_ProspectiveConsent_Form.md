@@ -28,17 +28,15 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 1.3.1.sec=Any data that may identify you will be kept in what are called controlled-access databases.
 
-1.3.2.sec=This means researchers must have permission from a review committee to use the data that you and other participants have provided (see section 8.
+1.3.2.sec=This means researchers must have permission from a review committee to use the data that you and other participants have provided (see section 8. How will you protect my privacy?).
 
-1.3.3.sec=How will you protect my privacy?).
+1.3.3.sec=Such approved data may be  shared online with researchers around the world.
 
-1.3.4.sec=Such approved data may be  shared online with researchers around the world.
+1.3.4.sec=The results of studying your data will also be presented at conferences and in scientific publications.
 
-1.3.5.sec=The results of studying your data will also be presented at conferences and in scientific publications.
+1.3.5.sec=You will NOT be identified.
 
-1.3.6.sec=You will NOT be identified.
-
-1.3.=[Z/Sec/b/s6]
+1.3.=[Z/Sec/s5]
 
 1.4.sec=You can learn more information about the organization of this project and general results when they become available at: [project website].
 
@@ -50,9 +48,9 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 1.6.3.sec=Your decision to participate in the study will NOT affect your medical care.
 
-1.6.=[Z/Sec/b/s6]
+1.6.=[Z/Sec/s3]
 
-1.=[Z/Sec/b/s6]
+1.=[Z/Sec/s6]
 
 2.Ti=What is the purpose of this research?
 
@@ -70,7 +68,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 2.1.7.sec=At present, it is generally not possible to predict which changes in DNA lead to disease or health.
 
-2.1.=[Z/Sec/b/s7]
+2.1.=[Z/Sec/s7]
 
 2.2.1.sec=We have also found important differences in DNA between population groups.
 
@@ -78,11 +76,11 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 2.2.3.sec=Thus, the purpose of [name of project] is to [description of project].
 
-2.2.=[Z/Sec/b/s3]
+2.2.=[Z/Sec/s3]
 
 2.3.sec=This is research, and not medical care. You should see a physician for any health problems or medical questions you might have.
 
-2.=[Z/Sec/b/s3]
+2.=[Z/Sec/s3]
 
 3.Ti=What will you ask me to do if I decide to participate?
 
@@ -98,7 +96,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 3.2.=[Z/Sec/s2]
 
-3.=[Z/Sec/b/s2]
+3.=[Z/Sec/s2]
 
 4.Ti=What will happen with the data I give you? 
 
@@ -106,7 +104,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 4.1.2.sec=Your data will be used for international research and may be moved and stored in different countries.
 
-4.1..=[Z/Sec/b/s2]
+4.1.=[Z/Sec/s2]
 
 4.2.0.sec=Over the next [number of years], researchers will:
 
@@ -122,11 +120,11 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 4.3.3.sec=All researchers must respect the laws and ethical guidelines for biomedical research.
 
-4.3.=[Z/Sec/b/s3]
+4.3.=[Z/Sec/s3]
 
 4.4.sec=Your data will be kept for a period of [number of years/identify period OR indefinitely].
 
-4.=[Z/Sec/b/s4]
+4.=[Z/Sec/s4]
 
 5.Ti=Will I be paid to participate?
 
@@ -134,13 +132,15 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 5.1.1.sec=No.
 
+5.1.=[Z/Sec/s2]
+
 5.1.2.sec=You will be reimbursed for any inconvenience such as travel time.
 
 5.2.sec=Some of the research done with the information stored in the databases may one day lead to the development of software, tests, drugs, or other commercial products.
 
 5.3.sec=If this happens, you will not receive any of the profits.
 
-5.=[Z/Sec/b/s3]
+5.=[Z/Sec/s3]
 
 6.Ti=Are there any benefits to participating in the project?
 
@@ -156,7 +156,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 7.4.sec=Like other medical information, this may one day affect your insurability or employment.
 
-7.=[Z/Sec/b/s4]
+7.=[Z/Sec/s4]
 
 8.Ti=How will you protect my privacy?
 
@@ -165,8 +165,6 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 8.1.2.sec=Only approved researchers will have access.
 
 8.1.3.sec=An independent committee will determine whether to grant researchers access to your data.
-
-8.1.=[Z/Sec/b/s5]
 
 8.1.4.sec=Numerous safeguards are in place to keep your information confidential.
 
@@ -194,9 +192,9 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 8.3.4.sec=[Name Data Access Officer] will notify you immediately in the event of a problem with privacy.
 
-8.3.=[Z/Sec/b/s4]
+8.3.=[Z/Sec/s4]
 
-8.=[Z/Sec/b/s4]
+8.=[Z/Sec/s3]
 
 9.Ti=Can I change my mind after I decide to participate?
 
@@ -204,7 +202,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 9.2.sec=You can withdraw by [disclose ways for participant to indicate their withdrawal, e.g., by telephone, by email, by mail and whom to contact]. You will also receive a letter confirming your withdrawal.
 
-9.=[Z/Sec/b/s2]
+9.=[Z/Sec/s2]
 
 10.Ti=How can I find out about the results of the research?
 
@@ -214,7 +212,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 10.3.sec=[Include the local policy on return of individual health results/incidental findings and role of physician where applicable]
 
-10.=[Z/Sec/b/s3]
+10.=[Z/Sec/s3]
 
 11.Ti=Re-contact
 
@@ -228,7 +226,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 12.3.sec=We take all comments seriously and will get back to you as soon as possible. 
 
-12.=[Z/Sec/b/s3]
+12.=[Z/Sec/s3]
 
 =[Z/Sec/12]
 
