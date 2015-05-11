@@ -10,9 +10,17 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 0.4.sec=[Contact information] 
 
+0.=[Z/paras/s4]
+
 1.Ti=Introduction
 
-1.1.sec=We invite you to be part of the [name of project]. This project collaborates with researchers from around the world in studies approved and monitored by [research ethics review committee]. This project is guided by the Framework for Responsible Sharing of Genomic and Health-Related Data [cite URL for relevant website].
+1.1.sec=We invite you to be part of the [name of project].
+
+1.2.sec=This project collaborates with researchers from around the world in studies approved and monitored by [research ethics review committee].
+
+1.3.sec=This project is guided by the Framework for Responsible Sharing of Genomic and Health-Related Data [cite URL for relevant website].
+
+1.=[Z/para/s4]
 
 1.2.0.sec=The [name of project] will include some or all of the following: [describe]
 
@@ -36,7 +44,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 1.3.5.sec=You will NOT be identified.
 
-1.3.=[Z/Sec/s5]
+1.3.=[Z/para/s5]
 
 1.4.sec=You can learn more information about the organization of this project and general results when they become available at: [project website].
 
@@ -48,9 +56,9 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 1.6.3.sec=Your decision to participate in the study will NOT affect your medical care.
 
-1.6.=[Z/Sec/s3]
+1.6.=[Z/para/s3]
 
-1.=[Z/Sec/s6]
+1.=[Z/paras/s6]
 
 2.Ti=What is the purpose of this research?
 
@@ -68,7 +76,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 2.1.7.sec=At present, it is generally not possible to predict which changes in DNA lead to disease or health.
 
-2.1.=[Z/Sec/s7]
+2.1.=[Z/para/s7]
 
 2.2.1.sec=We have also found important differences in DNA between population groups.
 
@@ -76,11 +84,11 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 2.2.3.sec=Thus, the purpose of [name of project] is to [description of project].
 
-2.2.=[Z/Sec/s3]
+2.2.=[Z/para/s3]
 
 2.3.sec=This is research, and not medical care. You should see a physician for any health problems or medical questions you might have.
 
-2.=[Z/Sec/s3]
+2.=[Z/paras/s3]
 
 3.Ti=What will you ask me to do if I decide to participate?
 
@@ -94,9 +102,9 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 3.2.2.sec=[and access to data from stored tissue where applicable].
 
-3.2.=[Z/Sec/s2]
+3.2.=[Z/para/s2]
 
-3.=[Z/Sec/s2]
+3.=[Z/paras/s2]
 
 4.Ti=What will happen with the data I give you? 
 
@@ -104,13 +112,15 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 4.1.2.sec=Your data will be used for international research and may be moved and stored in different countries.
 
-4.1.=[Z/Sec/s2]
+4.1.=[Z/para/s2]
 
 4.2.0.sec=Over the next [number of years], researchers will:
 
 4.2.1.sec=analyse your genetic information using a process called ‘sequencing’; and
 
 4.2.2.sec=study DNA variation
+
+4.2.xlist={4.2.ulist}
 
 4.2.=[Z/Sec/s2]
 
@@ -120,11 +130,11 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 4.3.3.sec=All researchers must respect the laws and ethical guidelines for biomedical research.
 
-4.3.=[Z/Sec/s3]
+4.3.=[Z/para/s3]
 
 4.4.sec=Your data will be kept for a period of [number of years/identify period OR indefinitely].
 
-4.=[Z/Sec/s4]
+4.=[Z/paras/s4]
 
 5.Ti=Will I be paid to participate?
 
@@ -140,7 +150,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 5.3.sec=If this happens, you will not receive any of the profits.
 
-5.=[Z/Sec/s3]
+5.=[Z/para/s3]
 
 6.Ti=Are there any benefits to participating in the project?
 
@@ -156,7 +166,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 7.4.sec=Like other medical information, this may one day affect your insurability or employment.
 
-7.=[Z/Sec/s4]
+7.=[Z/para/s4]
 
 8.Ti=How will you protect my privacy?
 
@@ -178,9 +188,9 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 8.1.5.4.sec=Stringent security measures will prevent unauthorized access or misuse.
 
-8.1.5.=[Z/Sec/s4]
+8.1.5.=[Z/para/s4]
 
-8.1.=[Z/Sec/s5]
+8.1.=[Z/para/s5]
 
 8.2.sec=These safeguards make it difficult to know which personal information came from you or any other participant. However, we cannot guarantee that you will never be re-identified.
 
@@ -192,9 +202,9 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 8.3.4.sec=[Name Data Access Officer] will notify you immediately in the event of a problem with privacy.
 
-8.3.=[Z/Sec/s4]
+8.3.=[Z/para/s4]
 
-8.=[Z/Sec/s3]
+8.=[Z/paras/s3]
 
 9.Ti=Can I change my mind after I decide to participate?
 
@@ -202,7 +212,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 9.2.sec=You can withdraw by [disclose ways for participant to indicate their withdrawal, e.g., by telephone, by email, by mail and whom to contact]. You will also receive a letter confirming your withdrawal.
 
-9.=[Z/Sec/s2]
+9.=[Z/paras/s2]
 
 10.Ti=How can I find out about the results of the research?
 
@@ -212,7 +222,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 10.3.sec=[Include the local policy on return of individual health results/incidental findings and role of physician where applicable]
 
-10.=[Z/Sec/s3]
+10.=[Z/para/s3]
 
 11.Ti=Re-contact
 
@@ -226,7 +236,7 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 12.3.sec=We take all comments seriously and will get back to you as soon as possible. 
 
-12.=[Z/Sec/s3]
+12.=[Z/para/s3]
 
 =[Z/Sec/12]
 
