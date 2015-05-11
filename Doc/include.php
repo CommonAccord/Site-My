@@ -1,0 +1,1 @@
+"A" is for deals &emsp; "U" is a place for persons and places,  &emsp; "X" is a parking space for docs from the eXterior,  &emsp; "Z" is for technical bits.
