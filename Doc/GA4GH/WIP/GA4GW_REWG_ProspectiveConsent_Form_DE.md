@@ -108,13 +108,15 @@ Framework.URL=GA4GH/REWG/Framework/V01
 
 3.Ti=Was wird von mir verlangt werden, wenn ich mich entscheide teilzunehmen?
 
-3.1.0.sec=Wir werden Ihnen zunächst einige Fragen stellen, um festzustellen, ob Sie teilnehmen können. Wenn ja, müssen wir Sie
+3.1.sec=Wir werden Ihnen zunächst einige Fragen stellen, um festzustellen, ob Sie teilnehmen können. 
 
-3.1.1.sec=um Zugriff auf Ihre Krankenakte bitten
+3.2.0.sec=Wenn ja, müssen wir Sie
 
-3.1.2.sec=bitten, einige Fragebögen über ... auszufüllen
+3.2.1.sec=um Zugriff auf Ihre Krankenakte bitten
 
-3.1.3.sec=gegebenfalls um Zugriff auf gespeicherte Daten aus Gewebsproben bitten.
+3.2.2.sec=bitten, einige Fragebögen über ... auszufüllen
+
+3.2.3.sec=gegebenfalls um Zugriff auf gespeicherte Daten aus Gewebsproben bitten.
 
 4.Ti=Was geschieht mit den Daten, die ich Ihnen gebe?
 
@@ -142,7 +144,9 @@ Framework.URL=GA4GH/REWG/Framework/V01
 
 5.1.R.sec=Sie werden für eventuelle Unannehmlichkeiten, wie Reisezeit finanziell entschädigt. {5.1.2.Sen}
 
-5.1.2.sec=Ein Teil der Forschung zusammen mit den in den Datenbanken gespeicherten Informationen kann eines Tages zur Entwicklung neuer Software, Tests, Medikamenten oder anderen kommerziellen Produkten führen. Wenn dies eintrifft, werden Sie keine Beteiligung an den Gewinnen haben.
+5.2.sec=Ein Teil der Forschung zusammen mit den in den Datenbanken gespeicherten Informationen kann eines Tages zur Entwicklung neuer Software, Tests, Medikamenten oder anderen kommerziellen Produkten führen.
+
+5.3.sec=Wenn dies eintrifft, werden Sie keine Beteiligung an den Gewinnen haben.
 
 6.Title=Gibt es Vorteile für die Teilnahme am Projekt?
 
@@ -150,13 +154,13 @@ Framework.URL=GA4GH/REWG/Framework/V01
 
 7.Title=Was sind die Risiken der Teilnahme?
 
-7.1.1.sec=Ähnlich wie bei Fingerabdrücken, besteht die Möglichkeit, eine Person zu identifizieren, wenn bestimmte Daten zusammengeführt werden.
+7.1.sec=Ähnlich wie bei Fingerabdrücken, besteht die Möglichkeit, eine Person zu identifizieren, wenn bestimmte Daten zusammengeführt werden.
 
-7.1.2.sec=Obwohl wir für den Schutz Ihrer Privatsphäre sehr strenge Datenschutzmaßnahmen anwenden, besteht immer ein kleines Risiko, dass Ihre Identität aufgedeckt wird.
+7.2.sec=Obwohl wir für den Schutz Ihrer Privatsphäre sehr strenge Datenschutzmaßnahmen anwenden, besteht immer ein kleines Risiko, dass Ihre Identität aufgedeckt wird.
 
-7.1.3.sec=Da sich Technologie stetig weiterentwickelt, könnten in Zukunft neue Wege der Verknüpfung von Daten und somit der Enthüllung Ihrer Identität führen, welche wir heute nicht vorhersehen können.
+7.3.sec=Da sich Technologie stetig weiterentwickelt, könnten in Zukunft neue Wege der Verknüpfung von Daten und somit der Enthüllung Ihrer Identität führen, welche wir heute nicht vorhersehen können.
 
-7.1.4.sec=Wie auch bei anderen medizinische Informationen, könnte sich dies eines Tages auf Ihre Versicherungsfähigkeit oder Beschäftigung auswirken.
+7.4.sec=Wie auch bei anderen medizinische Informationen, könnte sich dies eines Tages auf Ihre Versicherungsfähigkeit oder Beschäftigung auswirken.
 
 8.Ti=Wie werden Sie meine Privatsphäre schützen?
 
@@ -204,7 +208,7 @@ Framework.URL=GA4GH/REWG/Framework/V01
 
 11.Ti=Re-Kontakt
 
-11.1.sec=Mit Ihrer Erlaubnis, würden wir erneut mit Ihnen Kontakt aufnehmen und Sie einladen, Ihren Fragebogen zu aktualisieren, zusätzliche Daten zur Verfügung zu stellen oder sich an weiteren Forschungsprojekten anderer Forscher zu beteiligen.
+11.sec=Mit Ihrer Erlaubnis, würden wir erneut mit Ihnen Kontakt aufnehmen und Sie einladen, Ihren Fragebogen zu aktualisieren, zusätzliche Daten zur Verfügung zu stellen oder sich an weiteren Forschungsprojekten anderer Forscher zu beteiligen.
 
 12.Title=An wen kann ich mich mit Fragen oder Anliegen wenden?
 

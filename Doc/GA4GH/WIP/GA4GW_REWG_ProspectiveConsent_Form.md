@@ -100,9 +100,9 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 3.2.2.sec=ask you to complete some questionnaires [about…] 
 
-3.2.2.sec=[and access to data from stored tissue where applicable].
+3.2.3.sec=[and access to data from stored tissue where applicable].
 
-3.2.=[Z/para/s2]
+3.2.=[Z/para/s3]
 
 3.=[Z/paras/s2]
 
