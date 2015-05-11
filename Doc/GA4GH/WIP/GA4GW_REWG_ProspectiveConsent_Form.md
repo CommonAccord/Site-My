@@ -26,21 +26,59 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 1.2.=[Z/Sec/s4]
 
-1.3.sec=Any data that may identify you will be kept in what are called controlled-access databases. This means researchers must have permission from a review committee to use the data that you and other participants have provided (see section 8. How will you protect my privacy?). Such approved data may be  shared online with researchers around the world. The results of studying your data will also be presented at conferences and in scientific publications. You will NOT be identified.
+1.3.1.sec=Any data that may identify you will be kept in what are called controlled-access databases.
+
+1.3.2.sec=This means researchers must have permission from a review committee to use the data that you and other participants have provided (see section 8.
+
+1.3.3.sec=How will you protect my privacy?).
+
+1.3.4.sec=Such approved data may be  shared online with researchers around the world.
+
+1.3.5.sec=The results of studying your data will also be presented at conferences and in scientific publications.
+
+1.3.6.sec=You will NOT be identified.
+
+1.3.=[Z/Sec/b/s6]
 
 1.4.sec=You can learn more information about the organization of this project and general results when they become available at: [project website].
 
 1.5.sec=This project has been reviewed by [name of relevant REB/committees]
 
-1.6.sec=If you think you might want to participate in this project, please read the rest of this form and take as much time as you need to ask questions. The decision about whether to participate is completely up to you. Your decision to participate in the study will NOT affect your medical care.
+1.6.1.sec=If you think you might want to participate in this project, please read the rest of this form and take as much time as you need to ask questions.
+
+1.6.2.sec=The decision about whether to participate is completely up to you.
+
+1.6.3.sec=Your decision to participate in the study will NOT affect your medical care.
+
+1.6.=[Z/Sec/b/s6]
 
 1.=[Z/Sec/b/s6]
 
 2.Ti=What is the purpose of this research?
 
-2.1.sec=Genes are the basic “instruction book” for the cells that make up our bodies. All genes are made of DNA.  The DNA of a person is more than 99% the same as the DNA of any other person, but no two people have exactly 100% the same DNA except for identical twins. The complete set of DNA in your body, including all its genes, is called your genome. Although our DNA is very similar to each other, your genomic data is entirely unique. Variations in the genome explain some of the physical differences between people, and partly explain why some develop diseases like cancer, diabetes, asthma, and depression, while others do not. At present, it is generally not possible to predict which changes in DNA lead to disease or health.
+2.1.1.sec=Genes are the basic “instruction book” for the cells that make up our bodies.
 
-2.2.sec=We have also found important differences in DNA between population groups. Only by comparing your DNA and medical data with that of other people can we identify patterns and relationships in the genes, together with the environment, to help us better understand health and disease. Thus, the purpose of [name of project] is to [description of project].
+2.1.2.sec=All genes are made of DNA.
+
+2.1.3.sec=The DNA of a person is more than 99% the same as the DNA of any other person, but no two people have exactly 100% the same DNA except for identical twins.
+
+2.1.4.sec=The complete set of DNA in your body, including all its genes, is called your genome.
+
+2.1.5.sec=Although our DNA is very similar to each other, your genomic data is entirely unique.
+
+2.1.6.sec=Variations in the genome explain some of the physical differences between people, and partly explain why some develop diseases like cancer, diabetes, asthma, and depression, while others do not.
+
+2.1.7.sec=At present, it is generally not possible to predict which changes in DNA lead to disease or health.
+
+2.1.=[Z/Sec/b/s7]
+
+2.2.1.sec=We have also found important differences in DNA between population groups.
+
+2.2.2.sec=Only by comparing your DNA and medical data with that of other people can we identify patterns and relationships in the genes, together with the environment, to help us better understand health and disease.
+
+2.2.3.sec=Thus, the purpose of [name of project] is to [description of project].
+
+2.2.=[Z/Sec/b/s3]
 
 2.3.sec=This is research, and not medical care. You should see a physician for any health problems or medical questions you might have.
 
@@ -48,11 +86,27 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 3.Ti=What will you ask me to do if I decide to participate?
 
-3.sec=We will first ask you a few questions to determine whether you can participate. If yes, we will need access to your medical record and ask you to complete some questionnaires [about…] [and access to data from stored tissue where applicable].
+3.1.sec=We will first ask you a few questions to determine whether you can participate. 
+
+3.2.0.sec=If yes, we will need
+
+3.2.1.sec=access to your medical record and
+
+3.2.2.sec=ask you to complete some questionnaires [about…] 
+
+3.2.2.sec=[and access to data from stored tissue where applicable].
+
+3.2.=[Z/Sec/s2]
+
+3.=[Z/Sec/b/s2]
 
 4.Ti=What will happen with the data I give you? 
 
-4.1.sec=Your data will be stored in controlled-access databases (i.e. a server/cloud provider) that meet international security and safety standards. Your data will be used for international research and may be moved and stored in different countries.
+4.1.1.sec=Your data will be stored in controlled-access databases (i.e. a server/cloud provider) that meet international security and safety standards.
+
+4.1.2.sec=Your data will be used for international research and may be moved and stored in different countries.
+
+4.1..=[Z/Sec/b/s2]
 
 4.2.0.sec=Over the next [number of years], researchers will:
 
@@ -62,7 +116,13 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 4.2.=[Z/Sec/s2]
 
-4.3.sec=Your data will be shared with other researchers around the world and used in future biomedical research projects after ethics approval. These projects can take place in universities, hospitals, nonprofit groups, companies, and/or government laboratories. All researchers must respect the laws and ethical guidelines for biomedical research.
+4.3.1.sec=Your data will be shared with other researchers around the world and used in future biomedical research projects after ethics approval.
+
+4.3.2.sec=These projects can take place in universities, hospitals, nonprofit groups, companies, and/or government laboratories.
+
+4.3.3.sec=All researchers must respect the laws and ethical guidelines for biomedical research.
+
+4.3.=[Z/Sec/b/s3]
 
 4.4.sec=Your data will be kept for a period of [number of years/identify period OR indefinitely].
 
@@ -70,7 +130,17 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 5.Ti=Will I be paid to participate?
 
-5.sec=[No OR You will be reimbursed for any inconvenience such as travel time]. Some of the research done with the information stored in the databases may one day lead to the development of software, tests, drugs, or other commercial products. If this happens, you will not receive any of the profits.
+5.1.0.sec={m-}Select 5.1.sec={ 5.1.X.sec }
+
+5.1.1.sec=No.
+
+5.1.2.sec=You will be reimbursed for any inconvenience such as travel time.
+
+5.2.sec=Some of the research done with the information stored in the databases may one day lead to the development of software, tests, drugs, or other commercial products.
+
+5.3.sec=If this happens, you will not receive any of the profits.
+
+5.=[Z/Sec/b/s3]
 
 6.Ti=Are there any benefits to participating in the project?
 
@@ -78,27 +148,53 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 7.Ti=What are the risks of participating?
 
-7.sec=Much like fingerprints, it is possible to identify someone if certain data are put together. While we use very strict data security measures to protect your privacy, there is always a small risk that your data may lead to you being re-identified. As technology advances, there may be new ways of linking data back to you that we cannot foresee today. Like other medical information, this may one day affect your insurability or employment.
+7.1.sec=Much like fingerprints, it is possible to identify someone if certain data are put together.
+
+7.2.sec=While we use very strict data security measures to protect your privacy, there is always a small risk that your data may lead to you being re-identified.
+
+7.3.sec=As technology advances, there may be new ways of linking data back to you that we cannot foresee today.
+
+7.4.sec=Like other medical information, this may one day affect your insurability or employment.
+
+7.=[Z/Sec/b/s4]
 
 8.Ti=How will you protect my privacy?
 
-8.1.sec=Your data will be stored online, in controlled-access databases. Only approved researchers will have access. An independent committee will determine whether to grant researchers access to your data.
+8.1.1.sec=Your data will be stored online, in controlled-access databases.
 
-8.2.0.sec=Numerous safeguards are in place to keep your information confidential. In particular,
+8.1.2.sec=Only approved researchers will have access.
 
-8.2.1.sec=Personal identifiers will be removed (i.e. name, date of birth, etc.);
+8.1.3.sec=An independent committee will determine whether to grant researchers access to your data.
 
-8.2.2.sec=Your personal details will be kept separate;
+8.1.=[Z/Sec/b/s5]
 
-8.2.3.sec=Your data will be coded; and
+8.1.4.sec=Numerous safeguards are in place to keep your information confidential.
 
-8.2.4.sec=Stringent security measures will prevent unauthorized access or misuse.
+8.1.5.0.sec=In particular,
 
-8.2.=[Z/Sec/s4]
+8.1.5.1.sec=Personal identifiers will be removed (i.e. name, date of birth, etc.);
 
-8.3.sec=These safeguards make it difficult to know which personal information came from you or any other participant. However, we cannot guarantee that you will never be re-identified.
+8.1.5.2.sec=Your personal details will be kept separate;
 
-8.4.sec=Researchers who wish to access the database will be required to apply to [Name Data Access Office] who will examine their credentials and data security plan. They will also make sure the proposed research project is consistent with your consent. You will not be identified if findings from your data are presented at scientific conferences or appear in scientific publications. [Name Data Access Officer] will notify you immediately in the event of a problem with privacy.
+8.1.5.3.sec=Your data will be coded; and
+
+8.1.5.4.sec=Stringent security measures will prevent unauthorized access or misuse.
+
+8.1.5.=[Z/Sec/s4]
+
+8.1.=[Z/Sec/s5]
+
+8.2.sec=These safeguards make it difficult to know which personal information came from you or any other participant. However, we cannot guarantee that you will never be re-identified.
+
+8.3.1.sec=Researchers who wish to access the database will be required to apply to [Name Data Access Office] who will examine their credentials and data security plan.
+
+8.3.2.sec=They will also make sure the proposed research project is consistent with your consent.
+
+8.3.3.sec=You will not be identified if findings from your data are presented at scientific conferences or appear in scientific publications.
+
+8.3.4.sec=[Name Data Access Officer] will notify you immediately in the event of a problem with privacy.
+
+8.3.=[Z/Sec/b/s4]
 
 8.=[Z/Sec/b/s4]
 
@@ -112,7 +208,13 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 10.Ti=How can I find out about the results of the research?
 
-10.sec=It will probably take a long time to interpret the data accurately. You can check the project’s web site at [cite URLs for relevant websites] to read about the project’s progress and to see if there are any general results. [Include the local policy on return of individual health results/incidental findings and role of physician where applicable]
+10.1.sec=It will probably take a long time to interpret the data accurately.
+
+10.2.sec=You can check the project’s web site at [cite URLs for relevant websites] to read about the project’s progress and to see if there are any general results.
+
+10.3.sec=[Include the local policy on return of individual health results/incidental findings and role of physician where applicable]
+
+10.=[Z/Sec/b/s3]
 
 11.Ti=Re-contact
 
@@ -120,7 +222,13 @@ Doc.Title=Generic International Data Sharing Prospective Consent Form
 
 12.Ti=Who can I contact if I have questions or concerns?
 
-12.sec=If you have any questions or concerns, please contact [name of person] free of charge at [insert telephone number] or by mail/email at [insert mailing address and/or email address]. If you wish to  make a complaint about any aspect of this study at any time, please contact [name of person] free of charge at [insert telephone number] or by mail/email at [insert mailing address and/or email address]. We take all comments seriously and will get back to you as soon as possible. 
+12.1.sec=If you have any questions or concerns, please contact [name of person] free of charge at [insert telephone number] or by mail/email at [insert mailing address and/or email address].
+
+12.2.sec=If you wish to  make a complaint about any aspect of this study at any time, please contact [name of person] free of charge at [insert telephone number] or by mail/email at [insert mailing address and/or email address].
+
+12.3.sec=We take all comments seriously and will get back to you as soon as possible. 
+
+12.=[Z/Sec/b/s3]
 
 =[Z/Sec/12]
 
