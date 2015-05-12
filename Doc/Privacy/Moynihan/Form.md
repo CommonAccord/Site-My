@@ -6,7 +6,7 @@ We.provides=online and mobile services, including but not limited to, the Compan
 
 0.2.sec=This Privacy Policy (this "Policy") is subject to the provisions our Terms of Use (the "Terms of Use"), which are incorporated by reference. To see the Terms of Use click here {url}.
 
-0.=[Z/Sec/b/s2]
+0.=[Z/paras/s2]
 
 1.Ti=What Personal Information We Collect
 
@@ -18,7 +18,7 @@ We.provides=online and mobile services, including but not limited to, the Compan
 
 1.3.sec=Information that you add manually to the Service is stored in your Company User Account.
 
-1.=[Z/Sec/b/s3]
+1.=[Z/Sec/s3]
 
 2.Ti=How We Use Your Personal Information
 
@@ -34,7 +34,7 @@ We.provides=online and mobile services, including but not limited to, the Compan
 
 2.5.sec=Perform internal market research, project planning, troubleshooting problems, and to detect and protect against error, fraud or other criminal activity.
 
-2.=[Z/Sec/b/s5]
+2.=[Z/Sec/s5]
 
 3.Ti=Disclosure to Third Parties
 
@@ -44,7 +44,7 @@ We.provides=online and mobile services, including but not limited to, the Compan
 
 3.3.sec=We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our Terms of Use or protect our operations or users or if we are required to do so by any applicable law, rule, regulation, subpoena or other legal process. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
 
-3.=[Z/Sec/b/s3]
+3.=[Z/Sec/s3]
 
 4.Ti=Use of Aggregated Anonymous User Data
 
@@ -56,7 +56,7 @@ We.provides=online and mobile services, including but not limited to, the Compan
 
 4.3.sec=Advertisers and other third parties for their marketing and promotional purposes.
 
-4.=[Z/Sec/b/s3]
+4.=[Z/Sec/s3]
 
 5.Ti=Cookies and Other Technology
 
@@ -70,7 +70,7 @@ We.provides=online and mobile services, including but not limited to, the Compan
 
 5.5.sec=We may use third party service providers to help us analyze certain online activities and improve our products and the Service. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on {Company.com}. We may permit these service providers to use cookies and other technologies to perform these services for Company. We do not share any personal information about our customers with these third party service providers, and these service providers do not collect such information on our behalf. Our third party service providers are required to comply fully with this Policy.
 
-5.=[Z/Sec/b/s5]
+5.=[Z/Sec/s5]
 
 6.Ti=Information You Elect to Share With Others
 
@@ -96,7 +96,7 @@ We.provides=online and mobile services, including but not limited to, the Compan
 
 10.3.sec=Opting out in this manner will not end transmission of service-related emails, such as email alerts.
 
-10.=[Z/Sec/b/s3]
+10.=[Z/Sec/s3]
 
 11.Ti=Data Security
 
@@ -106,7 +106,7 @@ We.provides=online and mobile services, including but not limited to, the Compan
 
 11.3.sec=It is important to understand that these precautions apply only to our Site and systems. We exercise no control over how your information is stored, maintained or displayed by third parties or on third-party sites.
 
-11.=[Z/Sec/b/s3]
+11.=[Z/Sec/s3]
 
 12.Ti=International Users
 
@@ -114,7 +114,7 @@ We.provides=online and mobile services, including but not limited to, the Compan
 
 12.2.sec=If you have a security related concern, please contact us at {address}.
 
-12.=[Z/Sec/b/s2]
+12.=[Z/Sec/s2]
 
 13.Ti=Updates to this Policy
 
