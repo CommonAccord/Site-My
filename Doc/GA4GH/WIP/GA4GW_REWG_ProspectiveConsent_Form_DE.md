@@ -140,9 +140,11 @@ Framework.URL=GA4GH/REWG/Framework/V01
 
 5.Ti=Werde ich für die Teilnahme bezahlt?
 
-5.1.N.sec=Sie werden <b> nicht </b> finanziell entschädigt oder bezahlt werden. {5.1.2.Sen}
+5.1.0.sec=Wahlen Sie: 
 
-5.1.R.sec=Sie werden für eventuelle Unannehmlichkeiten, wie Reisezeit finanziell entschädigt. {5.1.2.Sen}
+5.1.1.sec=Sie werden <b> nicht </b> finanziell entschädigt oder bezahlt werden.
+
+5.1.2.sec=Sie werden für eventuelle Unannehmlichkeiten, wie Reisezeit finanziell entschädigt.
 
 5.2.sec=Ein Teil der Forschung zusammen mit den in den Datenbanken gespeicherten Informationen kann eines Tages zur Entwicklung neuer Software, Tests, Medikamenten oder anderen kommerziellen Produkten führen.
 

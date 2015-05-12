@@ -20,6 +20,6 @@ Note=Assign prohibited by P2, void, benefit Supplier only
 
 Misc.Assign.secs={e-}{Misc.Assign.1.2.sec}<li>{Misc.Assign.2.1.sec}<li>{Misc.Assign.3.2.sec}{-e}
 
-=[-Re/Acme-Quake/01-BasicTermsForRelationship.md]
+=[A/Acme-Quake/01-BasicTermsForRelationship.md]
 
 =[NDA/Form/NDA_Form_NY_WithMChanDefinition.md]
