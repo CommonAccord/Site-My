@@ -26,4 +26,10 @@ Ti=List of @iang_fc fields
 
 6.sec={Location.Addr.1,2,UK}
 
+entity.a={thingID}
+
+thingID=THING-{GUID-ZT}
+
 =[Z/Sec/6]
+
+=[U/class/ID]
