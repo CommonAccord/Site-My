@@ -28,4 +28,6 @@ Note=Assign prohibited by P2, void, benefit Supplier only
 
 Misc.Assign.secs={e-}{Misc.Assign.1.2.sec}<li>{Misc.Assign.2.1.sec}<li>{Misc.Assign.3.2.sec}{-e}
 
+Law.State.the={e-}the Commonwealth of Massachusetts{-e}
+
 =[NDA/Form/NDA_Form_P1-2-P2.md]
