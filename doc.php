@@ -1,7 +1,7 @@
 <?php
 $document = `perl parser-print.pl $path/$dir`;
 
-$minDocLength = 105;
+$minDocLength = 1;
 
 if (strlen($document) > $minDocLength){  
   echo $document;}
