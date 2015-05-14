@@ -2,7 +2,9 @@ Model.Root={Sec}
 
 Sec={SautDePage}<br>{Fait.sec}<br>{Parties.xliste}
 
-Fait.sec=Fait à {Accord.Sign.Lieu}, le {Accord.Sign.Date},
+Fait.sec=Fait à {Accord.Sign.Lieu}, le {Accord.Sign.Date}, en {Accord.exemplaires#} exemplaires originaux
+
+Accord.exemplaires#=deux
 
 Parties.xliste={Parties.Liste.2}
 

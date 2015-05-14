@@ -64,4 +64,4 @@ Attach.Block={null}
 
 PageName=Accord/AdC/CNRS_AdC_Demo.md
 
-=[FR/Accord/AdC/CNRS_AdC_Etranger_Forme.01.md]
+=[FR/Accord/AdC/CNRS_AdC_Unilateral_Etranger.md]
