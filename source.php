@@ -16,7 +16,7 @@ echo " <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>Org$rootdi
  echo " <a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX>Render the Document</a>
   &emsp;  &emsp;  &emsp; " ;
 
- echo " <a href=$_SERVER[PHP_SELF]?action=missingfields&file=$rootdir[dirname]/$filenameX>List of Missing Fields</a>
+ echo " <a href=$_SERVER[PHP_SELF]?action=missingfields&file=$rootdir[dirname]/$filenameX>Open Completions</a>
   &emsp;  &emsp;  &emsp; " ;
 
 echo "<a href=https://github.com/$GitHubRepo/blob/master/Doc/$rootdir[dirname]/$filenameX>See at GitHub</a>

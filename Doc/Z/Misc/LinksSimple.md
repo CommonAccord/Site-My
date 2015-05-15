@@ -1,4 +1,4 @@
-These are simple links.  The need for GitHub links is less compelling because there are buttons on the top.
+Note=These are simple links.  The need for GitHub links is less compelling because there are buttons on the top.
 
 d-=<a href=""><font color="green">
 

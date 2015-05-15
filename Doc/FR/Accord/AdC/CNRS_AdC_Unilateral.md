@@ -1,28 +1,20 @@
 Note=https://www.dgdr.cnrs.fr/daj/modele/contrat/doc/MODELE1_AC_UNILATERAL_FRANCAIS.pdf ( dans sa version Word )
 
-Doc.Title=Accord de confidentialité
+Titre=Accord de confidentialité
  
-Préambule
-
-Il permet de cerner précisément les motivations des Parties, les objectifs qu’elles poursuivent en communiquant des Informations Confidentielles. Le préambule contribue ainsi à la protection des Informations Confidentielles en encadrant strictement le contexte de leur communication et de leur utilisation.
-
 Note=Dans l'original - les Considèrants ... "le Laboratoire", sans definition.
  
-Que.=[Z/Sec/s4]
-
-Que.0.sec=Exemples
-
 Que.1.sec=Considérant que {P1.le/la} mène des travaux de recherche concernant …. et que {P2.le/la}, spécialisée dans le domaine de ………, est intéressée par cette technologie
 
 Que.2.sec=Considérant que le {P1.le/la} possède des compétences et un savoir-faire dans le domaine … et que {P2.le/la} souhaite évaluer l’intérêt que présente pour elle ce savoir-faire … 
 
 Que.3.sec=Considérant que {P1.le/la} possède des compétences dans le domaine … et que {Visiteurs.cl} souhaite visiter telle partie du Laboratoire afin d’évaluer l’intérêt que présente pour la société le savoir-faire {P1.du/de_la} sur tels équipements … 
 
-Les informations contenues dans le préambule ont la même valeur juridique que les dispositions principales]
-
 Que.4.sec=Dans ce cadre, {P1.le/la} souhaite protéger les Informations Confidentielles dont la communication {P2.au/à_la} serait nécessaire.
 
-Les Parties conviennent 
+Que.=[Z/Sec/s4]
+
+/=Les Parties conviennent 
 
 1.Ti=Article 1 – Définitions
 

@@ -86,6 +86,8 @@ Amie6.sec={Amie6.N,E,A} ("{Amie6.Role}")
 
 Date.Sec=DATE EFFECTIVE: {Accord.Sign.Date} (la « {Date_de_l'Accord} » )
 
-Que.Sec=<ul type="none"><li>{Que.secs}</ul>
+Que.Sec={Que.sec}
+
+Que.sec=<ul type="none"><li>{Que.secs}</ul>
 
 Conviennent.sec=il a été convenu ce qui suit :
