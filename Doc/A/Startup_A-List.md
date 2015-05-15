@@ -1,6 +1,6 @@
 Ti=Startup
 
-Note the list from Docracy=[$http://www.docracy.com/topic/0ayx3g5yeq2/funding-documents-for-startups?startPdfDownload=false]
+Note the list from Docracy=http://www.docracy.com/topic/0ayx3g5yeq2/funding-documents-for-startups?startPdfDownload=false
 
 Founder.=[Startup/Founder/Founder_Outline.md]
 

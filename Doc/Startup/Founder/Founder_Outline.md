@@ -1,3 +1,5 @@
+Note=Headings borrowed from http://www.docracy.com/6348/founders-agreement-template by Zeke Vermillion
+
 Doc.Title=Founders' Agreement
 
 1.Ti=The Project
