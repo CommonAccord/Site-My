@@ -11,3 +11,7 @@ Note=As an example of what this tree permits, we make an NDA form with MChan def
 Model.Root={Mutual.Doc}
 
 Mutual.Conf.Def.Sec=<font color="red">{MChan.Conf.Def.Sec}</font>
+
+Note=Select definitions of parties for Mutual.
+
+MChan.Conf.Def.1.sec=<font color="orange">{MChan.Conf.Def.1.1.sec}</font>
