@@ -1,4 +1,4 @@
-1.=[Startup/YC/Sales/YC_Sales_TC.01.md]
+1.=[Startup/YC/Sales/YC_Sales_TC.md]
 
 Note=Here is a top level outline that is drawn from the YC doc, with a few details. For inspiration and populating.
 

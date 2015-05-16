@@ -62,11 +62,11 @@ DocBody={Doc}
 
 Foot.Sec=<hr><hr>{TC.Doc}
 
-TC.=[Startup/YC/Sales/YC_Sales_TC.01.md]
+TC.=[Startup/YC/Sales/YC_Sales_TC.md]
 
 MessageToUser=From {PageName}
 
-PageName=Startup/YC/Sales/YC_Sales_Form.01.md
+PageName=Startup/YC/Sales/YC_Sales_Form.md
 
 P1.Handle=Company
 

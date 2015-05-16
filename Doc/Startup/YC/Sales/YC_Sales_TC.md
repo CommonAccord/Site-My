@@ -1,4 +1,4 @@
-Title=TERMS AND CONDITIONS 
+Doc.Title=TERMS AND CONDITIONS 
 
 1.Ti=SaaS Services and Support
 
@@ -143,7 +143,7 @@ Misc.Press.Sen=The parties shall work together in good faith to issue at least o
 
 Note=OPTIONAL: there are several variations on these concepts that could be used as a starting point, but start-ups should typically expect resistance from large customers on these points]
 
-=[Z/Agt/Doc.md]
+DocBody={Doc}
 
 =[Z/Sec/9] 
 
