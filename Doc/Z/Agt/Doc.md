@@ -1,7 +1,11 @@
 DocBody={Doc}
 
-0.sec={Intro.sec}
+0.sec={Intro.Sec}
 
-90.sec={End.sec}
+Intro.Sec=<br>{Intro.sec}<br>
+
+90.sec={End.Sec}
+
+End.Sec=<br>{End.sec}<br>
 
 =[Z/Sec/Base]
