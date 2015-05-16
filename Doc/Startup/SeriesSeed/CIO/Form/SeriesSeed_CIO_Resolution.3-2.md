@@ -20,4 +20,8 @@ Co.Name.Full.Initial={Co.Name.Full}
 
 =[Z/Sec/s4]
 
+Foot.Sec=<hr><hr><center><h3>Exhibit A</h3></center><br>{COI.Doc}
+
 DocBody={Doc}
+
+COI.=[Startup/SeriesSeed/CIO/Form/SeriesSeed_CIO_Form.3-2.md]
