@@ -46,7 +46,7 @@ Ti=Agreements
 
 3.5.Ti=Foot
 
-3.5.sec=This is ordinarily for attachments, such as Exhibits and Schedules.  This section rollsover to null, so it won't appear unless youp put something in as <br>Foot.Sec= ...
+3.5.sec=This is ordinarily for attachments, such as Exhibits and Schedules.  This section rolls over to null, so it won't appear unless you put something in as <br>Foot.Sec= ...
 
 3.=[Z/Sec/5]
 
