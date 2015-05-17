@@ -1,10 +1,10 @@
 DocBody={Doc}
 
-0.sec={Intro.Sec}
+0.Sec={Intro.Sec}
 
 Intro.Sec=<br>{Intro.sec}<br>
 
-90.sec={End.Sec}
+90.Sec={End.Sec}
 
 End.Sec=<br>{End.sec}<br>
 

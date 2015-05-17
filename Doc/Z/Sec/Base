@@ -10,7 +10,15 @@ Head.sec={Doc.Title}
 
 Sec=<b>{Ti}</b><br>{sec}
 
-sec={0.sec} {xlist} {90.sec}
+sec={0.Sec} {xlist} {90.Sec}
+
+0.Sec={0.sec}
+
+0.sec=</i>
+
+90.Sec={90.sec}
+
+90.sec=</i>
 
 xlist={Olist}
 
@@ -51,11 +59,7 @@ Blist=<ul type="none" style="padding-left: 0"><li>{Secs}</ul>
 
 blist=<ul type="none" style="padding-left: 0"><li>{secs}</ul>
 
-/Note=backwards compatibility - please use 0.sec in future
-
-0.sec=<b></b>
-
-90.sec=<b></b>
+Note=This avoids the need for cluttering a list with a separate Z/Sec/0 for each section that has only a simple sec text. 
 
 1.=[Z/Sec/SubSec]
 
