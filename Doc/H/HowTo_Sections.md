@@ -4,6 +4,8 @@ Ti=Sections
 
 0.2.sec=The base is a "Section," which can be either "Sec" for a section with a title or "sec" for a section without a title.
 
+0.Sec={0.sec}
+
 0.=[Z/paras/s2]
 
 1.Ti=Sec
