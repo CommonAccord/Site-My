@@ -30,9 +30,9 @@ Ti=Agreements
 
 3.2.0.sec=Intro.Sec usually is fulfilled by Z/Agt/Agt_Intro.md which has a full structure of:
 
-3.2.1.sec=A place for party identification, and for identification of any non-party persons who need to be identified.  There is a large kit of resources for parties up to 6 and for "friends" up to 6, but it the default is to rollover to 2 parties only. 
+3.2.1.sec=A place for party identification, and for identification of any non-party persons who need to be identified.  There is a large kit of resources for parties up to 6 and for "friends" up to 6, but the default is simple, it is parameterized for 2 parties only, w/out "friends." 
 
-3.2.2.sec="This agreement...", Whereas, and Therefore the parties agree that ...."  We call them Intro.This.sec, Intro.Because.Sec and Intro.That.sec.  Intro.Because.Sec can be eliminated by defining as null, or will roll over into Intro.Because.sec, which will add spacing and intent, and roll over to "Whereas" and Intro.Because.secs.  So you can add: <br> Intro.Because.secs=Seller has a house; &lt;li>Buyer wants a house; and &lt;li>The parties agree to sell and buy on the terms of this agreement.
+3.2.2.sec="This agreement...", Whereas, and Therefore the parties agree that ...."  We call them Intro.This.sec, Intro.Because.Sec and Intro.That.sec.  Intro.Because.Sec can be eliminated by defining as null, or will roll over into Intro.Because.sec, which will add spacing and intent, and roll over to "Whereas" and Intro.Because.secs.  So you can add: <br> Intro.Because.secs=Seller has a house; <li>Buyer wants a house; and <li>The parties agree to sell and buy on the terms of this agreement. 
 
 3.2.=[Z/Sec/s2]
 
@@ -42,7 +42,7 @@ Ti=Agreements
 
 3.4.Ti=End
 
-3.4.sec=This has the usual "Now Therefore" kind of language and hooks for signature.  Signature blocks can be largely automated. 
+3.4.sec=This has the usual "Now Therefore" kind of language and hooks for signature.  Signature blocks can be largely automated, including for the differences needed for an individual signing for themself vs an individual signing for an organization.  There is also a large kit of signature blocks, up to 6, in table format. 
 
 3.5.Ti=Foot
 
@@ -52,6 +52,6 @@ Ti=Agreements
 
 4.Ti=Improvement
 
-4.sec=There is a lot of experience in these, especially the Sections.  But there may still be some inconsistencies to be weeded out. Overall, once you get the idea, working with this turns out to be easy about 95% of the time.  The last 5% can sometimes be tough, but it alwasy turns out to be doable if you override enough. 
+4.sec=There is a lot of experience in these, especially the Sections.  But there may still be some inconsistencies to be weeded out. Overall, once you get the idea, working with this turns out to be easy about 95% of the time.  The last 5% can sometimes be tough, but it always turns out to be doable if you override enough. 
 
 =[Z/Sec/4]
