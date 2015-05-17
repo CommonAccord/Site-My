@@ -12,4 +12,4 @@ P2.Handle={Consultant}
 
 Consultant={m-}Supplier{-m}
 
-Intro.Because.secs={m-}Whereas, {P1.the} wishes for {P2.the} to provide analysis and advice on water use optimization. {-m}
+Intro.Because.secs={m-}{P1.The} wishes for {P2.the} to provide analysis and advice on water use optimization. {-m}

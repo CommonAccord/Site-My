@@ -1,6 +1,6 @@
 Agt.Effective.YMD={e-}May 7, 2015{-e}
 
-Because.secs={e-}To protect {P1.the}'s {Confidential_Information} in the course of work done by {P2.the}.{-e}
+Because.secs={e-}The {parties} wish to protect {P1.the}'s {Confidential_Information} in the course of work done by {P2.the}.{-e}
 
 Confidentiality.End.YMD={e-}December 31, 2019{-e}
 

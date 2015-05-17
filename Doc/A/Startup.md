@@ -16,4 +16,4 @@ Privacy.=[A/Privacy.md]
 
 SaaS.=[A/SaaS.md]
 
-Invest.=[A/Startup_Invest.md]  Ti=Startup
+Invest.=[A/Startup_Invest.md]

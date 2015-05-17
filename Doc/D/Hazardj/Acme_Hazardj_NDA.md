@@ -4,7 +4,7 @@ P2.=[U/id/hazardj]
 
 =[NDA/Form/NDA_Form_P1-2-P2.md]
 
-Intro.Because.sec={P2.The} is a founder of {P1.the} and the parties wish to provide that all information relating to {P1.the} that {P2.the} develops or learns will solely benefit {P1.the}
+Intro.Because.secs={P2.The} is a founder of {P1.the} and the parties wish to provide that all information relating to {P1.the} that {P2.the} develops or learns will solely benefit {P1.the}.
 
 P1.Handle=Company
 

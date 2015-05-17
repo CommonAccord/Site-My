@@ -1,6 +1,6 @@
 Ti=Copyright Licenses
 
-1.=[A/License_Copyright]
+1.=[A/License_Copyright.md]
 
 2.=[?http://www.commonaccord.org/index.php?action=list&file=./CreativeCommons/License/4_0/]
 

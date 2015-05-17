@@ -36,7 +36,6 @@ P5.sec={P5.N,E,A} ("{P5.Handle}")
 
 P6.sec={P6.N,E,A} ("{P6.Handle}") 
  
-
 Friends.Sec=<b>{Friends.Ti}</b>{Friends.xlist}
 
 Friends.Ti=Third Parties referenced but not party to this {Agreement}:
@@ -77,9 +76,9 @@ This.Sec={This.sec}
 
 This.sec=This {Doc.Title} (the "{Agreement}") is made as of the {Effective_Date} by and between the {parties}.
 
-Because.Sec={Because.sec}
+Because.Sec=<ul type="none"> <li>{Because.sec}</ul>
 
-Because.sec=<ul type="none"> <li>{Because.secs}</ul>
+Because.sec=<b>Whereas</b><ul type="none">{Because.secs}</ul>
 
 That.Sec={That.sec}
 
