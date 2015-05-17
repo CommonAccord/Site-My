@@ -1,7 +1,7 @@
 Ti=List of lists
 
-1.=[FR/A/Pépinière.md]
+Startup.=[A/Startup.md]
 
-2.=[A/Startup.md]
+License.=[A/License_Copyright.md]
 
-3.=[A/License_Copyright.md]
+FR.=[FR/A/Pépinière.md]

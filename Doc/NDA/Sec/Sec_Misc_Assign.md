@@ -1,6 +1,6 @@
 Ti=Successors and Assigns
 
-1.0.sec=<font color="red">Misc_Assign 1.sec - choose one:</font>
+1.0.sec=<font color="red">Misc.Assign.1.sec - choose one:</font>
 
 1.1.sec=A {party} shall not subcontract or otherwise delegate or assign {this_Agreement} or any of its obligations under {this_Agreement} without the other {party}'s prior written consent.
 
@@ -10,7 +10,7 @@ Ti=Successors and Assigns
 
 1.=[Z/Sec/s3]
 
-2.0.sec=<font color="red">Misc_Assign 2.sec - choose one:</font>
+2.0.sec=<font color="red">Misc.Assign.2.sec - choose one:</font>
 
 2.1.sec={2.Base.Cl}.
 
@@ -22,7 +22,7 @@ Ti=Successors and Assigns
 
 2.=[Z/Sec/s2]
 
-3.0.sec=<font color="red">Misc_Assign 3.sec - choose one:</font>
+3.0.sec=<font color="red">Misc.Assign.3.sec - choose one:</font>
 
 3.1.sec=Subject to the foregoing, {this_Agreement} will be for the benefit of each {party}'s successors and assigns, and will be binding on each {party}'s assignees.
 
@@ -52,4 +52,4 @@ Note=Binding only P1.
 
 Alt-4.sec={1.3.sec} {2.1.sec} {3.3.sec}
 
-=[Z/Sec/s4]
+=[Z/Sec/s3]

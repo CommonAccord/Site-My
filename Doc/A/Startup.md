@@ -4,8 +4,6 @@ Note the list from Docracy=http://www.docracy.com/topic/0ayx3g5yeq2/funding-docu
 
 Founder.=[Startup/Founder/Founder_Outline.md]
 
-Note=IP, et al.
-
 NDA.=[A/Startup_NDA.md]
 
 Consult.=[Consult/Form/Consult_Form.md]
