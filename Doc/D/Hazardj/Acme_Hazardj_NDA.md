@@ -19,3 +19,13 @@ Misc.Assign.1.sec={m-}{Misc.Assign.1.2.sec}{-m}
 Misc.Assign.2.sec={m-}{Misc.Assign.2.2.sec}{-m}
 
 Misc.Assign.3.sec={m-}{Misc.Assign.3.2.sec}{-m}
+
+Agt.Effective.YMD={m-}May 17, 2015{-m}
+
+Term.End.YMD={m-}December 31, 2020{-m}
+
+Term.2.sec={m-}{This_Agreement} may be terminated at any time by {P1.the}, but only by a vote of two-thirds of the Board of {P1.the}.{-m}
+
+NoticePeriod.TimeSpan={m-}90 days{-m}
+
+Law.State.the={m-}the Commonwealth of Massachusetts{-m}
