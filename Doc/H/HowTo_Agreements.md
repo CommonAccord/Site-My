@@ -32,7 +32,7 @@ Ti=Agreements
 
 3.2.1.sec=A place for party identification, and for identification of any non-party persons who need to be identified.  There is a large kit of resources for parties up to 6 and for "friends" up to 6, but the default is simple, it is parameterized for 2 parties only, w/out "friends." 
 
-3.2.2.sec="This agreement...", Whereas, and Therefore the parties agree that ...."  We call them Intro.This.sec, Intro.Because.Sec and Intro.That.sec.  Intro.Because.Sec can be eliminated by defining as null, or will roll over into Intro.Because.sec, which will add spacing and intent, and roll over to "Whereas" and Intro.Because.secs.  So you can add: <br> Intro.Because.secs=Seller has a house; <li>Buyer wants a house; and <li>The parties agree to sell and buy on the terms of this agreement. 
+3.2.2.sec="This agreement...", Whereas, and Therefore the parties agree that ...."  We call them Intro.This.sec, Intro.Because.Sec and Intro.That.sec.  Intro.Because.Sec can be eliminated by defining as null, or will roll over into Intro.Because.sec, which will add spacing and intent, and roll over to "Whereas" and Intro.Because.secs.  So you can add: <br> Intro.Because.secs=Seller has a house; %lt;li>Buyer wants a house; and %lt;li>The parties agree to sell and buy on the terms of this agreement. 
 
 3.2.=[Z/Sec/s2]
 
