@@ -1,3 +1,5 @@
+Model.Root={N,E,A}
+
 Nom=Acme
 
 FormeJuridique=SARL

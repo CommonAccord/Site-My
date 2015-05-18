@@ -39,12 +39,12 @@ foreach($files as $f) {
         if(is_dir($path.$dir.$f)) {
                 if( !( ($f == '.') || ($f == '..') || ($f == '.git')) ) {
 
-                        echo "<br><img height=15 src='assets/folder.png'><a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/>$f</a>";
+                        echo "<br><a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/><img height=20 src='assets/folder.png'> $f</a>";
                 }
         }
         else {
                 if( !( ($f == 'include.php') || preg_match('/^\./', $f) ) ) {
-                        echo "<br><img height=15 src='assets/play.png'><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f>$f</a>";
+                        echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f><img height=20 src='assets/play.png'> $f</a>";
                 }
         }
 }
