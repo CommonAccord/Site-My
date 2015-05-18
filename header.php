@@ -17,5 +17,3 @@
 
 </head>
 <html><body>
-<div id="header">
-</div>
