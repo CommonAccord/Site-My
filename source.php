@@ -10,7 +10,7 @@ include("header.php");
 
 //This displays the path, current file name, and provides the edit and show options //
 
-echo "<h2>
+echo "<h4>
 
 <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>Org$rootdir[dirname]</a>/<b>$filenameX</b>
 &emsp; &emsp; &emsp;
@@ -22,7 +22,7 @@ echo "<h2>
   &emsp; 
 
 <a href=https://github.com/$GitHubRepo/blob/master/Doc/$rootdir[dirname]/$filenameX>GitHub</a>
-</h2>
+</h4>
 ";
 
 
