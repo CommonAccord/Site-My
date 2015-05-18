@@ -1,6 +1,6 @@
 Ti=Startup
 
-Goal=Let's create a solution of legal documents for startups.  We'll do this by making a list of useful documents, putting some models up, systematizing them, forking for different use cases.
+Goal=Let's create a solution of legal documents for startups.  We'll do this by making a list of useful documents, putting some models up, systematizing them, forking for different use cases.  Critical to this is (per @mdangear) feedback and use from by startups and incubators.
 
 Sources=[A/Startup_OtherSites.md]
 
