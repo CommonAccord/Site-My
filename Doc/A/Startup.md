@@ -1,6 +1,10 @@
 Ti=Startup
 
-Note the list from Docracy=http://www.docracy.com/topic/0ayx3g5yeq2/funding-documents-for-startups?startPdfDownload=false
+Goal=Let's create a solution of legal documents for startups.  We'll do this by making a list of useful documents, putting some models up, systematizing them, forking for different use cases.
+
+Sources=[A/Startup_OtherSites.md]
+
+Note=Borrowing from the list from <a href="http://www.docracy.com/topic/0ayx3g5yeq2/funding-documents-for-startups?startPdfDownload=false">Docracy</a>
 
 Founder.=[Startup/Founder/Founder_Outline.md]
 
