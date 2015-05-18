@@ -56,7 +56,7 @@ Doc.Title=CONTRAT DE PRESTATION DE SERVICES
 
 =[Z/Sec/4]
 
-Les numeros des sections sont en format Ti (titre) "Article 4 - Ex....".  Donc on utilise le "none" list type, sans nombres.
+Note=Les numeros des sections sont en format Ti (titre) "Article 4 - Ex....".  Donc on utilise le "none" list type, sans nombres.
 
 xlist={Nlist}
 
