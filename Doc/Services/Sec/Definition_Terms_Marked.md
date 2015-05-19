@@ -1,81 +1,85 @@
-6.1.3={m-}6.1.3.{-m}
+6.1.3={d-}6.1.3.{-d}
 
-Affiliate={m-}Affiliate{-m}
+Affiliate={d-}Affiliate{-d}
 
-Affiliates={m-}Affiliates{-m}
+Affiliates={d-}Affiliates{-d}
 
-Change Order={m-}Change Order{-m}
+Change Order={d-}Change Order{-d}
 
-Company={m-}Company{-m}
+Company={d-}Company{-d}
 
-Company Affiliate={m-}Company Affiliate{-m}
+Company Affiliate={d-}Company Affiliate{-d}
 
-Company or its Affiliates={m-}Company or its Affiliates{-m}
+Company or its Affiliates={d-}Company or its Affiliates{-d}
 
-Company or one of its Affiliates={m-}Company or one of its Affiliates{-m}
+Company or one of its Affiliates={d-}Company or one of its Affiliates{-d}
 
-Company and its Affiliates={m-}Company and its Affiliates{-m}
+Company and its Affiliates={d-}Company and its Affiliates{-d}
 
-Company Employment Data Protection Standards={m-}Company Employment Data Protection Standards{-m}
+Company Employment Data Protection Standards={d-}Company Employment Data Protection Standards{-d}
 
-Company Personal Data={m-}Company Personal Data{-m}
+Company Personal Data={d-}Company Personal Data{-d}
 
-Company Property={m-}Company Property{-m}
+Company Property={d-}Company Property{-d}
 
-CWD={m-}Contingent Workers Database{-m}
+CWD={d-}Contingent Workers Database{-d}
 
-Data Subject={m-}Data Subject{-m}
+Data Subject={d-}Data Subject{-d}
 
-Data Subjects={m-}Data Subjects{-m}
+Data Subjects={d-}Data Subjects{-d}
 
-Effective Date={m-}Effective Date{-m}
+Effective Date={d-}Effective Date{-d}
 
-Expiration Date={m-}Expiration Date{-m}
+Expiration Date={d-}Expiration Date{-d}
 
-Intellectual Property={m-}Intellectual Property{-m}
+Intellectual Property={d-}Intellectual Property{-d}
 
-IP Rights={m-}IP Rights{-m}
+IP Rights={d-}IP Rights{-d}
 
-MSA={m-}MSA{-m}
+MSA={d-}MSA{-d}
 
-Other Company Databases={m-}Other Company Databases}{-m}
+Other Company Databases={d-}Other Company Databases}{-d}
 
-Personal Data={m-}Personal Data{-m}
+party={d-}party{-d}
 
-PO={m-}PO{-m}
+parties={d-}parties{-d}
 
-Process={m-}Process{-m}
+Personal Data={d-}Personal Data{-d}
 
-Processes={m-}Processes{-m}
+PO={d-}PO{-d}
 
-Processing={m-}Processing{-m}
+Process={d-}Process{-d}
 
-Processed={m-}Processed{-m}
+Processes={d-}Processes{-d}
 
-Proprietary Information={m-}Proprietary Information{-m}
+Processing={d-}Processing{-d}
 
-Services={m-}Services{-m}
+Processed={d-}Processed{-d}
 
-Software Materials={m-}Software Materials{-m}
+Proprietary Information={d-}Proprietary Information{-d}
 
-Software Product={m-}Software Product{-m}
+Services={d-}Services{-d}
 
-SOW={m-}SOW{-m}
+Software Materials={d-}Software Materials{-d}
 
-Supplier={m-}Supplier{-m}
+Software Product={d-}Software Product{-d}
 
-Supplier Affiliate={m-}Supplier Affiliate{-m}
+SOW={d-}SOW{-d}
 
-Supplier Personnel={m-}Supplier Personnel{-m}
+Supplier={d-}Supplier{-d}
 
-Supplier's Intellectual Property={m-}Supplier's Intellectual Property{-m}
+Supplier Affiliate={d-}Supplier Affiliate{-d}
 
-Supplier's Personnel={m-}Supplier's Personnel{-m}
+Supplier Personnel={d-}Supplier Personnel{-d}
 
-Supplier's Reserved Intellectual Property={m-}Supplier's Reserved Intellectual Property{-m}
+Supplier's Intellectual Property={d-}Supplier's Intellectual Property{-d}
 
-Term={m-}Term{-m}
+Supplier's Personnel={d-}Supplier's Personnel{-d}
 
-Third Party Intellectual Property={m-}Third Party Intellectual Property{-m}
+Supplier's Reserved Intellectual Property={d-}Supplier's Reserved Intellectual Property{-d}
+
+Term={d-}Term{-d}
+
+Third Party Intellectual Property={d-}Third Party Intellectual Property{-d}
 
 Schedule A=Schedule A
