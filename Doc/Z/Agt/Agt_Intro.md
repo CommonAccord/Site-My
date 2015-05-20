@@ -2,7 +2,11 @@ Sec={sec}
 
 sec=<ul type="none" style="padding-left: 0"><li>{Persons.sec}<li>{EffectiveDate.sec}</ul>{This.Sec} {Because.Sec} {That.Sec}
 
+Note=Choices of persons in the intro block (copy one into your doc):
+
 Persons.sec={Parties.Sec}
+
+Persons.sec={Parties.Sec}<br>{Friends.Sec}
 
 Parties.Sec=<b>{Parties.Ti}</b>{Parties.xlist}
 
