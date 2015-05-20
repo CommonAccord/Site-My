@@ -38,17 +38,17 @@ P5.sec={P5.N,E,A},<br> &emsp; &emsp; représenté{P5.Nom./e} par {P5.Sign.Titre.
 
 P6.sec={P6.N,E,A},<br> &emsp; &emsp; représenté{P6.Nom./e} par {P6.Sign.Titre.son/sa}, {P6.Sign.Nom-Plein}, <br>        ( « {P6.le/la} » )
 
-P1.N,E,A={P1.Nom-Plein}, {P1.Forme}  dont le siège social est situé au {P1.Adr-1,2,3}
+P1.N,E,A={P1.Nom-Plein}, {P1.Forme}  dont le siège social est {P1.Adresse.1,2,3}, enregistrée au Registre du Commerce et des Sociétés de {P1.RCS.Adresse.Ville} sous le numéro {P1.RCS.#}
 
-P2.N,E,A={P2.Nom-Plein}, {P2.Forme} dont  le siège social est situé au  {P2.Adr-1,2,3}
+P2.N,E,A={P2.Nom-Plein}, {P2.Forme} dont le siège social est {P2.Adresse.1,2,3}, enregistrée au Registre du Commerce et des Sociétés de {P2.RCS.Adresse.Ville} sous le numéro {P2.RCS.#}
 
-P3.N,E,A={P3.Nom-Plein}, {P3.Forme} dont  le siège social est situé au  {P3.Adr-1,2,3}
+P3.N,E,A={P3.Nom-Plein}, {P3.Forme} dont le siège social est {P3.Adresse.1,2,3}, enregistrée au Registre du Commerce et des Sociétés de {P3.RCS.Adresse.Ville} sous le numéro {P3.RCS.#}
 
-P4.N,E,A={P4.Nom-Plein}, {P4.Forme} dont  le siège social est situé au  {P4.Adr-1,2,3}
+P4.N,E,A={P4.Nom-Plein}, {P4.Forme} dont le siège social est {P4.Adresse.1,2,3}, enregistrée au Registre du Commerce et des Sociétés de {P4.RCS.Adresse.Ville} sous le numéro {P4.RCS.#}
 
-P5.N,E,A={P5.Nom-Plein}, {P5.Forme} dont  le siège social est situé au  {P5.Adr-1,2,3}
+P5.N,E,A={P5.Nom-Plein}, {P5.Forme} dont le siège social est {P5.Adresse.1,2,3}, enregistrée au Registre du Commerce et des Sociétés de {P5.RCS.Adresse.Ville} sous le numéro {P5.RCS.#}
 
-P6.N,E,A={P6.Nom-Plein}, {P6.Forme} dont  le siège social est situé au  {P6.Adr-1,2,3}
+P6.N,E,A={P6.Nom-Plein}, {P6.Forme} dont le siège social est {P6.Adresse.1,2,3}, enregistrée au Registre du Commerce et des Sociétés de {P6.RCS.Adresse.Ville} sous le numéro {P6.RCS.#}
 
 Parties.Ti=Entre les {parties} :
 

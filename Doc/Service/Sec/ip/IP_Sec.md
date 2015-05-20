@@ -8,7 +8,7 @@ CompanyProperty.Reserve.Sec=<u>Acknowledgement</u>.  {Supplier} acknowledges t
 
 CompanyProperty.Assign.Sec=<u>Assignment and Recordation of {Company Property}</u>.  {Supplier} agrees that: <ol><li>{CompanyProperty.Assign.WorkForHire.Cl};</li><li>{CompanyProperty.Assign.Grant.Cl};</li><li>{CompanyProperty.Assign.Further.Cl}: and</li><li>{CompanyProperty.Assign.NotRegister.Cl}.</li></ol>
 
-CompanyProperty.Assign.WorkForHire.Cl=All copyrightable {Intellectual Property}, which are created by {Supplier} pursuant to this Agreement, shall be deemed "Works Made for Hire", as that phrase is defined in Section 101 of the United States Copyright Act, 17 U.S.C. &sect; 101, and used in 17 U.S.C. &sect; 201, on behalf of {Company}, and {Company} shall own all right, title and interest, including the worldwide copyright, in and to such materials
+CompanyProperty.Assign.WorkForHire.Cl=All copyrightable {Intellectual Property}, which are created by {Supplier} pursuant to this Agreement, shall be deemed "Works Made for Hire", as that phrase is defined in Section 101 of the United States Copyright Act, 17 U.S.C. § 101, and used in 17 U.S.C. § 201, on behalf of {Company}, and {Company} shall own all right, title and interest, including the worldwide copyright, in and to such materials
 
 CompanyProperty.Assign.Grant.Cl={Supplier} hereby assigns and agrees to assign to {Company} all of its respective rights, title, and interest in {Company Property}, including all {IP Rights}
 
@@ -16,7 +16,7 @@ CompanyProperty.Assign.Further.Cl={Supplier} and {Supplier}'s successors in inte
 
 CompanyProperty.Assign.NotRegister.Cl={Supplier} agrees that it will not apply for any state, federal or other U.S. or foreign jurisdiction's registration of rights in any of the {Company Property} and that it will not oppose or object in any way to applications for registration of same by {Company} or others designated by {Company}
 
-SupplierProperty.Sec=<u>{Supplier}'s Property</u>.  The assignment in Section {6.1.3} above does not include {Supplier's Reserved Intellectual Property} properly listed on {Schedule F}.  {Supplier} will obtain a {Company} representative's signature on {Schedule F} before incorporating any of {Supplier's Intellectual Property} into the {Services} and/or any deliverables under this Agreement.  {Supplier} will own {Supplier's Reserved Intellectual Property} reflected on a properly executed {Schedule F}.  However, {Supplier} grants {Company} a fully-paid, perpetual, irrevocable, world-wide, non-exclusive license to: {SR.License.List}
+SupplierProperty.Sec=<u>{Supplier}'s Property</u>.  The assignment in Section {6.1.2} above does not include {Supplier's Reserved Intellectual Property} properly listed on {Schedule F}.  {Supplier} will obtain a {Company} representative's signature on {Schedule F} before incorporating any of {Supplier's Intellectual Property} into the {Services} and/or any deliverables under this Agreement.  {Supplier} will own {Supplier's Reserved Intellectual Property} reflected on a properly executed {Schedule F}.  However, {Supplier} grants {Company} a fully-paid, perpetual, irrevocable, world-wide, non-exclusive license to: {SR.License.List}
 
 SR.License.List=<ol><li>{SR.License.Derivative.cl};</li><li>{SR.License.Reproduce.cl}; and</li><li>{SR.License.MUDPDTSub.cl}.</li></ol>
 

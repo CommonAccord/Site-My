@@ -1,6 +1,6 @@
-Ti=<font color="red">Term of Confidentiality</font>
+Ti=Term of Confidentiality
 
-Alt0.sec=<font color="red">Select one - Conf.Term.AltX.Sec where X is 1-3:</font>
+Alt0.sec=Select one - Conf.Term.AltX.Sec where X is 1-3:
 
 Alt1.sec={The_Receiving_Party}'s obligations with respect to all {Confidential_Information_of_the_Disclosing_Party} will terminate only pursuant to {Conf.Exclude.Xref}.
 
@@ -10,7 +10,7 @@ Alt3.sec={The_Receiving_Party}'s obligations with respect to each element of {Co
 
 Alt=[Z/Sec/3]
 
-Sec={AltSec}
+Sec=<font color="red">{AltSec}</font>
 
 =[Z/Sec/0]
 
