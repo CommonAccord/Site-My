@@ -4,35 +4,41 @@ Affiliate={d-}Affiliate{-d}
 
 Affiliates={d-}Affiliates{-d}
 
-Change Order={d-}Change Order{-d}
+Agreement={d-}Agreement{-d}
+
+This_Agreement=This {d-}Agreement{-d}
+
+this_Agreement=this {d-}Agreement{-d}
+
+Change_Order={d-}Change Order{-d}
 
 Company={d-}Company{-d}
 
-Company Affiliate={d-}Company Affiliate{-d}
+Company_Affiliate={d-}Company Affiliate{-d}
 
-Company or its Affiliates={d-}Company or its Affiliates{-d}
+Company_or_its_Affiliates={d-}Company or its Affiliates{-d}
 
-Company or one of its Affiliates={d-}Company or one of its Affiliates{-d}
+Company_or_one_of_its_Affiliates={d-}Company or one of its Affiliates{-d}
 
-Company and its Affiliates={d-}Company and its Affiliates{-d}
+Company_and_its_Affiliates={d-}Company and its Affiliates{-d}
 
-Company Employment Data Protection Standards={d-}Company Employment Data Protection Standards{-d}
+Company_Employment_Data_Protection_Standards={d-}Company Employment Data Protection Standards{-d}
 
-Company Personal Data={d-}Company Personal Data{-d}
+Company_Personal_Data={d-}Company Personal Data{-d}
 
-Company Property={d-}Company Property{-d}
+Company_Property={d-}Company Property{-d}
 
 CWD={d-}Contingent Workers Database{-d}
 
-Data Subject={d-}Data Subject{-d}
+Data_Subject={d-}Data Subject{-d}
 
-Data Subjects={d-}Data Subjects{-d}
+Data_Subjects={d-}Data Subjects{-d}
 
-Effective Date={d-}Effective Date{-d}
+Effective_Date={d-}Effective Date{-d}
 
-Expiration Date={d-}Expiration Date{-d}
+Expiration_Date={d-}Expiration Date{-d}
 
-Intellectual Property={d-}Intellectual Property{-d}
+Intellectual_Property={d-}Intellectual Property{-d}
 
 IP Rights={d-}IP Rights{-d}
 

@@ -13,15 +13,15 @@ Company and its Affiliates={Company} and its {Affiliates}
 
 Company or its Affiliates={Company} or its {Affiliates}
 
-Company Personal Data=Company Personal Data
+Company_Personal_Data=Company Personal Data
 
 Company Property=Company Property
 
 Data Subject=Data Subject
 
-Data Subjects={Data Subject}s
+Data Subjects={Data_Subject}s
 
-Intellectual Property=Intellectual Property
+Intellectual_Property=Intellectual Property
 
 IP Rights=IP Rights
 
