@@ -26,11 +26,18 @@ Scope.1.sec={Poc} on P2P record system.  Decentalised, easily-verified, IP- and 
 
 Scope.2.Ti=Documents
 
-Scope.2.1.sec=Deliverable framework and use cases for universal Master Supply and Master Services Agreements.  Machine readable across 5 European languages. Suitable for B2B and B2C.
+Scope.2.1.sec=Deliverable framework and use cases for universal Master Supply and Master Services Agreements.  Machine readable across {Languages.List}. Suitable for B2B and B2C.
 
 Scope.2.2.sec=Demonstration of text transparency/traceability of CONSUMER -> Merchant -> Charter -> Regulators -> STAKEHOLDERS
 
 Scope.2.=[Z/Sec/s2]
+
+E.g.=[Service/Form/MasterServices_Form.md]
+
+E.g.=<a href="http://www.commonaccord.org/index.php?action=source&file=/01/Agt/Sec/Forum/Arb/ICC/Library_T02_Multilingual_V01">ICC-WBO Arbitration Clauses</a>
+
+E.g.=<a href="http://ga4gh.commonaccord.org/index.php?action=list&file=./Demo/">Global Alliance For Genomics and Health</a>
+
 
 Scope.3.Ti=Merchant Interface
 
@@ -62,3 +69,11 @@ Parti.=[Z/Sec/s8]
 =[Z/Sec/0]
 
 DocBody={Doc}
+
+Poc=Proof of concept
+
+poc=proof of concept
+
+Note=(Pull requests invited.)
+
+Languages.List=English, French and German
