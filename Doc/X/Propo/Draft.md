@@ -22,13 +22,13 @@ Parti.Ti=Participants
 
 Parti.1.sec=Ethereum
 
-Parti.2.sec=Bundesbank (Paolo??)
+Parti.2.sec=European institutions?
 
-Parti.3.sec=International Chamber of Commerce (via INCOTERMS etc.)
+Parti.3.sec=INCOTERMS
 
 Parti.4.sec=Some big companies
 
-Parti.5.sec=Some NGO, Activist Groups
+Parti.5.sec=Some NGOs, Activist Groups
 
 Parti.6.sec=Legal teams and trade groups
 
