@@ -32,12 +32,7 @@ Scope.2.2.sec=Demonstration of text transparency/traceability of CONSUMER -> Mer
 
 Scope.2.=[Z/Sec/s2]
 
-E.g.=[Service/Form/MasterServices_Form.md]
-
-E.g.=<a href="http://www.commonaccord.org/index.php?action=source&file=/01/Agt/Sec/Forum/Arb/ICC/Library_T02_Multilingual_V01">ICC-WBO Arbitration Clauses</a>
-
-E.g.=<a href="http://ga4gh.commonaccord.org/index.php?action=list&file=./Demo/">Global Alliance For Genomics and Health</a>
-
+Note=[X/Propo/Examples_of_Documents.md]
 
 Scope.3.Ti=Merchant Interface
 
