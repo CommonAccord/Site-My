@@ -6,7 +6,7 @@ Intro.Ti=Background
 
 Intro.1.sec=In the modern economy, when goods move or services are rendered, they often involve records.  Records assure us of the provenance of things.  They assure us of the seller's good title.  Of the terms of the transaction, etc. They permit proof of transfer of title.  They state conditions of the transfer and any continuing responsibilities of the transferor.  They provide traces for regulatory authorities, including customs and tax authorities.
 
-Intro.2.sec=Current systems are heterogeneous and complex.  They involve different record keeping systems, different languages, jurisdictions, etc. 
+Intro.2.sec=Current systems are heterogeneous and complex.  They involve hubs and inconsistencies, lack of local{s/z}ation for different languages and jurisdictions, etc. 
 
 Intro.3.sec=We can do better.
 
@@ -73,6 +73,8 @@ Poc=Proof of concept
 poc=proof of concept
 
 Note=(Pull requests invited.)
+
+s/z=s
 
 Languages.List=English, French and German
 

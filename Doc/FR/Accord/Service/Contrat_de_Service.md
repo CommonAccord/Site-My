@@ -4,11 +4,11 @@ Doc.Title=CONTRAT DE PRESTATION DE SERVICES
 
 0.0.sec=Entre les soussignés :
 
-0.1.sec=La société {P1.Nom}, {P1.FormeJuridique} au capital de {P1.Capital} euros, dont le siège social est {P1.Adresse.1,3}, enregistrée au Registre du Commerce et des Sociétés de {P1.RCS.Adresse.Ville} sous le numéro {P1.RCS.#}, Représentée par M. {P1.Dirigeant1.Nom}, {P1.Dirigeant1.Titre},<p>ci-après désignée " Le Client ",<p> d'une part,
+0.1.sec=La société {P1.Nom}, {P1.FormeJuridique} au capital de {P1.Capital} euros, dont le siège social est {P1.Adresse.1,2,3}, enregistrée au Registre du Commerce et des Sociétés de {P1.RCS.Adresse.Ville} sous le numéro {P1.RCS.#}, Représentée par M. {P1.Dirigeant1.Nom}, {P1.Dirigeant1.Titre},<p>ci-après désignée " Le Client ",<p> d'une part,
 
 0.2.sec=<strong>et</strong>
 
-0.3.sec=La société {P2.Nom}, {P2.FormeJuridique} au capital de {P2.Capital} euros, dont le siège social est {P2.Adresse.1,3}, enregistrée au Registre du Commerce et des Sociétés de {P2.RCS.Adresse.Ville} sous le numéro {P2.RCS.#}, Représentée par M. {P2.Dirigeant1.Nom}, {P2.Dirigeant1.Titre},<p>ci-après désignée " le Prestataire de services " ou " le Prestataire ",<p>d'autre part,
+0.3.sec=La société {P2.Nom}, {P2.FormeJuridique} au capital de {P2.Capital} euros, dont le siège social est {P2.Adresse.1,2,3}, enregistrée au Registre du Commerce et des Sociétés de {P2.RCS.Adresse.Ville} sous le numéro {P2.RCS.#}, Représentée par M. {P2.Dirigeant1.Nom}, {P2.Dirigeant1.Titre},<p>ci-après désignée " le Prestataire de services " ou " le Prestataire ",<p>d'autre part,
 
 0.=[Z/Sec/s3]
 
@@ -36,19 +36,19 @@ Doc.Title=CONTRAT DE PRESTATION DE SERVICES
 
 3.Ti=Article 3 - Durée
 
-3.sec=Ce contrat est passé pour une durée de {Contrat.Durée}. Il prendra effet le {Contrat.Début} et arrivera à son terme le {Contrat.Fin}.
+3.sec=Ce contrat est passé pour une durée de {m-}{Contrat.Durée}{-m}. Il prendra effet le {m-}{Contrat.Début}{-m} et arrivera à son terme le {m-}{Contrat.Fin}{-m}.
 
 4.Ti=Article 4 - Exécution de la prestation
 
-4.0.sec=Fait le {Sign.Date} - {Sign.Ville} en 6 (six) exemplaires.
+4.0.sec=Fait le {m-}{Sign.Date}{-m} - {Sign.Ville} en 6 (six) exemplaires.
 
 4.1.Ti=Le Prestataire
 
-4.1.sec={P2.Sign.Block}
+4.1.sec={P2.Sign.Bloc}
  
 4.2.Ti= Le Client
 
-4.2.sec={P1.Sign.Block}
+4.2.sec={P1.Sign.Bloc}
 
 4.=[Z/Sec/2]
 
@@ -63,3 +63,7 @@ xlist={Nlist}
 Note : Mettre le header au centre :
 
 DocBody={Doc}
+
+m-=<font color="red">
+
+-m=</font>

@@ -6,16 +6,12 @@ Prix=1.000,00 Euro
 
 Contrat.Durée=six mois
 
-Contrat.Début={m-}1 mai 2015{-m}
+Contrat.Début=1 mai 2015
 
-Contrat.Fin={m-}31 octobre 2015{-m}
+Contrat.Fin=31 octobre 2015
 
-Sign.Date={m-}21 avril 2015{-m}
+Sign.Date=21 avril 2015
 
-Sign.Ville={m-}Paris{-m}
+Sign.Ville=Paris
 
 =[FR/Accord/Service/Contrat_de_Service.md]
-
-m-=<font color="red">
-
--m=</font>
