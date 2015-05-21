@@ -1,6 +1,6 @@
 Doc.Title=Project for a Reliable P2P Record-Keeping System for Supply Chains
 
-Secs={Intro.Sec}<li>{Propo.Sec}<li>{Scope.Sec}<li>{Parti.Sec}
+Secs={Intro.Sec}<li>{Propo.Sec}<li>{Scope.Sec}<li>{PT.Sec}<li>{Attend.Sec}
 
 Intro.Ti=Background
 
@@ -43,28 +43,31 @@ Scope.3.Ti=Merchant Interface
 
 Scope.3.sec={Poc} of a P2P "merchant" website.  For instance the interface for a user accessing status and making changes at their bank, merchant, or government agency. 
 
-
 Scope.=[Z/Sec/3]
 
-Parti.Ti=Participants
+PT.Ti=Participant Types
 
-Parti.1.sec=Ethereum? (pull request?)
+PT.1.sec=Platform - Blockchain
 
-Parti.2.sec=European institutions?
+PT.2.sec=Solution providers
 
-Parti.3.sec=INCOTERMS
+PT.3.sec=Shippers
 
-Parti.4.sec=Some big companies
+PT.4.sec=Companies with supply chains
 
-Parti.5.sec=Some NGOs, Activist Groups
+PT.5.sec=Trade groups
 
-Parti.6.sec=Legal teams and trade groups
+PT.6.sec=NGOs, Activist Groups
 
-Parti.7.sec=CommonAccord/Center for Decentralized Law
+PT.7.sec=Legal teams
 
-Parti.8.sec=Who else? (Do a pull request.)
+PT.8.sec=European institutions?
 
-Parti.=[Z/Sec/s8]
+PT.9.sec=CommonAccord/Center for Decentralized Law
+
+PT.10.sec=Who else? (Do a pull request.)
+
+PT.=[Z/Sec/s10]
 
 =[Z/Sec/0]
 
@@ -77,3 +80,5 @@ poc=proof of concept
 Note=(Pull requests invited.)
 
 Languages.List=English, French and German
+
+Attend.=[X/Propo/Interested.md]
