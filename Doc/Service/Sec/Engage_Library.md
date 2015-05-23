@@ -2,7 +2,7 @@ Ti=Engagement and Statements of Work
 
 xlist=<ol><li>{Base.Sec}</li><li>{SOW.Sec}</li><li>{Change.Sec}</li><li>{Affiliate.Sec}</li></ol>
 
-Base.Ti=Engagment
+Base.Ti=Engagement
 
 Base.sec={Company} engages {Supplier} to perform services such as {Services.Description}, which may include the provision of certain deliverables (collectively, the "{Services}") and which are further described in {Company} Purchase Order ("{PO}") and/or Statement of Work ("{SOW}") documents executed during the Term of {this_Agreement} by an authorized representative from each party.
 

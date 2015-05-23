@@ -2,9 +2,12 @@ Ti=Confidentiality
 
 xlist=<ol><li>{Engage.Sec}</li><li>{WarnPersonnel.Sec}</li><li>{Injunct.Sec}</li><li>{Endure.Sec}</li><li>{Return.Sec}</li><li>{Exclude.Sec}</li><li>{OneWay.Sec}</li><li>{Publicity.Sec}</li><li>{Monitor.Sec}</li></ol>
 
+Engage.Ti=Confidentiality Engagement
+
 Engage.sec={Engage.Intro.sec}<ol><li>{Engage.Protect.cl};</li><li>{Engage.Use.cl}; and</li><li>{Engage.Care.cl}.</li></ol>
 
 Engage.Intro.sec={Supplier} and all {Supplier Personnel} shall maintain in confidence and safeguard all {Proprietary Information}.  {Supplier} recognizes and acknowledges the confidential and proprietary nature of any {Proprietary Information} and acknowledges the irreparable harm that could result to {Company} if it is disclosed to a third party or used for unauthorized purposes without {Company}'s prior written consent. Therefore, {Supplier} agrees, except as required by law: 
+
 Engage.Protect.cl=to protect the confidentiality of {Company}'s {Proprietary Information} (including any notes, summaries, reports, analyses or other material derived by {Supplier} or {Supplier's Personnel} in whole or in part from the {Proprietary Information} in whatever form maintained (collectively, "Notes"))
 
 Engage.Use.cl=to use the {Proprietary Information} and/or Notes only for the purposes of conducting business with {Company} in a manner contemplated by {this_Agreement}
