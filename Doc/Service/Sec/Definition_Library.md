@@ -1,9 +1,8 @@
-
 Ti=Definitions
 
 xlist=<ol><li>{Def.Affiliate}</li><li>{Def.Company}</li><li>{Def.Company.Affiliate}</li><li>{Def.Company.Persona.Data}</li><li>{Def.Company.Property}</li><li>{Def.Data.Subject}</li><li>{Def.Intellectual.Property}</li><li>{Def.IP.Rights}</li><li>{Def.Personal.Data}</li><li>{Def.Processing}</li><li>{Def.Proprietary.Information}</li><li>{Def.Software.Materials}</li><li>{Def.Software.Product}</li><li>{Def.Supplier}</li><li>{Def.Supplier.Affiliate}</li><li>{Def.Supplier's.Intellectual.Property}</li><li>{Def.Supplier's.Personnel}</li><li>{Def.Supplier's.Reserve.Intellectual.Property}</li><li>{Def.Third.Party.Intellectual.Property}</li></ol>
 
-Definition.Intro=The following capitalized terms used in {this_Agreement} have the following meanings
+0.sec=The following capitalized terms used in {this_Agreement} have the following meanings:
 
 Def.Affiliate=<b>"{Affiliate}"</b> means<ol><li>with respect to {Company}, a {Company_Affiliate}; and</li><li>with {Supplier}, a {Supplier Affiliate}.</li></ol>
 
