@@ -1,4 +1,4 @@
-Chemical.=[Service/Sec/environment/chemical/Sec.md]
+Chemical.=[Service/Sec/Environment/Chemical/Sec.md]
 
 Ti=Environmental Health and Safety
 

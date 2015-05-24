@@ -1,6 +1,6 @@
 Ti=Warranties
 
-Secs={That.sec}<li>{Duration.sec}
+sec=<ol><li>{That.sec}<li>{Duration.sec}</ol>
 
 That.sec=Supplier warrants that: <ol><li>{That.DeliverablesConform.sec};</li><li>{That.QualityPerformance.sec};</li><li>{That.Merchantable.sec}; and </li><li>{That.Merchantable.sec}.</li></ol>
 

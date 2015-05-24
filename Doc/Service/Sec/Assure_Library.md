@@ -1,6 +1,6 @@
 Ti=Indemnities and Insurance
 
-Secs={General.Sec}</li><li>{IP.Sec}</li><li>{Insurance.Sec}</li><li>{AdditionalInsured.Sec}
+sec=<ol><li>{General.Sec}</li><li>{IP.Sec}</li><li>{Insurance.Sec}</li><li>{Add.Sec}</ol>
 
 General.Ti=General
 
@@ -28,20 +28,18 @@ Insurance.4.sec=Professional Errors and Omissions Insurance covering the activit
 
 Insurance.=[Z/Sec/s4]
 
-AdditionalInsured.Ti=Additional Insurance Requirements
+Add.Ti=Additional Insurance Requirements
 
-</u>. <ol><li>{AdditionalInsured.Named.Sec}</li><li>{AdditionalInsured.Primary.Sec}</li><li>{AdditionalInsured.Primary.Sec}</li><li>{AdditionalInsured.Cancellation.Sec}</li><li>{AdditionalInsured.Subrogation.Sec}</li></ol>
+Add.1.sec={Company} shall be named as additional insured under the policies of insurance set forth in subsections {11.3.2-11.3.4} above for any and all purposes arising out of or connected to the {Services}.
 
-AdditionalInsured.1.sec={Company} shall be named as additional insured under the policies of insurance set forth in subsections {11.3.2-11.3.4} above for any and all purposes arising out of or connected to the {Services}.
+Add.2.sec=It is the intent of both parties to {this_Agreement} that all insurance purchased by {Supplier} in compliance with {this_Agreement}, will be primary to any other insurance owned, secured, or in place by {Company}, which insurance shall not be called upon by {Supplier}'s insurer to contribute in any way.  {Supplier} shall secure endorsements to this effect from all insurers of such policies.
 
-AdditionalInsured.2.sec=It is the intent of both parties to {this_Agreement} that all insurance purchased by {Supplier} in compliance with {this_Agreement}, will be primary to any other insurance owned, secured, or in place by {Company}, which insurance shall not be called upon by {Supplier}'s insurer to contribute in any way.  {Supplier} shall secure endorsements to this effect from all insurers of such policies.
+Add.3.sec=At {Company}’s request, {Supplier} shall furnish {Company} with certificates of insurance and with copies of original endorsements effecting coverage required by this clause.  The certificates and endorsements shall identify {Company} as an additional insured and shall be signed by a person authorized by that insurer to bind coverage on its behalf.  {Company} reserves the right to require complete, certified copies of all required insurance policies, at any time.
 
-AdditionalInsured.3.sec=At {Company}’s request, {Supplier} shall furnish {Company} with certificates of insurance and with copies of original endorsements effecting coverage required by this clause.  The certificates and endorsements shall identify {Company} as an additional insured and shall be signed by a person authorized by that insurer to bind coverage on its behalf.  {Company} reserves the right to require complete, certified copies of all required insurance policies, at any time.
+Add.4.sec=All policies provided for herein shall expressly provide that such policies shall not be canceled, terminated or altered without sixty (60) days prior written notice to {Company}.
 
-AdditionalInsured.4.sec=All policies provided for herein shall expressly provide that such policies shall not be canceled, terminated or altered without sixty (60) days prior written notice to {Company}.
+Add.5.sec=All insurance specified in this section shall contain a waiver of subrogation in favor of the {Company}, its Affiliates and their respective employees for all losses and damages covered by the insurance required by this section.
 
-AdditionalInsured.5.sec=All insurance specified in this section shall contain a waiver of subrogation in favor of the {Company}, its Affiliates and their respective employees for all losses and damages covered by the insurance required by this section.
-
-AdditionalInsured.=[Z/Sec/s5]
+Add.=[Z/Sec/s5]
 
 =[Z/Sec/0]
