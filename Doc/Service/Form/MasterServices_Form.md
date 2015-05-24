@@ -18,9 +18,9 @@ Compensation.=[Service/Sec/Compensation_Library.md]
 
 Confidential.=[Service/Sec/Confidential_Library.md]
 
-IP.=[Service/Sec/ip/IP_Sec.md]
+IP.=[Service/Sec/IP/IP_Sec.md]
 
-PersonalData.=[Service/Sec/personaldata/PD_Sec.md]
+PersonalData.=[Service/Sec/PersonalData/PD_Sec.md]
 
 TangibleProperty.=[Service/Sec/TangibleProperty_Library.md]
 
@@ -34,7 +34,7 @@ Relate.=[Service/Sec/Relate_Library.md]
 
 Comply.=[Service/Sec/Comply_Library.md]
 
-Environment.=[Service/Sec/environment/Sec.md]
+Environment.=[Service/Sec/Environment/Sec.md]
 
 Conflict.=[Service/Sec/Conflict_Library.md]
 
