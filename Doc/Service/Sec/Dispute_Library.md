@@ -1,6 +1,6 @@
 Ti=Disputes; Law
 
-xlist=<ol><li>{Law.Sec}</li><li>{Amical.Sec}<br></li><li>{Forum.Sec}</li></ol>
+sec=<ol><li>{Law.Sec}</li><li>{Amical.Sec}<br></li><li>{Forum.Sec}</li></ol>
 
 Law.Ti=Applicable Law
 
