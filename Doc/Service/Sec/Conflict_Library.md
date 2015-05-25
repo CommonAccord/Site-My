@@ -4,7 +4,7 @@ sec=<ol><li>{HasNo.sec}<li>{Agrees.sec}</ol>
 
 HasNo.0.sec=Supplier represents and warrants that:
 
-HasNo.1.sec=it has no conflict of interest which would prevent Supplier from acting in the best interests of {Company} and that such a situation will not exist during the Term;
+HasNo.1.sec=it has no conflict of interest which would prevent {Supplier} from acting in the best interests of {Company} and that such a situation will not exist during the Term;
 
 HasNo.1.sec=it has not entered into any contract or agreement, or executed any document whatsoever, that will in any manner prevent it from: <ol> <li>giving {Company} the exclusive benefit of services under {this_Agreement};</li> <li>disclosing and assigning ideas, inventions, computer software, trade secrets and other {Intellectual_Property} as provided in Section {6.2.3} of {this_Agreement}; or</li> <li>performing any other provision of {this_Agreement};</li> </ol>
 
@@ -28,7 +28,7 @@ Agrees.2.0.sec=it will:
 
 Agrees.2.1.sec=comply fully with the Guidelines and the Guide in the performance of the {Services};
 
-Agrees.2.2.sec=provide a copy of the Guide to Supplier’s Personnel;
+Agrees.2.2.sec=provide a copy of the Guide to {Supplier_Personnel};
 
 Agrees.2.3.sec=instruct Supplier’s Personnel to comply with such documents; and
 
@@ -38,7 +38,7 @@ Agrees.2.=[Z/Sec/s4]
 
 Agrees.3.sec=it and Supplier’s Personnel shall, upon reasonable notice, attend and participate in compliance briefings conducted by {Company} representatives; and
 
-Agrees.4.0.sec=neither it nor any of {Supplier Personnel} shall communicate in any manner with:
+Agrees.4.0.sec=neither it nor any of {Supplier_Personnel} shall communicate in any manner with:
 
 Agrees.4.1.sec=any officer or employee of any Federal agency of the United States for or on behalf of {Company} with respect to any contract or federal procurement; or
 

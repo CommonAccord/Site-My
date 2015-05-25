@@ -1,42 +1,41 @@
-1.4=1.4
+Confidential.Xnum=5
 
-3.5.1=3.5(1)
+IP.Xnum=6
 
-3.5.2=3.5(2)
+PersonalData.Xnum=7
 
-4.4=4.4
-6.1.3=6.1.3
+Warrant.Xnum=10
 
-6.2.1=6.2(1)
+Assure.Xnum=11
 
-6.2.3=6.2(3)
+Comply.Xnum=13
 
-11.3.2-11.3.4=11.3(2)-(4)
+Environment.Xnum=14
 
-17=17
+Expire.Xnum=16
 
-17.4={17}.4
+Dispute.Xnum=22
 
-17.5={17}.5
+Def.Xnum=22
 
-AGT.Exh.A=Exhibit A
 
-AGT.Exh.B=Exhibit B
+Agt.Exh.A=<font color="blue">Exhibit A</font>
 
-AGT.Exh.C=Exhibit C
+Agt.Exh.B=<font color="blue">Exhibit B</font>
 
-AGT.Exh.D=Exhibit D
+Agt.Exh.C=<font color="blue">Exhibit C</font>
 
-AGT.Exh.E=Exhibit A
+Agt.Exh.D=<font color="blue">Exhibit D</font>
 
-Expire.Xnum=17
+Agt.Exh.E=<font color="blue">Exhibit A</font>
 
-Def.Xnum=21
 
-Def.Persona.Data.Xnum={Def.Xnum}
+Schedule_A=<font color="blue">Schedule A</font>
 
-Schedule B=Schedule B
+Schedule_B=<font color="blue">Schedule B</font>
 
-Schedule F=Schedule F
+Schedule_C=<font color="blue">Schedule C</font>
 
-	  
+Schedule_F=<font color="blue">Schedule F</font>
+
+Schedule_G=<font color="blue">Schedule G</font>

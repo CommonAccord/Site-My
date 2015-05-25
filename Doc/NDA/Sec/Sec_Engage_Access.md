@@ -2,17 +2,19 @@
 
 Ti=Access
 
-0.sec=<font color="red">Select one - Conf.Engage.Access.X.sec where X is 1-5:</font>
+Alt0.sec=Select one - Conf.Engage.Access.Sec= { Conf.Engage.Access.AltX.Sec } where X is 1-6:
 
-1.sec={The_Receiving_Party} will not permit only {Access.Persons.cl} to have access to the {Confidential_Information_of_the_Disclosing_Party}.
+Alt1.sec={The_Receiving_Party} will permit only {Access.Persons.cl} to have access to the {Confidential_Information_of_the_Disclosing_Party}.
 
-2.sec={Limit.Cl} {NTK.cl}.
+Alt2.sec={Limit.Cl} {NTK.cl}.
 
-3.sec={Limit.Cl} {NTK.cl} and {Condition.Signed.cl}.
+Alt3.sec={Limit.Cl} {NTK.cl} and {Condition.Signed.cl}.
 
-4.sec={Limit.Cl} {NTK.cl} and {Condition.Signed.cl} with {Condition.AsRestrictive.cl}.
+Alt4.sec={Limit.Cl} {NTK.cl} and {Condition.Signed.cl} with {Condition.AsRestrictive.cl}.
 
-5.sec={Limit.Cl} {NTK.cl} and {Condition.Signed.cl} with {Condition.AsRestrictive.cl} {Condition.ApprovedForm.cl}.
+Alt5.sec={Limit.Cl} {NTK.cl} and {Condition.Signed.cl} with {Condition.AsRestrictive.cl} {Condition.ApprovedForm.cl}.
+
+Alt6.sec={The_Receiving_Party} is an individual and will not permit any other person to have access {Confidential_Information_of_the_Disclosing_Party}.
 
 Limit.Cl={The_Receiving_Party} will limit access to the {Confidential_Information_of_the_Disclosing_Party} to only those of {the_Receiving_Party}'s employees or authorized representatives 
 
@@ -24,7 +26,11 @@ Condition.AsRestrictive.cl=confidentiality obligations at least as restrictive a
 
 Condition.ApprovedForm.cl=in a form approved in advance by {the_Disclosing_Party}
 
-=[Z/Sec/5]
+Alt=[Z/Sec/6]
+
+Sec=<font color="red">{AltSec}</font>
+
+=[Z/Sec/0]
 
 =[Z/Misc/LinksSimple.md]
 

@@ -1,91 +1,97 @@
-6.1.3={d-}6.1.3.{-d}
+Affiliate=<font color="green">Affiliate</font>
 
-Affiliate={d-}Affiliate{-d}
+Affiliates=<font color="green">Affiliates</font>
 
-Affiliates={d-}Affiliates{-d}
+Agreement=<font color="green">Agreement</font>
 
-Agreement={d-}Agreement{-d}
+This_Agreement=This <font color="green">Agreement</font>
 
-This_Agreement=This {d-}Agreement{-d}
+this_Agreement=this <font color="green">Agreement</font>
 
-this_Agreement=this {d-}Agreement{-d}
+Base_Prime_Rate=<font color="green">Base Prime Rate</font>
 
-Change_Order={d-}Change Order{-d}
+Change_Order=<font color="green">Change Order</font>
 
-Company={d-}Company{-d}
+Company=<font color="green">Company</font>
 
-Company_Affiliate={d-}Company Affiliate{-d}
+Company_Affiliate=<font color="green">Company Affiliate</font>
 
-Company_or_its_Affiliates={d-}Company or its Affiliates{-d}
+Company_Affiliates=<font color="green">Company Affiliates</font>
 
-Company_or_one_of_its_Affiliates={d-}Company or one of its Affiliates{-d}
+Company_or_its_Affiliates=<font color="green">Company or its Affiliates</font>
 
-Company_and_its_Affiliates={d-}Company and its Affiliates{-d}
+Company_or_one_of_its_Affiliates=<font color="green">Company or one of its Affiliates</font>
 
-Company_Employment_Data_Protection_Standards={d-}Company Employment Data Protection Standards{-d}
+Company_and_its_Affiliates=<font color="green">Company and its Affiliates</font>
 
-Company_Personal_Data={d-}Company Personal Data{-d}
+Company_Employment_Data_Protection_Standards=<font color="green">Company Employment Data Protection Standards</font>
 
-Company_Property={d-}Company Property{-d}
+Company_Personal_Data=<font color="green">Company Personal Data</font>
 
-CWD={d-}Contingent Workers Database{-d}
+Company_Property=<font color="green">Company Property</font>
 
-Data_Subject={d-}Data Subject{-d}
+CWD=<font color="green">Contingent Workers Database</font>
 
-Data_Subjects={d-}Data Subjects{-d}
+Daily_Discount_Rate=<font color="green">Daily Discount Rate</font>
 
-Effective_Date={d-}Effective Date{-d}
+Data_Subject=<font color="green">Data Subject</font>
 
-Expiration_Date={d-}Expiration Date{-d}
+Data_Subjects=<font color="green">Data Subjects</font>
 
-Intellectual_Property={d-}Intellectual Property{-d}
+Effective_Date=<font color="green">Effective Date</font>
 
-IP Rights={d-}IP Rights{-d}
+Expiration_Date=<font color="green">Expiration Date</font>
 
-MSA={d-}MSA{-d}
+Intellectual_Property=<font color="green">Intellectual Property</font>
 
-Other Company Databases={d-}Other Company Databases}{-d}
+IP_Rights=<font color="green">IP Rights</font>
 
-party={d-}party{-d}
+MSA=<font color="green">MSA</font>
 
-parties={d-}parties{-d}
+Other_Company_Databases=<font color="green">Other Company Databases}</font>
 
-Personal Data={d-}Personal Data{-d}
+party=<font color="green">party</font>
 
-PO={d-}PO{-d}
+parties=<font color="green">parties</font>
 
-Process={d-}Process{-d}
+Personal_Data=<font color="green">Personal Data</font>
 
-Processes={d-}Processes{-d}
+Prime_Rate=<font color="green">Prime Rate</font>
 
-Processing={d-}Processing{-d}
+PO=<font color="green">PO</font>
 
-Processed={d-}Processed{-d}
+Process=<font color="green">Process</font>
 
-Proprietary Information={d-}Proprietary Information{-d}
+Processes=<font color="green">Processes</font>
 
-Services={d-}Services{-d}
+Processing=<font color="green">Processing</font>
 
-Software Materials={d-}Software Materials{-d}
+Processed=<font color="green">Processed</font>
 
-Software Product={d-}Software Product{-d}
+Proprietary Information=<font color="green">Proprietary Information</font>
 
-SOW={d-}SOW{-d}
+Secrecy_and_Inventions_Agreement=<font color="green">Secrecy and Inventions Agreement</font>
 
-Supplier={d-}Supplier{-d}
+Services=<font color="green">Services</font>
 
-Supplier Affiliate={d-}Supplier Affiliate{-d}
+Software_Materials=<font color="green">Software Materials</font>
 
-Supplier Personnel={d-}Supplier Personnel{-d}
+Software_Product=<font color="green">Software Product</font>
 
-Supplier's Intellectual Property={d-}Supplier's Intellectual Property{-d}
+SOW=<font color="green">SOW</font>
 
-Supplier's Personnel={d-}Supplier's Personnel{-d}
+Supplier=<font color="green">Supplier</font>
 
-Supplier's Reserved Intellectual Property={d-}Supplier's Reserved Intellectual Property{-d}
+Supplier_Affiliate=<font color="green">Supplier Affiliate</font>
 
-Term={d-}Term{-d}
+Supplier_Personnel=<font color="green">Supplier Personnel</font>
 
-Third Party Intellectual Property={d-}Third Party Intellectual Property{-d}
+Supplier's_Intellectual_Property=<font color="green">Supplier's Intellectual Property</font>
 
-Schedule A=Schedule A
+Supplier's_Personnel=<font color="green">Supplier's Personnel</font>
+
+Supplier's_Reserved_Intellectual_Property=<font color="green">Supplier's Reserved Intellectual Property</font>
+
+Term=<font color="green">Term</font>
+
+Third_Party_Intellectual_Property=<font color="green">Third Party Intellectual Property</font>

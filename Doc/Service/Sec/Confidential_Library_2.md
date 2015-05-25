@@ -4,7 +4,7 @@ Note=Reconstituting it as a one-way:
 
 RP={Supplier}
 
-RP Personnel={Supplier Personnel}
+RP Personnel={Supplier_Personnel}
 
 Note=eliminated use of "RP's Personnel" as redundant/confused
 
@@ -26,7 +26,7 @@ Engage.Use.cl=to use the {Proprietary Information} and/or {Notes} only for the p
 
 Engage.Care.cl=to use the same degree of care as with its own confidential information, which shall be at least a reasonable standard of care, to prevent disclosure of the {Proprietary Information} and/or {Notes}, except to {RP Personnel} to the extent necessary to permit them to perform the {Services} as set forth in {this_Agreement}
 
-WarnPersonnel.Sec={RP} further agrees that prior to disclosing any {Proprietary Information} to {RP Personnel} as set forth above, {RP} will: <ol><li>advise such {RP Personnel} of the confidential and proprietary nature of the {Proprietary Information} and {Notes}; and</li><li>require them to sign the {Secrecy and Inventions Agreement} attached hereto as {Schedule B}.</li></ol>
+WarnPersonnel.Sec={RP} further agrees that prior to disclosing any {Proprietary Information} to {RP Personnel} as set forth above, {RP} will: <ol><li>advise such {RP Personnel} of the confidential and proprietary nature of the {Proprietary Information} and {Notes}; and</li><li>require them to sign the {Secrecy_and_Inventions_Agreement} attached hereto as {Schedule_B}.</li></ol>
 
 Injunct.Sec={RP} agrees to be responsible for any breach of {this_Agreement} by it or {RP Personnel}.&nbsp; {RP} acknowledges that money damages would not be a sufficient remedy for any breach of this Section.&nbsp; Accordingly, in the event of any such breach, in addition to any other remedies at law or in equity that {DP} may have, it shall be entitled to equitable relief, including injunctive relief or specific performance or both.
 

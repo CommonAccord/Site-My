@@ -1,4 +1,4 @@
-Ti=Personal Data Provided to Supplier
+Ti={Personal_Data} Provided to {Supplier}
 
 sec=In the event that {Supplier} accesses or otherwise {Processes} any {Company_Personal_Data} during its performance of the Agreement, it shall comply with the following obligations regarding {Company_Personal_Data}: <ol><li>{NeedToDo.sec}</li><li>{Conf.sec}</li><li>{Care.sec}</li><li>{CareByStaff.sec}</li><li>{Comply.sec}</li><li>{Expire.sec}</li></ol>
 
@@ -6,7 +6,7 @@ sec=In the event that {Supplier} accesses or otherwise {Processes} any {Company_
 
 NeedToDo.sec={Supplier} shall view and {Process} {Company_Personal_Data} only to the extent necessary to perform {this_Agreement} or upon {Company}'s written instructions.
 
-Conf.sec={Supplier} undertakes to keep {Company_Personal_Data} confidential, and agrees to not disclose {Company_Personal_Data} to third parties without having first received express written approval from {Company}.  {Supplier} and {Supplier's Personnel} shall {Process} {Company_Personal_Data} only on a need-to-know basis, regarding the performance of {this_Agreement} and any PO or SOW issued pursuant to {this_Agreement}.
+Conf.sec={Supplier} undertakes to keep {Company_Personal_Data} confidential, and agrees to not disclose {Company_Personal_Data} to third parties without having first received express written approval from {Company}.  {Supplier} and {Supplier's_Personnel} shall {Process} {Company_Personal_Data} only on a need-to-know basis, regarding the performance of {this_Agreement} and any PO or SOW issued pursuant to {this_Agreement}.
 
 Care.sec={Care.ImplementMeasures.sec}  {Care.AdequateMeasures.sec}  {Care.InformOfBreach.sec} 
 
@@ -27,13 +27,13 @@ Care.InformOfBreach.sec={Supplier} shall immediately inform {Company} of any bre
 
 CareByStaff.sec={CareByStaff.SupplierEnsures.sec}  {CareByStaff.ObtainNDA.sec}  {CareByStaff.FormOfNDA.sec}  {CareByStaff.SpecialNDA.sec}
 
-CareByStaff.SupplierEnsures.sec={Supplier} shall implement all measures necessary to ensure compliance by {Supplier's Personnel} with the obligations relating to {Company_Personal_Data}.
+CareByStaff.SupplierEnsures.sec={Supplier} shall implement all measures necessary to ensure compliance by {Supplier's_Personnel} with the obligations relating to {Company_Personal_Data}.
 
-CareByStaff.ObtainNDA.sec={Supplier} shall require {Supplier's Personnel}, as a condition of having access to {Company_Personal_Data}, to sign individual confidentiality agreements in which they each agree individually to comply with the obligations of this Section of the Agreement.
+CareByStaff.ObtainNDA.sec={Supplier} shall require {Supplier's_Personnel}, as a condition of having access to {Company_Personal_Data}, to sign individual confidentiality agreements in which they each agree individually to comply with the obligations of this Section of the Agreement.
 
-CareByStaff.FormOfNDA.sec={Schedule B} of {this_Agreement} shall be deemed an adequate form of confidentiality agreement.
+CareByStaff.FormOfNDA.sec={Schedule_B} of {this_Agreement} shall be deemed an adequate form of confidentiality agreement.
 
-CareByStaff.SpecialNDA.sec={Company} may also require {Supplier} to require {Supplier's Personnel}, as a condition of participating in specific assignments, to sign individual confidentiality agreements that are tailored for specific assignments.
+CareByStaff.SpecialNDA.sec={Company} may also require {Supplier} to require {Supplier's_Personnel}, as a condition of participating in specific assignments, to sign individual confidentiality agreements that are tailored for specific assignments.
 
 Comply.sec={Comply.Law.sec} {Comply.EmploymentDataPolicy.sec} {Comply.Collect.sec}
 
@@ -47,7 +47,7 @@ Comply.Collect.InformSubjects.cl={Supplier} must provide such {Data_Subjects} wi
 
 Comply.Collect.ObtainApproval.cl=except for {Supplier}'s employees or subcontractors, {Supplier} must obtain {Company}'s written approval of the information and consent language to be used by {Supplier} to gather such {Company_Personal_Data} from the {Data_Subjects}
 
-Comply.Breach.sec=Failure by {Supplier} to comply with any obligations relating to {Company_Personal_Data} or {Personal Data} set forth in {this_Agreement} is considered a material breach of {this_Agreement}.
+Comply.Breach.sec=Failure by {Supplier} to comply with any obligations relating to {Company_Personal_Data} or {Personal_Data} set forth in {this_Agreement} is considered a material breach of {this_Agreement}.
 
 Audit.sec={Audit.OnDemand.sec}  {Audit.Access.sec}
 

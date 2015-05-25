@@ -6,25 +6,27 @@ Engage.Ti=Confidentiality Engagement
 
 Engage.sec={Engage.Intro.sec}<ol><li>{Engage.Protect.cl};</li><li>{Engage.Use.cl}; and</li><li>{Engage.Care.cl}.</li></ol>
 
-Engage.Intro.sec={Supplier} and all {Supplier Personnel} shall maintain in confidence and safeguard all {Proprietary Information}.  {Supplier} recognizes and acknowledges the confidential and proprietary nature of any {Proprietary Information} and acknowledges the irreparable harm that could result to {Company} if it is disclosed to a third party or used for unauthorized purposes without {Company}'s prior written consent. Therefore, {Supplier} agrees, except as required by law: 
+Engage.Intro.sec={Supplier} and all {Supplier_Personnel} shall maintain in confidence and safeguard all {Proprietary Information}.  {Supplier} recognizes and acknowledges the confidential and proprietary nature of any {Proprietary Information} and acknowledges the irreparable harm that could result to {Company} if it is disclosed to a third party or used for unauthorized purposes without {Company}'s prior written consent. Therefore, {Supplier} agrees, except as required by law: 
 
-Engage.Protect.cl=to protect the confidentiality of {Company}'s {Proprietary Information} (including any notes, summaries, reports, analyses or other material derived by {Supplier} or {Supplier's Personnel} in whole or in part from the {Proprietary Information} in whatever form maintained (collectively, "Notes"))
+Engage.Protect.cl=to protect the confidentiality of {Company}'s {Proprietary Information} (including any notes, summaries, reports, analyses or other material derived by {Supplier} or {Supplier_Personnel} in whole or in part from the {Proprietary Information} in whatever form maintained (collectively, "Notes"))
 
 Engage.Use.cl=to use the {Proprietary Information} and/or Notes only for the purposes of conducting business with {Company} in a manner contemplated by {this_Agreement}
 
-Engage.Care.cl=to use the same degree of care as with its own confidential information, which shall be at least a reasonable standard of care, to prevent disclosure of the {Proprietary Information} and/or Notes, except to {Supplier's Personnel} to the extent necessary to permit them to perform the {Services} as set forth in {this_Agreement}
+Engage.Care.cl=to use the same degree of care as with its own confidential information, which shall be at least a reasonable standard of care, to prevent disclosure of the {Proprietary Information} and/or Notes, except to {Supplier_Personnel} to the extent necessary to permit them to perform the {Services} as set forth in {this_Agreement}
 
 Engage.=[Z/Sec/0]
 
+Engage.Xnum={Xnum}.1
+
 WarnPersonnel.Ti=Advise Personnel
 
-WarnPersonnel.sec={Supplier} further agrees that prior to disclosing any {Proprietary Information} to {Supplier's Personnel} as set forth above, {Supplier} will: <ol><li>advise such {Supplier's Personnel} of the confidential and proprietary nature of the {Proprietary Information} and Notes; and</li><li>require them to sign the {Secrecy and Inventions Agreement} attached hereto as {Schedule B}.</li></ol>
+WarnPersonnel.sec={Supplier} further agrees that prior to disclosing any {Proprietary Information} to {Supplier_Personnel} as set forth above, {Supplier} will: <ol><li>advise such {Supplier_Personnel} of the confidential and proprietary nature of the {Proprietary Information} and Notes; and</li><li>require them to sign the {Secrecy_and_Inventions_Agreement} attached hereto as {Schedule_B}.</li></ol>
 
 WarnPersonnel.=[Z/Sec/0]
 
 Injunct.Ti=Injunctions
 
-Injunct.sec={Supplier} agrees to be responsible for any breach of {this_Agreement} by it or {Supplier's Personnel}. {Supplier} acknowledges that money damages would not be a sufficient remedy for any breach of this Section. Accordingly, in the event of any such breach, in addition to any other remedies at law or in equity that {Company} may have, it shall be entitled to equitable relief, including injunctive relief or specific performance or both.
+Injunct.sec={Supplier} agrees to be responsible for any breach of {this_Agreement} by it or {Supplier_Personnel}. {Supplier} acknowledges that money damages would not be a sufficient remedy for any breach of this Section. Accordingly, in the event of any such breach, in addition to any other remedies at law or in equity that {Company} may have, it shall be entitled to equitable relief, including injunctive relief or specific performance or both.
 
 Injunct.=[Z/Sec/0]
 
@@ -36,7 +38,7 @@ Endure.=[Z/Sec/0]
 
 Return.Ti=Return or Destruction of Information
 
-Return.sec=Upon completion or termination of {this_Agreement} or upon request of {Company}, {Supplier} shall promptly: <ol><li>return all {Proprietary Information} disclosed to it; and</li><li>destroy (with such destruction certified in writing by {Supplier}) all Notes, without retaining any copy thereof.</li></ol> No such termination of the Agreement or return or destruction of the {Proprietary Information} and/or Notes will affect the confidentiality obligations of {Supplier} or {Supplier's Personnel} all of which will continue in effect as provided in {this_Agreement}.
+Return.sec=Upon completion or termination of {this_Agreement} or upon request of {Company}, {Supplier} shall promptly: <ol><li>return all {Proprietary Information} disclosed to it; and</li><li>destroy (with such destruction certified in writing by {Supplier}) all Notes, without retaining any copy thereof.</li></ol> No such termination of the Agreement or return or destruction of the {Proprietary Information} and/or Notes will affect the confidentiality obligations of {Supplier} or {Supplier_Personnel} all of which will continue in effect as provided in {this_Agreement}.
 
 Return.=[Z/Sec/0]
 
@@ -52,7 +54,7 @@ Exclude.Has.cl=was available on a non-confidential basis prior to its disclosure
 
 Exclude.Finds.cl=is or becomes available to {Supplier} on a non-confidential basis from a source other than the {Company} when such source is not, to the best of the {Supplier}'s knowledge, subject to a confidentiality obligation with the {Company}
 
-Exclude.Makes.cl=was independently developed by {Supplier} or {Supplier's Personnel}, without reference to the {Proprietary Information}, and {Supplier} can verify the development of such information by written documentation
+Exclude.Makes.cl=was independently developed by {Supplier} or {Supplier_Personnel}, without reference to the {Proprietary Information}, and {Supplier} can verify the development of such information by written documentation
 
 Exclude.=[Z/Sec/0]
 
@@ -72,7 +74,7 @@ Publicity.=[Z/Sec/0]
 
 Monitor.Ti=System Monitoring
 
-Monitor.sec={Supplier} agrees that the {Company} may, at any time, without further consent, access and monitor any usage by {Supplier} or {Supplier's Personnel} of any {Company} information, systems and resources, including without limitation: computers, computer software, electronic mail, online services, voicemail, facsimile machines, telephones and photocopiers.
+Monitor.sec={Supplier} agrees that the {Company} may, at any time, without further consent, access and monitor any usage by {Supplier} or {Supplier_Personnel} of any {Company} information, systems and resources, including without limitation: computers, computer software, electronic mail, online services, voicemail, facsimile machines, telephones and photocopiers.
 
 Monitor.=[Z/Sec/0]
   

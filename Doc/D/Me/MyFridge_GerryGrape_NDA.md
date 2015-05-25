@@ -20,13 +20,15 @@ Note=Because this is a one-way agreement:
 
 Conf.Def.1.sec={e-}the shopping habits of {P1.the}{-e}
 
-Conf.Engage.Access.sec={e-}{Conf.Engage.Access.4.sec}{-e}
+Conf.Engage.Access.Sec={e-}{Conf.Engage.Access.Alt4.Sec}{-e}
 
-Conf.Term.sec={m-}{Conf.Term.2.sec}{-m}
+Conf.Term.Sec={m-}{Conf.Term.Alt2.Sec}{-m}
 
 Note=Assign prohibited by P2, void, benefit Supplier only
 
-Misc.Assign.secs={e-}{Misc.Assign.1.2.sec}<li>{Misc.Assign.2.1.sec}<li>{Misc.Assign.3.2.sec}{-e}
+Misc.Assign.sec={e-}<ol><li>{Misc.Assign.1.Alt2.sec}<li>{Misc.Assign.2.Alt1.sec}<li>{Misc.Assign.3.Alt2.sec}{-e}</ol>
+
+Misc.Entire.Sec={Misc.Entire.Alt2.Sec}
 
 Law.State.the={e-}the Commonwealth of Massachusetts{-e}
 

@@ -6,7 +6,7 @@ Intro.Persons.sec={Intro.Parties.Sec}<br>{Intro.Friends.Sec}
 
 Intro.Friends.Ti=Subsidiaries of {P1.Handle}
 
-Intro.Friends.Define.sec=Each a "{Company_Subsidiary}" and collectively the "{Company_Subsidiaries}."
+Intro.Friends.Define.sec=Each a "{Company_Affiliate}" and collectively the "{Company_Affiliates}."
 
 Engage.=[Service/Sec/Engage_Library.md]
 

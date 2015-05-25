@@ -1,6 +1,6 @@
 Ti=Term of Confidentiality
 
-Alt0.sec=Select one - Conf.Term.AltX.Sec where X is 1-3:
+Alt0.sec=Select one - Conf.Term.Sec = { Conf.Term.AltX.Sec }where X is 1-3:
 
 Alt1.sec={The_Receiving_Party}'s obligations with respect to all {Confidential_Information_of_the_Disclosing_Party} will terminate only pursuant to {Conf.Exclude.Xref}.
 

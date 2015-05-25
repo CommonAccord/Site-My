@@ -12,13 +12,19 @@ P2.Handle=Founder
 
 Conf.Engage.Access.sec={m-}{P2.The} will permit access to {Confidential_Information} only to personnel and advisors of {P1.the}.{-m}
 
-Conf.Term.Sec={m-}{Conf.Term.1.Sec}{-m}
+Conf.Term.Sec={m-}{Conf.Term.Alt1.Sec}{-m}
 
-Misc.Assign.1.sec={m-}{Misc.Assign.1.2.sec}{-m}
+Conf.Engage.Access.Sec={m-}{Conf.Engage.Access.Alt6.Sec}{-m}
 
-Misc.Assign.2.sec={m-}{Misc.Assign.2.2.sec}{-m}
+Misc.Assign.sec={m-}{Misc.Assign.Alt-3.sec}{-m}
 
-Misc.Assign.3.sec={m-}{Misc.Assign.3.2.sec}{-m}
+Misc.Entire.Sec={m-}{Misc.Entire.Alt2.Sec}{-m}
+
+Misc.Assign.1.sec={m-}{Misc.Assign.1.Alt2.sec}{-m}
+
+Misc.Assign.2.sec={m-}{Misc.Assign.2.Alt2.sec}{-m}
+
+Misc.Assign.3.sec={m-}{Misc.Assign.3.Alt2.sec}{-m}
 
 Agt.Effective.YMD={m-}May 17, 2015{-m}
 
