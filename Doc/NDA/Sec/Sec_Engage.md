@@ -1,17 +1,17 @@
 Ti=Engagement
 
-Disclose.=[NDA/Sec/Sec_Engage_Disclose.md]
+Secs={Disclose.Sec}<li>{Care.Sec}<li>{Access.Sec}
 
-Disclose.Xnum=1
+Disclose.=[NDA/Sec/Sec_Engage_Disclose.md]
 
 Care.=[NDA/Sec/Sec_Engage_Care.md]
 
-Care.Xnum=2
-
 Access.=[NDA/Sec/Sec_Engage_Access.md]
 
-Access.Xnum=3
+Disclose.Xnum=1
 
-Secs={Disclose.Sec}<li>{Care.Sec}<li>{Access.Sec}
+Care.Xnum=2
+
+Access.Xnum=3
 
 =[Z/Sec/0]

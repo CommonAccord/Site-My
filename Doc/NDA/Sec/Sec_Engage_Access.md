@@ -2,8 +2,6 @@
 
 Ti=Access
 
-Alt0.sec=Select one - Conf.Engage.Access.Sec= { Conf.Engage.Access.AltX.Sec } where X is 1-6:
-
 Alt1.sec={The_Receiving_Party} will permit only {Access.Persons.cl} to have access to the {Confidential_Information_of_the_Disclosing_Party}.
 
 Alt2.sec={Limit.Cl} {NTK.cl}.
@@ -26,12 +24,8 @@ Condition.AsRestrictive.cl=confidentiality obligations at least as restrictive a
 
 Condition.ApprovedForm.cl=in a form approved in advance by {the_Disclosing_Party}
 
-Alt=[Z/Sec/6]
+=[Z/Alt/6]
 
-Sec=<font color="red">{AltSec}</font>
-
-=[Z/Sec/0]
-
-=[Z/Misc/LinksSimple.md]
+SecName=Conf.Access
 
 PageName=NDA/Sec/Sec_Engage_Access.md

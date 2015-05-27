@@ -1,6 +1,6 @@
 Ti=Compliance with Laws
 
-0.sec={Supplier} represents, warrants, certifies and covenants ("Covenants") that:
+0.sec={Supplier} represents, warrants, certifies and covenants that:
 
 xlist=<ol><li>{Law.sec};</li><li>{Worker.sec};</li><li>{US-FAR-RUS.sec};</li><li>{FLS.sec};</li><li>{Equal.sec};</li><li>{Export.sec};</li><li>{Bribe.sec};</li><li>{SOX.sec}; and</li><li>{Further.sec}.</li></ol>
 

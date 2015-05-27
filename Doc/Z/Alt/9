@@ -1,0 +1,7 @@
+Alt=[Z/Sec/9]
+
+Sec=<font color="red">Select one - {SecName}.Sec={{SecName}.AltX.Sec}where X is 1-9:{Altsec}</font>
+
+sec=<font color="red">Select one - {SecName}.sec={{SecName}.AltX.sec}where X is 1-9:{Altolist}</font>
+
+Model.Root={Sec}

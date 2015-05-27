@@ -1,8 +1,6 @@
 Ti=Successors and Assigns
 
-0.sec=<font color="red">See Sec_Misc_Assign.md for some suggested formulations - in format Alt-X.sec.</font>
-
-1.Alt0.sec=Misc.Assign.1.sec={ Misc.Assign.1.AltX.sec} where X is 1-3:
+Alt0.sec=<font color="red">See Sec_Misc_Assign.md for some suggested formulations - in format Alt-X.sec.</font>
 
 1.Alt1.sec=A {party} shall not subcontract or otherwise delegate or assign {this_Agreement} or any of its obligations under {this_Agreement} without the other {party}'s prior written consent.
 
@@ -10,11 +8,9 @@ Ti=Successors and Assigns
 
 1.Alt3.sec={P1.The} shall not assign or transfer any rights or obligations under {this_Agreement} without {P2.the}'s prior written consent.
 
-1.Alt=[Z/Sec/s3]
+1.=[Z/Alt/3]
 
-1.sec=<font color="red">{1.Altsec}</font>
-
-2.Alt0.sec=Misc.Assign.2.sec={ Misc.Assign.2.AltX.sec} where X is 1-3:
+1.SecName={SecName}.1
 
 2.Alt1.sec={2.Base.Cl}.
 
@@ -24,11 +20,9 @@ Ti=Successors and Assigns
 
 2.Alt3.sec={2.Base.Cl}, except that {P2.the} may assign {this_Agreement} without such consent to its successor in interest by way of merger, acquisition or sale of all or substantially all of its assets.
 
-2.Alt=[Z/Sec/s2]
+2.=[Z/Alt/3]
 
-2.sec=<font color="red">{2.Altsec}</font>
-
-3.Alt0.sec=Misc.Assign.3.sec={ Misc.Assign.3.AltX.sec} where X is 1-3:
+2.SecName={SecName}.2
 
 3.Alt1.sec=Subject to the foregoing, {this_Agreement} will be for the benefit of each {party}'s successors and assigns, and will be binding on each {party}'s assignees.
 
@@ -36,9 +30,9 @@ Ti=Successors and Assigns
 
 3.Alt3.sec=Subject to the foregoing, {this_Agreement} will be for the benefit of {P2.the}'s successors and assigns, and will be binding on {P1.the}'s assignees.
 
-3.Alt=[Z/Sec/s3]
+3.=[Z/Alt/3]
 
-3.sec=<font color="red">{3.Altsec}</font>
+3.SecName={SecName}.3
 
 Note=Mutual
 
@@ -63,3 +57,5 @@ Alt-4.sec={1.Alt3.sec} {2.Alt1.sec} {3.Alt3.sec}
 Model.Root=<ol><li>{Sec}<li>{Alt-X.sec}</ol>
 
 =[Z/Sec/s3]
+
+SecName=Misc.Assign
