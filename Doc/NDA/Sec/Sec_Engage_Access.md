@@ -12,7 +12,7 @@ Alt4.sec={Limit.Cl} {NTK.cl} and {Condition.Signed.cl} with {Condition.AsRestric
 
 Alt5.sec={Limit.Cl} {NTK.cl} and {Condition.Signed.cl} with {Condition.AsRestrictive.cl} {Condition.ApprovedForm.cl}.
 
-Alt6.sec={The_Receiving_Party} is an individual and will not permit any other person to have access {Confidential_Information_of_the_Disclosing_Party}.
+Alt6.sec={The_Receiving_Party} is an individual and will not permit any other person to have access to {Confidential_Information_of_the_Disclosing_Party}.
 
 Limit.Cl={The_Receiving_Party} will limit access to the {Confidential_Information_of_the_Disclosing_Party} to only those of {the_Receiving_Party}'s employees or authorized representatives 
 
