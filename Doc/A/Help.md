@@ -1,3 +1,3 @@
 Agt.=[Help/HowTo_Agreements.md]
 
-Sec.=[HowTo_Sections.md]
+Sec.=[Help/HowTo_Sections.md]
