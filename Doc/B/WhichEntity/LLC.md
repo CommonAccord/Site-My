@@ -48,7 +48,7 @@ Minus.4.2.sec=A written operating agreement should be entered into by the member
 
 Minus.4.3.sec=Also, in New York, LLCs are subject to the Notice of Publication requirement, which makes LLCs more expensive that other types of entities to set up, see above under Disadvantages for LPs and LLPs.
 
-Minus.4.4.sec=<i>From the site maintainer</i> A goal of CommonAccord is to radically reduce the cost of the writing of the agreement.)
+Minus.4.4.sec=(<i>From the site maintainer</i>: A goal of CommonAccord is to radically reduce the cost of the writing of the agreement.)
 
 Minus.=[Z/Sec/4]
 
