@@ -1,5 +1,7 @@
 Note=Very quick and very partial (in only one sense) implementation of <a href="http://melwanichan.com/resources/entrepreneurs-introduction-to-corporate-entities/">melwanichan.com/resources/entrepreneurs-introduction-to-corporate-entities</a> 
 
+Note=This is US-delimited, NY influenced, and merely text, not legal advice.  See your lawyer. 
+
 Ti=Selecting a Corporate Vehicle
 
 1.=[B/WhichEntity/SoleProprietorship.md]
