@@ -8,16 +8,14 @@ Ti=Selecting a Corporate Vehicle
 
 2.=[B/WhichEntity/GeneralPartnership.md]
 
-3.Ti=Limited Partnership (LP)
+3.=[B/WhichEntity/L-LP.md]
 
-4.Ti=Limited Liability Partnership (LLP)
+4.=[B/WhichEntity/C-Corp.md]
 
-5.Ti=C-Corporation
+5.=[B/WhichEntity/S-Corp.md]
 
-6.Ti=S-Corporation
+6.=[B/WhichEntity/LLC.md]
 
-7.=[B/WhichEntity/LLC.md]
-
-=[Z/Sec/7]
+=[Z/Sec/6]
 
 0=Will get to the rest soon.
