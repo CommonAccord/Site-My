@@ -1,22 +1,22 @@
-=[B/WhatEntity.md]
-
 EntityType=Sole Proprietorship
 
 0.sec=A sole proprietorship is the simplest way of organizing a business.  Essentially, it is one individual who is intertwined with their business from a legal, financial, and liability perspective.
 
-Add.1.Ti=Ease of formation
+0.=[Z/para/s1]
 
-Add.1.sec=There is no paperwork necessary, except possibly filing a “Doing Business As…” certificate with the state,
+Plus.1.Ti=Ease of formation
 
-Add.2.Ti=Inexpensive
+Plus.1.sec=There is no paperwork necessary, except possibly filing a “Doing Business As…” certificate with the state,
 
-Add.2.sec=No legal or filing fees.
+Plus.2.Ti=Inexpensive
 
-Add.3.Ti=No double taxation.
+Plus.2.sec=No legal or filing fees.
 
-Add.3.sec=In a C-corporation, profits are taxed at the corporate rate and shareholders are taxed again when the corporation distributes dividends.
+Plus.3.Ti=No double taxation.
 
-Add.=[Z/Sec/3]
+Plus.3.sec=In a C-corporation, profits are taxed at the corporate rate and shareholders are taxed again when the corporation distributes dividends.
+
+Plus.=[Z/Sec/3]
 
 Minus.1.Ti=Unlimited liability
 
@@ -31,3 +31,5 @@ Minus.3.Ti=Business dies with Owner
 Minus.3.sec=The business dies when the owner dies, moves on, or is incapacitated.
 
 Minus.=[Z/Sec/3]
+
+=[B/WhatEntity_Z.md]
