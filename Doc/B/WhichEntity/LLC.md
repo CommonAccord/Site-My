@@ -52,4 +52,4 @@ Minus.4.4.sec=<i>From the site maintainer</i> A goal of CommonAccord is to radic
 
 Minus.=[Z/Sec/4]
 
-=[B/WhatEntity_Z.md]
+=[B/WhichEntity/Z.md]

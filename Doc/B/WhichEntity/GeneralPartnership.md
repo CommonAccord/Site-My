@@ -34,4 +34,4 @@ Minus.2.sec=It is difficult to raise money from investors, because a passive inv
 
 Minus.=[Z/Sec/2]
 
-=[B/WhatEntity_Z.md]
+=[B/WhichEntity/Z.md]

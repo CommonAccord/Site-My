@@ -32,4 +32,4 @@ Minus.3.sec=The business dies when the owner dies, moves on, or is incapacitated
 
 Minus.=[Z/Sec/3]
 
-=[B/WhatEntity_Z.md]
+=[B/WhichEntity/Z.md]
