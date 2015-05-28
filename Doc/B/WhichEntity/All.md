@@ -18,4 +18,4 @@ Ti=Selecting a Corporate Vehicle
 
 =[Z/Sec/6]
 
-0=Will get to the rest soon.
+90.sec=<font color="red">DISCLAIMER: The information appearing in this article does not constitute legal advice or opinion.  This article is for informational purposes only.  {Authors} only provide advice and opinion upon engagement with respect to specific factual situations.</font>
