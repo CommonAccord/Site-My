@@ -30,4 +30,13 @@ Minus.2.sec=Maintaining the limited liability shield requires the corporation to
 
 Minus.=[Z/Sec/2]
 
+Doc.1.Sec=<a href="index.php?action=source&file=Startup/SeriesSeed/CIO/Form/SeriesSeed_CIO_Form.3-2.md">Series Seed CIO</a>
+
+Doc.2.Sec=<a href="index.php?action=source&file=Startup/Techstars/COI/Form/Techstars_SeriesAA_RestateCIO_Form.md">Techstars Restated CIO</a>
+
+Doc.3.Sec=<a href="index.php?action=source&file=Startup/YC/SeriesAA/Binder_YC_AA.md">YCombinator Series AA - Full Set of Model Docs
+</a>
+
+Doc.=[Z/Sec/3]
+
 =[B/WhichEntity/Z.md]

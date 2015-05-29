@@ -14,4 +14,8 @@ COI.3(e)=3.(e)
 
 COI.3(f)=3.(f)
 
-Model.Root=<ul><li><hr>{BC.Doc}<li><hr>{COI.Doc}<li><hr>{IRA.Doc}<li><hr>{SPA.Doc}<li><hr>{SC.Doc}</ul>
+Ti=YCombinator SeriesAA Documents
+
+xlist=<ul><li><hr>{BC.Doc}<li><hr>{COI.Doc}<li><hr>{IRA.Doc}<li><hr>{SPA.Doc}<li><hr>{SC.Doc}</ul>
+
+=[Z/Sec/0]
