@@ -4,7 +4,7 @@ Model.Root={Sec}
 
 Sec={0.Sec}{sec}
 
-0.Sec=<b>{Ti}</b>{sec}
+0.Sec=<b>{Ti}</b>
 
 sec=<ol><li>{Plus.Sec}<li>{Minus.Sec}<li>{Doc.Sec}</ol>
 
