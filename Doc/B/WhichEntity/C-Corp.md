@@ -37,6 +37,8 @@ Doc.2.Sec=<a href="index.php?action=source&file=Startup/Techstars/COI/Form/Techs
 Doc.3.Sec=<a href="index.php?action=source&file=Startup/YC/SeriesAA/Binder_YC_AA.md">YCombinator Series AA - Full Set of Model Docs
 </a>
 
-Doc.=[Z/Sec/3]
+Doc.4.Sec=<a href="index.php?action=source&file=Startup/NVCA/Incorporation/Form/Form.md">NVCA Amended and Restated Certificate of Incorporation (in progress)</a>
+
+Doc.=[Z/Sec/4]
 
 =[B/WhichEntity/Z.md]

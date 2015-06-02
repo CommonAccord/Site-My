@@ -4,15 +4,15 @@ Note=This is US-delimited, NY influenced, and merely text, not legal advice.  Se
 
 Ti=Selecting a Corporate Vehicle
 
-/1.=[B/WhichEntity/SoleProprietorship.md]
+1.=[B/WhichEntity/SoleProprietorship.md]
 
-/2.=[B/WhichEntity/GeneralPartnership.md]
+2.=[B/WhichEntity/GeneralPartnership.md]
 
-/3.=[B/WhichEntity/L-LP.md]
+3.=[B/WhichEntity/L-LP.md]
 
-/4.=[B/WhichEntity/C-Corp.md]
+4.=[B/WhichEntity/C-Corp.md]
 
-/5.=[B/WhichEntity/S-Corp.md]
+5.=[B/WhichEntity/S-Corp.md]
 
 6.=[B/WhichEntity/LLC.md]
 
