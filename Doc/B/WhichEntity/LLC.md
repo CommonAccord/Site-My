@@ -52,4 +52,10 @@ Minus.4.4.sec=(<i>From the site maintainer</i>: A goal of CommonAccord is to rad
 
 Minus.=[Z/Sec/4]
 
+Doc.1.sec=<a href="http://www.commonaccord.org/index.php?action=source&file=/BlockchainWorkshops/LLC/B_LLC_Form.01.md">BlockchainWorkshops/LLC/B_LLC_Form.01.md</a>
+
+Doc.2.sec=<a href="index.php?action=source&file=./LLC/Form/ParticipatoryOrgs_LLC-DE-Operating-Agreement-Simple.md">ParticipatoryOrgs_LLC-Delaware-Simple</a>
+
+Doc.=[Z/Sec/s2]
+
 =[B/WhichEntity/Z.md]
