@@ -9,7 +9,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
     $action = touch($new);
 
     if($action) {
-        header("Location: /index.php?action=source&file=" . $dir . $file);
+        header("Location: /index.php?action=source&file=Doc" . $dir . $file);
     } else {
         echo "Error when creating entry ", $dir, $file;
     }
