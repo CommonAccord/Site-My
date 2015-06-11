@@ -8,7 +8,7 @@ Ti=Arbitration
  
 3.0.sec=The Parties further agree:
  
-3.1.Alt1.sec=The number of arbitrators shall be one;
+3.1.Alt1.sec=There shall be a single arbitrator;
 
 3.1.Alt2.sec=The number of arbitrators shall be three;
 
