@@ -10,23 +10,47 @@ include("header.php");
 
 //This displays the path, current file name, and provides the edit and show options //
 
+
 echo "<h4>
 
 <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/><img src='assets/arrowup.png' height=25>$rootdir[dirname]</a>/<b>$filenameX</b><br><center>
+";
+
+if (strpos($dir, ".html") == "0") {
+
+echo "
+
 <a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>Render the Document</b></a>
   &emsp; 
 
  <a href=$_SERVER[PHP_SELF]?action=opens&file=$rootdir[dirname]/$filenameX>Opens</a>
-  &emsp; 
+  &emsp;
 
-<a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX.html>html</a>
-  &emsp; 
-
-
-<a href=$_SERVER[PHP_SELF]?action=html&file=$rootdir[dirname]/$filenameX>gen/regen/html</a>
-  &emsp; 
 
 <a href=https://github.com/$GitHubRepo/blob/master/Doc/$rootdir[dirname]/$filenameX>GitHub</a>
+  &emsp; 
+
+   <a href=$_SERVER[PHP_SELF]?action=source&file=$rootdir[dirname]/$filenameX.html> &emsp; &emsp; </a>
+  &emsp;
+
+";
+} else {
+
+$filenameMD = chop($filenameX,".html");
+
+echo "
+
+<a href=$_SERVER[PHP_SELF]?action=html&file=$rootdir[dirname]/$filenameMD>regen/html</a>
+  &emsp;
+
+<a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>Render the Document</b></a>
+  &emsp; 
+
+"; 
+}
+
+echo "
+
 </center></h5>
 ";
 

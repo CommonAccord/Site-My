@@ -33,20 +33,23 @@ echo "<div class='includers'>";
 echo "</div>";
 }
 
+
 echo '<div class="listings">';
 echo "<div id='content-list'>";
 foreach($files as $f) {
+
         if(is_dir($path.$dir.$f)) {
-                if( !( ($f == '.') || ($f == '..') || ($f == '.git')) ) {
+	  if( !( ($f == '.') || ($f == '..') || ($f == '.git')) ) {
 
                         echo "<br><a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/><img height=20 src='assets/folder.png'> $f</a>";
                 }
         }
         else {
-                if( !( ($f == 'include.php') || preg_match('/^\./', $f) ) ) {
+	  if( !( ($f == 'include.php') || preg_match('/^\./', $f) || !(stripos($f, ".html") == 0)) ) {
                         echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f><img height=20 src='assets/play.png'> $f</a>";
                 }
         }
+
 }
 echo "</div></div>";
 ?>
