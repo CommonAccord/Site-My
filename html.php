@@ -12,9 +12,7 @@ if (strlen($document) > $minDocLength){
 echo "<form action=$_SERVER[PHP_SELF] method='post'>
         <textarea id='textedit' cols=125 rows=30 name='newcontent' style='padding:20px;'>";
 
-echo "Model.Root={Body}\r\n";
-
-echo "Body=". $document;
+echo "Model.Root={Body}\r\n\r\nBody=". $document;
 
 
 echo '  </textarea><br>

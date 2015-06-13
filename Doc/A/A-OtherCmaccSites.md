@@ -6,4 +6,4 @@ Ti=Other Sites
 
 3.=<a href="http://mit.commonaccord.org">mit.commonaccord.org</a>
 
-4.=<a href="http://datashare-commonaccord.herokuapp.com">datashare-commonaccord.herokuapp.com</a>
+4.=<a href="http://datashare.commonaccord.org">datashare.commonaccord.org</a>

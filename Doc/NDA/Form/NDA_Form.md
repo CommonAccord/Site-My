@@ -1,6 +1,6 @@
 Doc.Title=Mutual Non-Disclosure Agreement
 
-Secs={Conf.Sec}<li>{Limit.Sec}<li>{Rep.Sec}<li>{Term.Sec}<li>{Dispute.Sec}<li>{Remedy.Sec}<li>{Misc.Sec}
+xlist=<ol><li>{Conf.Sec}<li>{Limit.Sec}<li>{Rep.Sec}<li>{Term.Sec}<li>{Dispute.Sec}<li>{Remedy.Sec}<li>{Misc.Sec}</ol>
 
 Conf.=[NDA/Sec/Sec_Confidential.md]
 
