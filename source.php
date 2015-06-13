@@ -40,6 +40,10 @@ $filenameMD = chop($filenameX,".html");
 
 echo "
 
+<a href=$_SERVER[PHP_SELF]?action=source&file=$rootdir[dirname]/$filenameMD>Source</a>
+  &emsp;
+
+
 <a href=$_SERVER[PHP_SELF]?action=html&file=$rootdir[dirname]/$filenameMD>regen/html</a>
   &emsp;
 
