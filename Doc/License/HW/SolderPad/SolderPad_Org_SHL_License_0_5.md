@@ -26,9 +26,7 @@ Release.#=Version 0.5
 
 1.11.sec=“Contributor” shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
 
-1.xlist={1.nlist}
-
-1.=[Z/Sec/s11]
+1.=[Z/paras/s11]
 
 2.Ti=Grant of License
 

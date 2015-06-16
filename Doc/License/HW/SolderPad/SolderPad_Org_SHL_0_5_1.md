@@ -10,9 +10,7 @@ Doc.Release.#=version 0.5
 
 3.sec={Appendix.Doc}
 
-xlist={nlist}
-
-=[Z/Sec/s3]
+=[Z/paras/s3]
 
 DocBody={Doc}
 
