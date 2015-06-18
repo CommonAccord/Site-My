@@ -1,0 +1,3 @@
+sec=<span style="text-transform: uppercase">The {Work} (as defined below) is provided under the terms of this Copyfarleft Public License (“{License}”).  The {Work} is protected by copyright and all other applicable laws. any use of the {Work} other than as authorized under this {License} or copyright law is prohibited. By exercising any rights to the {Work} provided in this {License}, you agree to be bound by the terms of this {License}. To the extent this {License} may be considered to be a contract, the {Licensor} grants you the rights contained here in as consideration for accepting the terms and conditions of this {License} and for agreeing to be bound by the terms and conditions of this {License}.</span>
+
+Model.Root={sec}

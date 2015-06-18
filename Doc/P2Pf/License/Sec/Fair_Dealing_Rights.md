@@ -1,0 +1,3 @@
+Ti=Fair Dealing Rights
+
+sec=Nothing in this {License} is intended to reduce, limit, or restrict any uses free from copyright or rights arising from limitations or exceptions that are provided for in connection with the copyright protection under copyright law or other applicable laws.
