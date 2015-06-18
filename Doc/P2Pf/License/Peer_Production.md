@@ -128,8 +128,9 @@ Doc.Title=LICENSE
 8.5.sec=This License constitutes the entire agreement between the parties with respect to the Work licensed here. There are no understandings, agreements or representations with respect to the Work not specified here. Licensor shall not be bound by any additional provisions that may appear in any communication from You. This License may not be modified without the mutual written agreement of the Licensor and You. 
 
 8.6.sec=The rights granted under, and the subject matter referenced, in this License were draft ed utilizing the terminology of the Berne Convention for the Protection of Literary and Artistic Works (as amended on September 28, 1979), the Rome Convention of 1961, the WIPO Copyright Treaty of 1996, the WIPO Performances and Phonograms Treaty of 1996 and the Universal Copyright Convention (as revised on July 24, 1971). These rights and subject matter take effect in the relevant jurisdiction in which the License terms are sought to be enforced according to the corresponding provisions of the implemen tation of those treaty provisions in the applicable national law. If the standard suite of rights granted under applicable copyright law includes additional rights not granted under this License, such additional rights are deemed to be included in the License; this License is not intended to restrict the license of any rights under applicable law. 
+
 8.=[Z/Sec/s6]
 
 =[Z/Sec/8]
 
-DocBody={Doc}
+DocBody=<!DOCTYPE html><html><head><title>{PageName}</title><style>ol (Curly-)list-style-type: decimal;(-Curly) ol ol (Curly-)list-style-type: lower-alpha;(-Curly) ol ol ol (Curly-)list-style-type: decimal;(-Curly) ol ol ol ol (Curly-)list-style-type: upper-alpha;(-Curly) ol ol ol ol ol (Curly-)list-style-type: lower-roman;(-Curly) ol ol ol ol ol ol (Curly-)list-style-type: upper-roman;(-Curly) ol ol ol ol ol ol ol (Curly-)list-style-type: lower-alpha;(-Curly)</style></head><body>{Doc}
