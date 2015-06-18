@@ -2,6 +2,8 @@ Adaptation={d-}Adaptation{-d}
 
 Adaptations={d-}Adaptations{-d}
 
+Attribution_Parties={d-}Attribution Parties{-d}
+
 Collection={d-}Collection{-d}
 
 Collections={d-}Collections{-d}
