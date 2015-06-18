@@ -30,6 +30,8 @@ N/A/T/E={Name.Full}<br>{Addr.1/2}<br>{Phone}<br>{Email}
 
 Addr.1/2={Addr.1}<br/>{Addr.2}
 
+Addr.2={Addr.City}, {Addr.ST}  {Addr.Zip}
+
 Letterhead=<center><b>{Name.Full}</b></center><br><table width="100%"><tr><td width="30%">{Best.Name.Full}<br>{Best.Title}</td><td width="40%"></td><td width=30%>{Addr.1/2}<br>{Phone}<br>{Domain.Com}</td></tr></table>
 
 Notice.Block=Notices to {Handle}:<br>{Addr.N/1/2}<br>Attention: {Notice.Name,Title}
