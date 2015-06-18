@@ -87,7 +87,10 @@ my $output  = parse($ARGV[0], "Model.Root");
 # XXX FIX ME XXX This is horrible - but  I'm just dead tired  :(
 my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 @arr = grep { ! $seen{$_}++ } @arr;
+#comment 1 and uncomment 2 to make a list of defined terms.
 print "$_=<br><br>" foreach @arr;
+# print "$_=\{d-\}$_\{-d\}<br><br>" foreach @arr;
+
 print "</p></div>";
 
 
