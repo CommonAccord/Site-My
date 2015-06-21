@@ -14,7 +14,7 @@ Ti=Materials
 
 1.3.sec={Licensor} hereby grants to {Licensee} non-exclusive, non-transferable, worldwide, perpetual right to the {Licensed_Materials} and to provide the {Licensed_Materials} to {Authorized_Users} in accordance with {this_Agreement}.
 
-1.4.=[License/Copy/UC-Regents/Sec/Grant.md]
+1.4.=[License/CR/UC-Regents/Sec/Grant.md]
 
 PerpetualLicense.Xref=Section 1.4
 
