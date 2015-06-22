@@ -1,4 +1,4 @@
-xlist=<ol><li>{Setting.Sec}</li><li>{Def.Sec}</li><li>{Lic.Sec}</li><li>{LicSub.Sec}</li><li>{Govt.Sec}</li><li>{Fee.Sec}</li><li>{Prosecute.Sec}</li><li>{Record.Sec}</li><li>{Report.Sec}</li><li>{Commerce.Sec}</li><li>{Enforce.Sec}</li><li>{Disclaim.Sec}</li><li>{Term.Sec}</li><li>{Misc.Sec}</li></ol>
+xlist=<ol><li>{Setting.Sec}</li><li>{Def.Sec}</li><li>{Lic.Sec}</li><li>{LicSub.Sec}</li><li>{Govt.Sec}</li><li>{Fee.Sec}</li><li>{Prosecute.Sec}</li><li>{Record.Sec}</li><li>{Report.Sec}</li><li>{Commerce.Sec}</li><li>{Enforce.Sec}</li><li>{Disclaim.Sec}</li><li>{Expire.Sec}</li><li>{Misc.Sec}</li></ol>
 
 <b>Setting</b>=-
 
@@ -73,7 +73,7 @@ Lic.Grant.Sec=<u>Grant</u>.  The Licensor hereby grants and the Licensee accept
 
 Lic.Exclude.Sec=<u>Excluded</u>.  This Agreement confers no license or rights by implication, estoppel, or otherwise under any patent applications or patents of the {P1.Handle} other than the Licensed Patent Rights regardless of whether these patents are dominant or subordinate to the Licensed Patent Rights.
 
-LicSub.Sec=<u>Sub-Licensing</u>.  <ol><li>{LicSub.Grant.Sec}</li><li>{LicSub.Subject.Sec}</li><li>{LicSub.Term.Subject.Sec}</li><li>{LicSub.Report.Start.Sec}</li></ol>
+LicSub.Sec=<u>Sub-Licensing</u>.  <ol><li>{LicSub.Grant.Sec}</li><li>{LicSub.Subject.Sec}</li><li>{LicSub.Expire.Subject.Sec}</li><li>{LicSub.Report.Start.Sec}</li></ol>
 
 LicSub.Grant.Sec=Upon written approval, which shall include prior review of any sublicense agreement by the {P1.Handle} and which shall not be unreasonably withheld, the Licensee may enter into sublicensing agreements under the Licensed Patent Rights.
 
@@ -81,7 +81,7 @@ LicSub.Subject.Sec=The Licensee agrees that any sublicenses granted by it shall 
 
 LicSub.Subject.Xrefs.and=5.1, 5.4, 8.1, 10.1, 10.2, 12.5, and 13.8-13.10
 
-LicSub.Term.Subject.Sec=Any sublicenses granted by the Licensee shall provide for the termination of the sublicense, or the conversion to a license directly between the sublicensees and the {P1.Handle}, at the option of the sublicensee, upon termination of this Agreement under Article 13.  This conversion is subject to the {P1.Handle} approval and contingent upon acceptance by the sublicensee of the remaining provisions of this Agreement.
+LicSub.Expire.Subject.Sec=Any sublicenses granted by the Licensee shall provide for the termination of the sublicense, or the conversion to a license directly between the sublicensees and the {P1.Handle}, at the option of the sublicensee, upon termination of this Agreement under Article 13.  This conversion is subject to the {P1.Handle} approval and contingent upon acceptance by the sublicensee of the remaining provisions of this Agreement.
 
 LicSub.Report.Start.Sec=The Licensee agrees to forward to the {P1.Handle} a complete copy of each fully executed sublicense agreement postmarked within thirty (30) days of the execution of the agreement.  To the extent permitted by law, the {P1.Handle} agrees to maintain each sublicense agreement in confidence.
 
@@ -231,40 +231,40 @@ Enforce.Cost.Sec=In any action under Paragraphs {Enforce.Lcsee.Sec.Xnum} or {Enf
 
 Enforce.LcsorCoop.Sec=The {P1.Handle} shall cooperate fully with the Licensee in connection with any action under Paragraphs {Enforce.Lcsee.Sec.Xnum} or {Enforce.Challenge.Sec.Xnum}  The {P1.Handle} agrees promptly to provide access to all necessary documents and to render reasonable assistance in response to a request by the Licensee.
 
-Term.Sec=<u>Term, Termination, and Modification of Rights</u>.<ol><li>{Term.Agreed.Sec}</li><li>{Term.Stop.Lcsor.Breach.Sec}</li><li>{Term.Stop.Lcsor.Broke.Sec}</li><li>{Term.Stop.Lscee.Elect.Sec}</li><li>{Term.Stop.Lcsor.Breach.Specific.Sec}</li><li>{Term.Stop.Lcsor.Breach.Specific.Process.Sec}</li><li>{LicSub.Lcsor.Compel.PublicHealth.Sec}</li><li>{Term.Stop.Lcsor.LaterPublicUseLaw.Sec}</li><li>{Term.Stop.Lcsee.Appeal.Sec}</li><li>{Term.After.Sec}</li></ol>
+Expire.Sec=<u>Term, Termination, and Modification of Rights</u>.<ol><li>{Expire.Agreed.Sec}</li><li>{Expire.Stop.Lcsor.Breach.Sec}</li><li>{Expire.Stop.Lcsor.Broke.Sec}</li><li>{Expire.Stop.Lscee.Elect.Sec}</li><li>{Expire.Stop.Lcsor.Breach.Specific.Sec}</li><li>{Expire.Stop.Lcsor.Breach.Specific.Process.Sec}</li><li>{LicSub.Lcsor.Compel.PublicHealth.Sec}</li><li>{Expire.Stop.Lcsor.LaterPublicUseLaw.Sec}</li><li>{Expire.Stop.Lcsee.Appeal.Sec}</li><li>{Expire.After.Sec}</li></ol>
 
-Term.Agreed.Sec=This Agreement is effective when signed by all parties, unless the provisions of Paragraph 14.16 are not fulfilled, and shall extend to the expiration of the last to expire of the Licensed Patent Rights unless sooner terminated as provided in this Article {Term.Sec.Xnum}.
+Expire.Agreed.Sec=This Agreement is effective when signed by all parties, unless the provisions of Paragraph 14.16 are not fulfilled, and shall extend to the expiration of the last to expire of the Licensed Patent Rights unless sooner terminated as provided in this Article {Expire.Sec.Xnum}.
 
-Term.Stop.Lcsor.Breach.Sec=In the event that the Licensee is in default in the performance of any material obligations under this Agreement, including but not limited to the obligations listed in Paragraph 13.5, and if the default has not been remedied within ninety (90) days after the date of notice in writing of the default, the {P1.Handle} may terminate this Agreement by written notice and pursue outstanding royalties owed through procedures provided by the Federal Debt Collection Act.
+Expire.Stop.Lcsor.Breach.Sec=In the event that the Licensee is in default in the performance of any material obligations under this Agreement, including but not limited to the obligations listed in Paragraph 13.5, and if the default has not been remedied within ninety (90) days after the date of notice in writing of the default, the {P1.Handle} may terminate this Agreement by written notice and pursue outstanding royalties owed through procedures provided by the Federal Debt Collection Act.
 
-Term.Stop.Lcsor.Broke.Sec=In the event that the Licensee becomes insolvent, files a petition in bankruptcy, has such a petition filed against it, determines to file a petition in bankruptcy, or receives notice of a third party's intention to file an involuntary petition in bankruptcy, the Licensee shall immediately notify the {P1.Handle} in writing.
+Expire.Stop.Lcsor.Broke.Sec=In the event that the Licensee becomes insolvent, files a petition in bankruptcy, has such a petition filed against it, determines to file a petition in bankruptcy, or receives notice of a third party's intention to file an involuntary petition in bankruptcy, the Licensee shall immediately notify the {P1.Handle} in writing.
 
-Term.Stop.Lscee.Elect.Sec=The Licensee shall have a unilateral right to terminate this Agreement or any licenses in any country or territory by giving the {P1.Handle} sixty (60) days written notice to that effect.
+Expire.Stop.Lscee.Elect.Sec=The Licensee shall have a unilateral right to terminate this Agreement or any licenses in any country or territory by giving the {P1.Handle} sixty (60) days written notice to that effect.
 
-Term.Stop.Lcsor.Breach.Specific.Sec=The {P1.Handle} shall specifically have the right to terminate or modify, at its option, this Agreement, if the {P1.Handle} determines that the Licensee:<ol><li>{Term.Stop.Lcsor.Breach.Specific.Commerce.cl}</li><li>{Term.Stop.Lcsor.Breach.Specific.Bench.cl}</li><li>{Term.Stop.Lcsor.Breach.Specific.Lie.cl}</li><li>{Term.Stop.Lcsor.Breach.Specific.Material.cl}</li><li>{Term.Stop.Lcsor.Breach.Specific.PublicAccess.cl}</li><li>{Term.Stop.Lcsor.Breach.Specific.HealthNeed.cl}</li><li>{Term.Stop.Lcsor.Breach.Specific.DomesticProduction.cl}</li></ol>
+Expire.Stop.Lcsor.Breach.Specific.Sec=The {P1.Handle} shall specifically have the right to terminate or modify, at its option, this Agreement, if the {P1.Handle} determines that the Licensee:<ol><li>{Expire.Stop.Lcsor.Breach.Specific.Commerce.cl}</li><li>{Expire.Stop.Lcsor.Breach.Specific.Bench.cl}</li><li>{Expire.Stop.Lcsor.Breach.Specific.Lie.cl}</li><li>{Expire.Stop.Lcsor.Breach.Specific.Material.cl}</li><li>{Expire.Stop.Lcsor.Breach.Specific.PublicAccess.cl}</li><li>{Expire.Stop.Lcsor.Breach.Specific.HealthNeed.cl}</li><li>{Expire.Stop.Lcsor.Breach.Specific.DomesticProduction.cl}</li></ol>
 
-Term.Stop.Lcsor.Breach.Specific.Commerce.cl=is not executing the Commercial Development Plan submitted with its request for a license and the Licensee cannot otherwise demonstrate to the {P1.Handle}’s satisfaction that the Licensee has taken, or can be expected to take within a reasonable time, effective steps to achieve the Practical Application of the Licensed Products or the Licensed Processes;
+Expire.Stop.Lcsor.Breach.Specific.Commerce.cl=is not executing the Commercial Development Plan submitted with its request for a license and the Licensee cannot otherwise demonstrate to the {P1.Handle}’s satisfaction that the Licensee has taken, or can be expected to take within a reasonable time, effective steps to achieve the Practical Application of the Licensed Products or the Licensed Processes;
 
-Term.Stop.Lcsor.Breach.Specific.Bench.cl=has not achieved the Benchmarks as may be modified under Paragraph 9.2;
+Expire.Stop.Lcsor.Breach.Specific.Bench.cl=has not achieved the Benchmarks as may be modified under Paragraph 9.2;
 
-Term.Stop.Lcsor.Breach.Specific.Lie.cl=has willfully made a false statement of, or willfully omitted a material fact in the license application or in any report required by this Agreement;
+Expire.Stop.Lcsor.Breach.Specific.Lie.cl=has willfully made a false statement of, or willfully omitted a material fact in the license application or in any report required by this Agreement;
 
-Term.Stop.Lcsor.Breach.Specific.Material.cl=has committed a material breach of a covenant or agreement contained in this Agreement;
+Expire.Stop.Lcsor.Breach.Specific.Material.cl=has committed a material breach of a covenant or agreement contained in this Agreement;
 
-Term.Stop.Lcsor.Breach.Specific.PublicAccess.cl=is not keeping the Licensed Products or the Licensed Processes reasonably available to the public after commercial use commences;
+Expire.Stop.Lcsor.Breach.Specific.PublicAccess.cl=is not keeping the Licensed Products or the Licensed Processes reasonably available to the public after commercial use commences;
 
-Term.Stop.Lcsor.Breach.Specific.HealthNeed.cl=cannot reasonably satisfy unmet health and safety needs; or
+Expire.Stop.Lcsor.Breach.Specific.HealthNeed.cl=cannot reasonably satisfy unmet health and safety needs; or
 
-Term.Stop.Lcsor.Breach.Specific.DomesticProduction.cl=cannot reasonably justify a failure to comply with the domestic production requirement of Paragraph 5.2 unless waived.
-Term.Stop.Lcsor.Breach.Specific.Process.Sec=In making the determination referenced in Paragraph 13.5, the {P1.Handle} shall take into account the normal course of such commercial development programs conducted with sound and reasonable business practices and judgment and the annual reports submitted by the Licensee under Paragraph 9.2.  Prior to invoking termination or modification of this Agreement under Paragraph 13.5, the {P1.Handle} shall give written notice to the Licensee providing the Licensee specific notice of, and a ninety (90) day opportunity to respond to, the {P1.Handle}’s concerns as to the items referenced in 13.5(1)-13.5(7).  If the Licensee fails to alleviate the {P1.Handle}’s concerns as to the items referenced in 13.5(1)-13.5(7) or fails to initiate corrective action to the {P1.Handle}’s satisfaction, the {P1.Handle} may terminate this Agreement.
+Expire.Stop.Lcsor.Breach.Specific.DomesticProduction.cl=cannot reasonably justify a failure to comply with the domestic production requirement of Paragraph 5.2 unless waived.
+Expire.Stop.Lcsor.Breach.Specific.Process.Sec=In making the determination referenced in Paragraph 13.5, the {P1.Handle} shall take into account the normal course of such commercial development programs conducted with sound and reasonable business practices and judgment and the annual reports submitted by the Licensee under Paragraph 9.2.  Prior to invoking termination or modification of this Agreement under Paragraph 13.5, the {P1.Handle} shall give written notice to the Licensee providing the Licensee specific notice of, and a ninety (90) day opportunity to respond to, the {P1.Handle}’s concerns as to the items referenced in 13.5(1)-13.5(7).  If the Licensee fails to alleviate the {P1.Handle}’s concerns as to the items referenced in 13.5(1)-13.5(7) or fails to initiate corrective action to the {P1.Handle}’s satisfaction, the {P1.Handle} may terminate this Agreement.
 
 LicSub.Lcsor.Compel.PublicHealth.Sec=When the public health and safety so require, and after written notice to the Licensee providing the Licensee a sixty (60) day opportunity to respond, the {P1.Handle} shall have the right to require the Licensee to grant sublicenses to responsible applicants, on reasonable terms, in any Licensed Fields of Use under the Licensed Patent Rights, unless the Licensee can reasonably demonstrate that the granting of the sublicense would not materially increase the availability to the public of the subject matter of the Licensed Patent Rights.  The {P1.Handle} shall not require the granting of a sublicense unless the responsible applicant has first negotiated in good faith with the Licensee.
 
-Term.Stop.Lcsor.LaterPublicUseLaw.Sec=The {P1.Handle} reserves the right according to 35 U.S.C. §209(d)(3) to terminate or modify this Agreement if it is determined that this action is necessary to meet the requirements for public use specified by federal regulations issued after the date of the license and these requirements are not reasonably satisfied by the Licensee.
+Expire.Stop.Lcsor.LaterPublicUseLaw.Sec=The {P1.Handle} reserves the right according to 35 U.S.C. §209(d)(3) to terminate or modify this Agreement if it is determined that this action is necessary to meet the requirements for public use specified by federal regulations issued after the date of the license and these requirements are not reasonably satisfied by the Licensee.
 
-Term.Stop.Lcsee.Appeal.Sec=Within thirty (30) days of receipt of written notice of the {P1.Handle}'s unilateral decision to modify or terminate this Agreement, the Licensee may, consistent with the provisions of 37 C.F.R. §404.11, appeal the decision by written submission to the designated {P1.Handle} official.  The decision of the designated the {P1.Handle} official shall be the final agency decision.  The Licensee may thereafter exercise any and all administrative or judicial remedies that may be accesable.
+Expire.Stop.Lcsee.Appeal.Sec=Within thirty (30) days of receipt of written notice of the {P1.Handle}'s unilateral decision to modify or terminate this Agreement, the Licensee may, consistent with the provisions of 37 C.F.R. §404.11, appeal the decision by written submission to the designated {P1.Handle} official.  The decision of the designated the {P1.Handle} official shall be the final agency decision.  The Licensee may thereafter exercise any and all administrative or judicial remedies that may be accesable.
 
-Term.After.Sec=Within ninety (90) days of expiration or termination of this Agreement under this Article 13, a final report shall be submitted by the Licensee.  Any royalty payments, including those incurred but not yet paid (such as the full minimum annual royalty), and those related to patent expenses, due to the {P1.Handle} shall become immediately due and payable upon termination or expiration.  If terminated under this Article 13, sublicensees may elect to convert their sublicenses to direct licenses with the {P1.Handle} pursuant to Paragraph 4.3.  Unless otherwise specifically provided for under this Agreement, upon termination or expiration of this Agreement, the Licensee shall return all Licensed Products or other materials included within the Licensed Patent Rights to the {P1.Handle} or provide the {P1.Handle} with certification of the destruction thereof.  The Licensee may not be granted additional {P1.Handle} licenses if the final reporting requirement is not fulfilled.
+Expire.After.Sec=Within ninety (90) days of expiration or termination of this Agreement under this Article 13, a final report shall be submitted by the Licensee.  Any royalty payments, including those incurred but not yet paid (such as the full minimum annual royalty), and those related to patent expenses, due to the {P1.Handle} shall become immediately due and payable upon termination or expiration.  If terminated under this Article 13, sublicensees may elect to convert their sublicenses to direct licenses with the {P1.Handle} pursuant to Paragraph 4.3.  Unless otherwise specifically provided for under this Agreement, upon termination or expiration of this Agreement, the Licensee shall return all Licensed Products or other materials included within the Licensed Patent Rights to the {P1.Handle} or provide the {P1.Handle} with certification of the destruction thereof.  The Licensee may not be granted additional {P1.Handle} licenses if the final reporting requirement is not fulfilled.
 
 Disclaim.Sec=<u>Negation of Warranties and Indemnification</u>.  <ol><li>{Disclaim.Lcsor.Warranty.Sec}</li><li>{Disclaim.Lcsor.PatentValidity.Sec}</li><li>{Disclaim.Lcsor.Merchantability.Sec}</li><li>{Disclaim.Lcsor.Enforce.Sec}</li><li>{Remedy.Lcsor.Indemn.Sec}</li><li>{Rep.Lscee.Insure.Sec}</li></ol>
 
@@ -284,7 +284,7 @@ Remedy.Lcsor.Indemn.Products.cl=the design, manufacture, distribution, or use of
 
 Rep.Lscee.Insure.Sec=<u>Insurance</u>.  The Licensee agrees to maintain a liability insurance program consistent with sound business practice.
 
-Misc.Sec=<u>General Provisions</u>.<ol><li>{Misc.Waive.Sec}</li><li>{Misc.Entire.Sec}</li><li>{Misc.Sever.Sec}</li><li>{Misc.Amend.Sec}</li><li>{Misc.Law.Sec}</li><li>{Misc.Notice.Sec}</li><li>{Misc.Assign.Sec}</li><li>{Misc.AbideMaterialsLaw.Sec}</li><li>{Misc.AbideUSLaw.Sec}</li><li>{Misc.PatentMarking.Sec}</li><li>{Disclaim.Lcsor.Endorse.Sec}</li><li>{Dispute.Sec}</li><li>{Disclaim.AntitrustImmunity.Sec}</li><li>{Misc.RecordAgreement.Sec}</li><li>{Misc.Survive.Sec}</li><li>{Term.Start.Cond.PromptSign.Sec}</li></ol>
+Misc.Sec=<u>General Provisions</u>.<ol><li>{Misc.Waive.Sec}</li><li>{Misc.Entire.Sec}</li><li>{Misc.Sever.Sec}</li><li>{Misc.Amend.Sec}</li><li>{Misc.Law.Sec}</li><li>{Misc.Notice.Sec}</li><li>{Misc.Assign.Sec}</li><li>{Misc.AbideMaterialsLaw.Sec}</li><li>{Misc.AbideUSLaw.Sec}</li><li>{Misc.PatentMarking.Sec}</li><li>{Disclaim.Lcsor.Endorse.Sec}</li><li>{Dispute.Sec}</li><li>{Disclaim.AntitrustImmunity.Sec}</li><li>{Misc.RecordAgreement.Sec}</li><li>{Misc.Survive.Sec}</li><li>{Expire.Start.Cond.PromptSign.Sec}</li></ol>
 
 Misc.Waive.Sec=<u>Waiver</u>.  Neither party may waive or release any of its rights or interests in this Agreement except in writing.  The failure of the Government to assert a right hereunder or to insist upon compliance with any term or condition of this Agreement shall not constitute a waiver of that right by the Government or excuse a similar subsequent failure to perform any of these terms or conditions by the Licensee.
 
@@ -317,7 +317,7 @@ Misc.Survive.Sec=<u>Survival</u>.  Paragraphs {Misc.Survive.Xrefs} of this Agre
 
 Misc.Survive.Xrefs=4.3, 8.1, 9.5-9.8, 12.1-12.5, 13.9, 13.10, 14.12 and 14.15
 
-Term.Start.Cond.PromptSign.Sec=<u>Time to Sign</u>.  The terms and conditions of this Agreement shall, at the {P1.Handle}’s sole option, be considered by the {P1.Handle} to be withdrawn from the Licensee’s consideration and the terms and conditions of this Agreement, and the Agreement itself to be null and void, unless this Agreement is executed by the Licensee and a fully executed original is received by the {P1.Handle} within sixty (60) days from the date of the {P1.Handle}’s signature found at the Signature Page.
+Expire.Start.Cond.PromptSign.Sec=<u>Time to Sign</u>.  The terms and conditions of this Agreement shall, at the {P1.Handle}’s sole option, be considered by the {P1.Handle} to be withdrawn from the Licensee’s consideration and the terms and conditions of this Agreement, and the Agreement itself to be null and void, unless this Agreement is executed by the Licensee and a fully executed original is received by the {P1.Handle} within sixty (60) days from the date of the {P1.Handle}’s signature found at the Signature Page.
 
 P1.Handle=NIH
 
@@ -339,7 +339,7 @@ Enforce.Lcsee.Sec.Xnum=11.2
 
 Enforce.Challenge.Sec.Xnum=11.3
 
-Term.Sec.Xnum=13
+Expire.Sec.Xnum=13
 
 2=2
 
