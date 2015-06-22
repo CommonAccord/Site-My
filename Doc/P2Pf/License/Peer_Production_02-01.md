@@ -24,6 +24,6 @@ Expire.=[P2Pf/License/Sec/Termination.md]
 
 Misc.=[P2Pf/License/Sec/Miscellaneous.md]
 
-Model.Root=<font color="grey"><font color='red'>{MessageToUser}</font></font><center><h4>License</h4></center><br></i> <ol><li>{Secs}</ol>
+=[Z/Sec/0]
 
 DocBody=<!DOCTYPE html><html><head><title>{PageName}</title><style>ol (Curly-)list-style-type: decimal;(-Curly) ol ol (Curly-)list-style-type: lower-alpha;(-Curly) ol ol ol (Curly-)list-style-type: decimal;(-Curly) ol ol ol ol (Curly-)list-style-type: upper-alpha;(-Curly) ol ol ol ol ol (Curly-)list-style-type: lower-roman;(-Curly) ol ol ol ol ol ol (Curly-)list-style-type: upper-roman;(-Curly) ol ol ol ol ol ol ol (Curly-)list-style-type: lower-alpha;(-Curly)</style></head><body>{Doc}
