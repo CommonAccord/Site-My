@@ -1,6 +1,6 @@
 Note=See notes in [P2Pf/License/Peer_Production.md]
 
-Secs={Def.Sec}<li>{FairDealing.Sec}<li>{Grant.Sec}<li>{Restrict.Sec}<li>{Reps.Sec}<li>{Liability.Sec}<li>{Expire.Sec}<li>{Misc.Sec}
+Olist=<ol><li>{Def.Sec}<li>{FairDealing.Sec}<li>{Grant.Sec}<li>{Restrict.Sec}<li>{Reps.Sec}<li>{Liability.Sec}<li>{Expire.Sec}<li>{Misc.Sec}</ol>
 
 =[P2Pf/License/Sec/Defined_Terms.md]
 
