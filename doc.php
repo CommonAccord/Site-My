@@ -1,9 +1,3 @@
-<head>
-<style>
-span:hover {font-size: 101%;}
-
-</style>
-</head>
 <body style="margin:40;padding:0">
 
 <?php
