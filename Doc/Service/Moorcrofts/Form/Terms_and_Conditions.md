@@ -232,6 +232,8 @@ Doc.Title=General Terms and Conditions of Software, Hardware and Consultancy Sup
 
 19.2.2.sec=to the extent permitted by law.
 
+19.2.=[Z/Sec/s2]
+
 19.3.sec={The_Supplier} agrees to be bound by the obligations contained in the above clauses 19.1 and 19.2 likewise in relation to any confidential information which {the_Customer} may give to {the_Supplier}.
 
 19.4.sec=During the term of this agreement and for the period of six months thereafter The the parties agree that they shall not, directly or indirectly, engage or hire or offer or procure the offer of employment or a contract for services to any Restricted Employee or otherwise persuade or seek to persuade any Restricted Employee to terminate his employment or engagement with the other party [or any of its Group Companies]Customer agrees not to solicit or engage any of {the_Supplier}’s staff (with whom {the_Customer} has had contact) directly or indirectly within at least six months after the termination of any contract between the parties.
