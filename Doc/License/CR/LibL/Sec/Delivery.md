@@ -1,9 +1,10 @@
-
 Ti=DELIVERY AND ACCESS
 
 1.Ti=Delivery
 
-1.sec=Licensor will provide or otherwise make available the Licensed Materials to the Licensee through telecommunications, network, or web-based connections between one or more of Licensor’s physical, online, or virtual locations, and one or more of Licensee’s authorized physical, online, or virtual locations. Licensor will use reasonable efforts to ensure that the Licensed Materials are accessible and inter-operable with prevailing web browsers and internet access tools, including, at a minimum, the most recent two major versions (current version and one version prior) and all the associated releases for those versions. {The LMLA assumes web or other internet-based delivery; if the product involves alternative delivery methods such as locally installed hardware or software or delivery on physical media, this clause would require customization.}
+1.sec=Licensor will provide or otherwise make available the Licensed Materials to the Licensee through telecommunications, network, or web-based connections between one or more of Licensor’s physical, online, or virtual locations, and one or more of Licensee’s authorized physical, online, or virtual locations. Licensor will use reasonable efforts to ensure that the Licensed Materials are accessible and inter-operable with prevailing web browsers and internet access tools, including, at a minimum, the most recent two major versions (current version and one version prior) and all the associated releases for those versions.
+
+Note={The LMLA assumes web or other internet-based delivery; if the product involves alternative delivery methods such as locally installed hardware or software or delivery on physical media, this clause would require customization.}
 
 2.Ti=Access and Authentication
 

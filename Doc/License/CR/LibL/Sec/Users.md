@@ -11,7 +11,8 @@ Ti=AUTHORIZED USERS AND USES
 1.3.sec=Other valid ID holders; and
 
 1.4.sec=Patrons not affiliated with Licensee, who are physically present at Licensee’s site(s) (“Walk-ins”).
-{Liblicense editors recommend that each institution should create their own Authorized User definition and tailor this Authorized Users clause accordingly.}
+
+Note={Liblicense editors recommend that each institution should create their own Authorized User definition and tailor this Authorized Users clause accordingly.}
 
 1.=[Z/Sec/s4]
 
@@ -54,6 +55,7 @@ Ti=AUTHORIZED USERS AND USES
 2.9.Ti=Bibliographic Citations
 
 2.9.sec=For the avoidance of doubt, Licensee and Authorized Users may use citation and abstract information in faculty profiling systems, in lists of publications on faculty and institutional web pages, and to create bibliographies.
+
 2.10.Ti=Text and Data Mining
 
 2.10.sec=Authorized Users may use the Licensed Materials to perform and engage in text and/or data mining activities for academic research, scholarship, and other educational purposes, utilize and share the results of text and/or data mining in their scholarly work, and make the results available for use by others, so long as the purpose is not to create a product for use by third parties that would substitute for the Licensed Materials. Licensor will cooperate with Licensee and Authorized Users as reasonably necessary in making the Licensed Materials available in a manner and form most useful to the Authorized User. If Licensee or Authorized Users request the Licensor to deliver or otherwise prepare copies of the Licensed Materials for text and data mining purposes, any fees charged by Licensor shall be solely for preparing and delivering such copies on a time and materials basis.
