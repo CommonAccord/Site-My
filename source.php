@@ -12,7 +12,7 @@ include("header.php");
 
 echo "<h4>
 
-<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/><img src='" . ASSETS_PATH . "/arrowup.png' height=25>$rootdir[dirname]</a>/<b>$filenameX</b><br><center>
+<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/><img src='assets/arrowup.png' height=25>$rootdir[dirname]</a>/<b>$filenameX</b><br><center>
 <a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>Render the Document</b></a>
   &emsp; 
 
