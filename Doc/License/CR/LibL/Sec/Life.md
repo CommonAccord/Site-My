@@ -6,11 +6,15 @@ Ti=TERM, RENEWAL AND TERMINATION
 
 2.Ti=Renewal
 
-2.sec=This Agreement shall be renewable at the end of the current term for a successive [one (1) year] term unless either party gives written notice of its intention to cancel [thirty (30) days] before expiration of the current term. In the event of a price increase for a subsequent term as provided for in Section 2.2, Licensee shall have no less than [sixty (60) days] from the date of notification of the price increase to notify Licensor of Licensee’s intent to cancel or renegotiate. {Liblicense editors suggest including this clause for a term with automatic renewal, and using the same number of days here in 6.2 as specified in 2.2. If your institution does not permit automatic renewal, strike this clause and renegotiate a new Agreement prior to the expiration of the current Agreement.}
+2.sec=This Agreement shall be renewable at the end of the current term for a successive [one (1) year] term unless either party gives written notice of its intention to cancel [thirty (30) days] before expiration of the current term. In the event of a price increase for a subsequent term as provided for in Section 2.2, Licensee shall have no less than [sixty (60) days] from the date of notification of the price increase to notify Licensor of Licensee’s intent to cancel or renegotiate.
+
+Note={Liblicense editors suggest including this clause for a term with automatic renewal, and using the same number of days here in 6.2 as specified in 2.2. If your institution does not permit automatic renewal, strike this clause and renegotiate a new Agreement prior to the expiration of the current Agreement.}
 
 3.Ti=Early Termination for Financial Hardship
 
-3.sec=The Licensee may terminate this Agreement without penalty if sufficient content acquisitions funds are not allocated to enable the Licensee, in the exercise of its reasonable administrative discretion, to continue this Agreement. In the event of such financial circumstances, Licensee agrees to notify Licensor of the intent to terminate the Agreement as soon as is reasonably possible, but in any case, no less than [enter a mutually agreeable number of days] prior to next payment date. {Liblicense editors suggest that this clause may be most appropriate for multiple year Agreements.}
+3.sec=The Licensee may terminate this Agreement without penalty if sufficient content acquisitions funds are not allocated to enable the Licensee, in the exercise of its reasonable administrative discretion, to continue this Agreement. In the event of such financial circumstances, Licensee agrees to notify Licensor of the intent to terminate the Agreement as soon as is reasonably possible, but in any case, no less than [enter a mutually agreeable number of days] prior to next payment date.
+
+Note={Liblicense editors suggest that this clause may be most appropriate for multiple year Agreements.}
 
 4.Ti=Termination for Breach
 

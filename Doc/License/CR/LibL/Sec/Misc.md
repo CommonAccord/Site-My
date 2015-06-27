@@ -8,7 +8,9 @@ Ti=MISCELLANEOUS PROVISIONS
 
 2.Ti=Governing Law
 
-2.sec=This Agreement shall be interpreted and construed according to, and governed by, the laws of [enter venue convenient to Licensor and Licensee], without regard to its conflict of laws rules. The federal or state courts located in [enter venue convenient to Licensor and Licensee] shall have jurisdiction to hear any dispute under this Agreement. {For state institutions, the governing law and venue may be determined by policy, statute or the state’s constitution. Liblicense editors recommend discussing governing law and venue requirements with your general counsel or an appropriate administrator.}
+2.sec=This Agreement shall be interpreted and construed according to, and governed by, the laws of [enter venue convenient to Licensor and Licensee], without regard to its conflict of laws rules. The federal or state courts located in [enter venue convenient to Licensor and Licensee] shall have jurisdiction to hear any dispute under this Agreement.
+
+Note={For state institutions, the governing law and venue may be determined by policy, statute or the state’s constitution. Liblicense editors recommend discussing governing law and venue requirements with your general counsel or an appropriate administrator.}
 
 3.Ti=Force Majeure
 
