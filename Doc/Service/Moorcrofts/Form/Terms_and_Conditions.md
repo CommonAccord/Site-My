@@ -1,3 +1,4 @@
+Note=www.moorcrofts.com info@moorcrofts.com
 
 Doc.Title=General Terms and Conditions of Software, Hardware and Consultancy Supply
 
