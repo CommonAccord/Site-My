@@ -66,7 +66,9 @@ Note={Liblicense editors recommend that each institution should create their own
 
 2.12.Ti=Backup Copy
 
-2.12.sec=Licensor shall provide to Licensee upon request, or Licensee may create, one (1) copy of the entire set of Licensed Materials to be maintained as a backup copy. In the event that the Agreement is terminated, Licensee may use the backup copy to exercise any perpetual license rights granted in this Agreement, including but not limited to use of the backup copy as the archival copy as specified in Section 8, below. Where perpetual rights have not been granted, Licensee will destroy all backup copies within [thirty (30) business days] of termination of this Agreement.
+2.12.sec=Licensor shall provide to Licensee upon request, or Licensee may create, one (1) copy of the entire set of Licensed Materials to be maintained as a backup copy. In the event that the Agreement is terminated, Licensee may use the backup copy to exercise any perpetual license rights granted in this Agreement, including but not limited to use of the backup copy as the archival copy as specified in Section 8, below. Where perpetual rights have not been granted, Licensee will destroy all backup copies within {BackupCopy.Destroy.Period} of termination of this Agreement.
+
+BackupCopy.Destroy.Period=thirty (30) business days
 
 2.=[Z/Sec/12]
 

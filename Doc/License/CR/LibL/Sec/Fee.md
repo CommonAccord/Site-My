@@ -8,7 +8,14 @@ Note={Liblicense editors suggest that these issues be negotiated and addressed i
 
 2.Ti=Notice of Price Increases
 
-2.sec=Licensor shall provide Licensee with a price list for all Licensed Materials no less than [sixty (60)] days prior to the end of the current term.
+2.sec=Licensor shall provide Licensee with a price list for all Licensed Materials no less than {NewPriceList.DaysBeforeEnd.sec}.
+
+
+NewPriceList.DaysBeforeEnd.Alt1.sec=sixty (60) days prior to the end of the current term
+
+NewPriceList.DaysBeforeEnd.Alt2.sec=no less than sixty (60) days prior to the cancellation notice date
+
+NewPriceList.DaysBeforeEnd.=[Z/Alt/2]
 
 Note={If negotiating a license specifying a cancellation notice period in Section 6.2, Liblicense editors suggest revising this to read “no less than [sixty (60)] days prior to the cancellation notice date.”}
 

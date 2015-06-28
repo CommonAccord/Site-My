@@ -11,13 +11,13 @@ Note={The LMLA assumes web or other internet-based delivery; if the product invo
 2.sec=Licensor will provide the Licensee and its Authorized Users with access to the Licensed Materials pursuant to the terms, conditions, and specifications set forth in Schedule 3, which is attached hereto. Licensor will use reasonable efforts to provide authentication methods that conform to current industry standards, and will cooperate with Licensee in the implementation of new authentication protocols and procedures as they are developed during the term of this Agreement.
 
 Note={Liblicense editors suggest that the above issues be negotiated and addressed in a separate Schedule attached to the main Agreement. Like pricing models, access and authentication specifications vary widely in licensing contracts. The options include the following: 
-•	IP addresses (both authenticated and non-authenticated);
-•	Proxy servers; 
-•	Passwords; 
-•	Public keys or certificates;
-•	Shibboleth; and
-•	Developing protocols not yet developed or tested at the time of Agreement signing. 
-These access and authentication specifications may require the expertise of networking professionals, information security specialists, and/or the institution’s chief information officer. For these and other reasons, the LMLA includes a template for Schedule 3, which should be edited to meet your specific needs.}
+Note=•	IP addresses (both authenticated and non-authenticated);
+Note=•	Proxy servers; 
+Note=•	Passwords; 
+Note=•	Public keys or certificates;
+Note=•	Shibboleth; and
+Note=•	Developing protocols not yet developed or tested at the time of Agreement signing. 
+Note=These access and authentication specifications may require the expertise of networking professionals, information security specialists, and/or the institution’s chief information officer. For these and other reasons, the LMLA includes a template for Schedule 3, which should be edited to meet your specific needs.}
 
 3.Ti=Restrictions
 
