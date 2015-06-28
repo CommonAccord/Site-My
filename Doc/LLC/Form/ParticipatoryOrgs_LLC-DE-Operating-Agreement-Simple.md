@@ -5,7 +5,7 @@ Doc.Title=Operating Agreement of {Co.Name.Full}
 
 0.sec=This operating agreement of {Co.Name.Full} is dated as of the date stated on the cover page, and is between the parties listed on the signature pages of this agreement.
 
-xlist=<ol><li>{Define.Sec}<li>{Organize.Sec}<li>{Contribute.Sec}<li>{Member.Sec}<li>{Manage.Sec}<li>{Allocate.Sec}<li>{Transfer.Sec}<li>{Account.Sec}<li>{Dissolve.Sec}<li>{Indemnify.Sec}<li>{Represent.Sec}<li>{Misc.Sec}</ol>
+Olist=<ol><li>{Define.Sec}<li>{Organize.Sec}<li>{Contribute.Sec}<li>{Member.Sec}<li>{Manage.Sec}<li>{Allocate.Sec}<li>{Transfer.Sec}<li>{Account.Sec}<li>{Dissolve.Sec}<li>{Indemnify.Sec}<li>{Represent.Sec}<li>{Misc.Sec}</ol>
 
 Define.=[LLC/Sec/LLC_Define.md]
 
