@@ -1,6 +1,6 @@
 Note=See notes in [P2Pf/License/Peer_Production.md]
 
-Olist=<ol><li>{Def.Sec}<li>{FairDealing.Sec}<li>{Grant.Sec}<li>{Restrict.Sec}<li>{Reps.Sec}<li>{Liability.Sec}<li>{Expire.Sec}<li>{Misc.Sec}</ol>
+Olist=<ol><li>{Def.Sec}<li>{FairDealing.Sec}<li>{Grant.Sec}<li>{Restrict.Sec}<li>{Reps.Sec}<li>{Liability.Sec}<li>{Life.Sec}<li>{Misc.Sec}</ol>
 
 =[P2Pf/License/Sec/Defined_Terms.md]
 
@@ -20,7 +20,7 @@ Reps.=[P2Pf/License/Sec/Representations_Warranties_Disclaimers.md]
 
 Liability.=[P2Pf/License/Sec/Limitation_on_Liability.md]
 
-Expire.=[P2Pf/License/Sec/Termination.md]
+Life.=[P2Pf/License/Sec/Termination.md]
 
 Misc.=[P2Pf/License/Sec/Miscellaneous.md]
 

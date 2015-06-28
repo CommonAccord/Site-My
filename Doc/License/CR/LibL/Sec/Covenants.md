@@ -6,7 +6,9 @@ Ti=PERFORMANCE OBLIGATIONS
 
 1.1.Ti=Availability of Licensed Materials
 
-1.1.sec=The Licensor will make the Licensed Materials available to the Licensee and Authorized Users within [enter time period] of the Effective Date.
+1.1.sec=The Licensor will make the Licensed Materials available to the Licensee and Authorized Users {Access.Begin.cl}.
+
+Access.Begin.cl=within {Access.Begin.Wait} of the Effective Date
 
 1.2.Ti=Discovery of Licensed Materials
 
@@ -30,7 +32,9 @@ Ti=PERFORMANCE OBLIGATIONS
 
 1.7.Ti=Support
 
-1.7.sec=Licensor will provide activation and installation support, including assisting Licensee and Authorized Users with the implementation of any Licensor software. Licensor will offer reasonable levels of continuing support to assist Licensee and Authorized Users in use of the Licensed Materials. Licensor will make its personnel available by email and/or phone during Licensee’s regular business hours, Monday – Friday, [or enter another set of dates and times] for feedback, problem-solving, or general questions and will respond in a timely manner [or enter a specific time period].
+1.7.sec=Licensor will provide activation and installation support, including assisting Licensee and Authorized Users with the implementation of any Licensor software. Licensor will offer reasonable levels of continuing support to assist Licensee and Authorized Users in use of the Licensed Materials. Licensor will make its personnel available by email and/or phone {Support.Teleprence.cl}.
+
+Support.Telepresence.cl=during Licensee’s regular business hours, Monday – Friday, for feedback, problem-solving, or general questions and will respond in a timely manner.
 
 1.8.Ti=Training
 
@@ -42,7 +46,7 @@ Ti=PERFORMANCE OBLIGATIONS
 
 1.10.Ti=Quality of Service
 
-1.10.sec=Licensor shall use reasonable efforts to ensure that the Licensor’s server or servers have sufficient capacity and rate of connectivity to provide the Licensee and its Authorized Users with a quality of service comparable to current standards in the online information industry in the Licensee's locale. Licensor shall use reasonable efforts to provide continuous service with an average of [fill in time percentage as appropriate, e.g., 99%] up-time per month. This [fill in time percentage as appropriate] up-time includes periodic unavailability due to server maintenance; software installation or testing; loading or making available additional Licensed Materials as they become available; and unavailability because of service or equipment failure outside the Licensor’s control (including problems with public or private telecommunications services, or Internet nodes or facilities). Licensor may schedule brief unavailability periods, but will do so only where (1) it has given at least forty-eight (48) hour notice to Licensee, and (2) in ways and at times that minimize inconvenience to Licensee and its Authorized Users, regardless of when notice has been given.
+1.10.sec=Licensor shall use reasonable efforts to ensure that the Licensor’s server or servers have sufficient capacity and rate of connectivity to provide the Licensee and its Authorized Users with a quality of service comparable to current standards in the online information industry in the Licensee's locale. Licensor shall use reasonable efforts to provide continuous service with an average of {Uptime.%} up-time per month. This {Uptime.%} up-time includes periodic unavailability due to server maintenance; software installation or testing; loading or making available additional Licensed Materials as they become available; and unavailability because of service or equipment failure outside the Licensor’s control (including problems with public or private telecommunications services, or Internet nodes or facilities). Licensor may schedule brief unavailability periods, but will do so only where (1) it has given at least forty-eight (48) hour notice to Licensee, and (2) in ways and at times that minimize inconvenience to Licensee and its Authorized Users, regardless of when notice has been given.
 
 1.11.Ti=Problems with Licensed Materials
 
@@ -80,7 +84,7 @@ Ti=PERFORMANCE OBLIGATIONS
 
 1.17.Ti=Usage Statistics
 
-1.17.1.sec=Licensor shall provide to Licensee [monthly] usage statistics for the Licensed Materials. Statistics shall meet or exceed the most recent project Counting Online Usage of NeTworked Electronic Resources (COUNTER) Code of Practice Release,  including but not limited to its provisions on customer confidentiality. When a release of a new COUNTER Codes of Practice is issued, Licensor shall comply with the implementation time frame specified by COUNTER to provide use statistics in the new standard format.
+1.17.1.sec=Licensor shall provide to Licensee {Usage.Report.Frequency} usage statistics for the Licensed Materials. Statistics shall meet or exceed the most recent project Counting Online Usage of NeTworked Electronic Resources (COUNTER) Code of Practice Release,  including but not limited to its provisions on customer confidentiality. When a release of a new COUNTER Codes of Practice is issued, Licensor shall comply with the implementation time frame specified by COUNTER to provide use statistics in the new standard format.
 
 1.17.2.sec=Licensor shall not provide Licensee’s usage statistics in any form to any third party without the Licensee’s written authorization, unless the third party owns rights in the Licensed Materials. In all cases, the disclosure of such data shall fully protect the anonymity of individual users and the confidentiality of their searches, and will comply with all applicable privacy laws. The Licensor shall not disclose or sell to other parties usage data or information about the Licensee or its Authorized Users without the Licensee’s express written permission or as required by law.
 
@@ -100,8 +104,11 @@ Ti=PERFORMANCE OBLIGATIONS
 
 1.21.Ti=Open Access Option
 
-1.21.sec=In the event that Licensor offers an open access option to its authors, Licensor will report to Licensee [annually] the number of works (such as articles) published under the open access option by all authors, and the number and list of the works by title with full citation by authors at Licensee’s institution.
-Licensor will enter into good faith discussions with Licensee concerning mechanisms by which the open access publication fees received by Licensor can offset the fees paid by Licensee and other subscribers of Licensed Materials, with a goal of reducing such fees in proportion to the revenue received through such open access publication fees.
+1.21.1.sec=In the event that Licensor offers an open access option to its authors, Licensor will report to Licensee {OpenAccess.Report.Frequency} the number of works (such as articles) published under the open access option by all authors, and the number and list of the works by title with full citation by authors at Licensee’s institution.
+
+1.21.2.sec=Licensor will enter into good faith discussions with Licensee concerning mechanisms by which the open access publication fees received by Licensor can offset the fees paid by Licensee and other subscribers of Licensed Materials, with a goal of reducing such fees in proportion to the revenue received through such open access publication fees.
+
+1.21.=[Z/Sec/s2]
 
 1.=[Z/Sec/21]
 
@@ -129,7 +136,7 @@ Licensor will enter into good faith discussions with Licensee concerning mechani
 
 Note=hazardj - this looks like it could use some work.
 
-3.1.sec=<b>Notification of Unauthorized Use</b> In the event the Licensee has notice of an unauthorized use of the Licensed Materials and cannot promptly remedy it, the Licensee shall immediately notify the Licensor. 
+3.1.sec=<b>Notification of Unauthorized Use.</b> In the event the Licensee has notice of an unauthorized use of the Licensed Materials and cannot promptly remedy it, the Licensee shall immediately notify the Licensor. 
 
 3.2.sec=In the event the Licensor has notice of unauthorized use of the Licensed Materials, the Licensor will immediately notify Licensee, and Licensee will cooperate with the Licensor to address the unauthorized use and avoid a recurrence.
 
