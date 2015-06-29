@@ -46,7 +46,7 @@ Note=SaaS:
 
 YCSaaS.=[Startup/YC/Sales/YC_Sales_TC.md]
 
-YCSaaS.Olist=<ol><li>{Service.Sec}<li>{Support.Sec}<li>{Restriction.Sec}<li>{Conf.Sec}<li>{IP.Sec}<li>{Payment.Sec}<li>{Term.Sec}<li>{Warranty.Sec}<li>{Indemnity.Sec}<li>{Misc.Sec}</ol>  
+YCSaaS.Olist=<ol><li>{Service.Sec}<li>{CovP2.Sec}<li>{Conf.Sec}<li>{Fee.Sec}<li>{Life.Sec}<li>{Warrant.Sec}<li>{Indemnify.Sec}<li>{LimitLiability.Sec}<li>{Misc.Sec}</ol>
 
 Note=Government Data Sharing:
 
