@@ -1,4 +1,4 @@
-Note=https://www.ycombinator.com/documents/#sales
+Note={?https://www.ycombinator.com/documents/#sales]
 
 Note=Made this into a conventionally-formatted agreement - can be remixed to be put back into the Order, Signature, T&C format
 
