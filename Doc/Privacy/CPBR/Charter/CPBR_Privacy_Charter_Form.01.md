@@ -1,3 +1,5 @@
+Act.=[Privacy/CPBR/Bill/CPBR_Act_Of_2015.md]
+
 Org.Name.Full={d-}Public Privacy Partners, Ltd.{-d}
 
 Org.Handle={d-}PPPL{-d}
@@ -55,8 +57,6 @@ Title.1.6.4.sec={P1.Handle} is an entity subject to Fair Credit Reporting Act (1
 90.Sec=See {Charter.Link}.
 
 FCRA={d-}FCRA{-d}
-
-Act.=[Privacy/CPBR/Bill/CPBR_Act_Of_2015.md]
 
 Charter={d-}Charter{-d}
 
