@@ -2,7 +2,9 @@
 <?php
 
 echo "<a href=index.php?action=source&file=" .$dir.">Source</a> &emsp; ";
+echo "<a href=index.php?action=opens&file=" .$dir.">Opens</a> &emsp; ";
 echo "<a href=index.php?action=print&file=" .$dir.">Print</a><br><br>";
+
 $document = `perl parser-print.pl $path/$dir`;
 
 $minDocLength = 1;

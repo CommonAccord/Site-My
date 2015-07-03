@@ -16,8 +16,6 @@ echo "<h4>
 <a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>Render the Document</b></a>
   &emsp; 
 
- <a href=$_SERVER[PHP_SELF]?action=opens&file=$rootdir[dirname]/$filenameX>Opens</a>
-  &emsp; 
 
 <a href=https://github.com/$GitHubRepo/blob/master/Doc/$rootdir[dirname]/$filenameX>GitHub</a>
 </center></h5>
