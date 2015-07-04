@@ -17,11 +17,11 @@ Ti=DEFINITIONS
 
 4.sec="Articles" means the articles of organization of the Company.
 
-5.sec="Assignee" means the owner of an Economic Interest who has not been admitted as a substitute Member in accordance with article 7.
+5.sec="Assignee" means the owner of an Economic Interest who has not been admitted as a substitute Member in accordance with article {Transfer.Xnum}.
 
 6.sec="Bankruptcy" means: (1) the filing of an application by a Member for, or such Member's consent to, the appointment of a trustee, receiver, or custodian of that Member's other assets; (2) the entry of an order for relief with respect to a Member in proceedings under the United States Bankruptcy Code; (3) the making by a Member of a general assignment for the benefit of creditors; (4) the entry of an order, judgment, or decree by any court of competent jurisdiction appointing a trustee, receiver, or custodian of the assets of a Member unless the proceedings and the person appointed are dismissed within ninety (90) days; or (5) the failure by a Member generally to pay the Member's debts as the debts become due within the meaning of United States Bankruptcy Code section 303(h)(1), as determined by the Bankruptcy Court, or the admission in writing of the Member's inability to pay that Member's debts as those debts become due.
 
-7.sec="Capital Account" has the meaning ascribed to it in section 3.2.
+7.sec="Capital Account" has the meaning ascribed to it in section {Organize.Xnum}.2.
 
 8.sec="Code" means the Internal Revenue Code of 1986 and, to the extent applicable, the Regulations.
 
@@ -37,9 +37,9 @@ Ti=DEFINITIONS
 
 14.sec="Majority Interest" means those Members who hold a majority of the Percentage Interests that all Members hold.
 
-15.sec="Manager" means each Person selected to manage the Company pursuant to section 5.2.
+15.sec="Manager" means each Person selected to manage the Company pursuant to section {Manage.Xnum}.2.
 
-16.sec="Member" means each Person who is an initial signatory to this agreement, has been admitted to the Company as a Member in accordance with the articles or this agreement or is an Assignee who has become a Member in accordance with article 7.
+16.sec="Member" means each Person who is an initial signatory to this agreement, has been admitted to the Company as a Member in accordance with the articles or this agreement or is an Assignee who has become a Member in accordance with article {Transfer.Xnum}.
 
 17.sec="Member Nonrecourse Debt Minimum Gain" has the meaning ascribed to the term "partner nonrecourse debt minimum gain" in Regulations section 1.704-2(i)(2).
 
@@ -51,7 +51,7 @@ Ti=DEFINITIONS
 
 21.sec="Net Profits" and "Net Losses" mean the income, gain, loss, deductions, and credits of the Company in the aggregate or separately stated, as appropriate, determined in accordance with Regulations section 1.704-1(b) and under the method of accounting of the Company determined at the close of each Fiscal Year or portion thereof.  
 
-22.sec="Nonrecourse Liability" has the meaning ascribed to the term "nonrecourse liability" in Regulations section 1.752-1(a)(2).  
+22.sec="Nonrecourse Liability" has the meaning ascribed to the term "nonrecourse liability" in Regulations section 1.752-1(a)(2). 
 
 23.sec="Percentage Interest" means the percentage interest allocated to a Member, which percentage interest will be determined by using a fraction in which the number of Units owned by that Member is the numerator and the aggregate number of Units that are then outstanding is the denominator.
 
@@ -59,7 +59,7 @@ Ti=DEFINITIONS
 
 25.sec="Regulations" means the final or temporary regulations that have been issued by the U.S. Department of Treasury pursuant to its authority under the Code.
 
-26.sec="Tax Matters Partner" has the meaning ascribed to it in section 8.4.
+26.sec="Tax Matters Partner" has the meaning ascribed to it in section {Account.Xnum}.4.
 
 27.sec="Unit" means a measure of a Member's Membership Interest as set forth opposite the name of that Member under the column "Units" in exhibit A.
 

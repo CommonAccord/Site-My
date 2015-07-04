@@ -6,7 +6,7 @@ Ti=ORGANIZATIONAL MATTERS
 
 2.Ti=Term
 
-2.sec=The term of the Company commenced as of the date of the filing of the articles and, unless sooner terminated under Section 9.1, is perpetual.
+2.sec=The term of the Company commenced as of the date of the filing of the articles and, unless sooner terminated under Section {Dissolve.Xnum}.1, is perpetual.
 
 3.Ti=Office; Agent
 

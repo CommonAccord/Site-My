@@ -6,7 +6,7 @@ Ti=CAPITAL CONTRIBUTIONS
 
 2.Ti=Capital Accounts
 
-2.sec=The Company shall establish an individual capital account for each Member. The Company shall determine and maintain each Capital Account in accordance with Regulations section 1.704-1(b)(2)(iv). Upon a valid transfer of a Membership Interest in accordance with article 7, the Member's Capital Account will carry over to the new owner.
+2.sec=The Company shall establish an individual capital account for each Member. The Company shall determine and maintain each Capital Account in accordance with Regulations section 1.704-1(b)(2)(iv). Upon a valid transfer of a Membership Interest in accordance with article {Transfer.Xnum}, the Member's Capital Account will carry over to the new owner.
 
 3.Ti=No Interest
 

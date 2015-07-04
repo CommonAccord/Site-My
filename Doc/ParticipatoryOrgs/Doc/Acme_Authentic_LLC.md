@@ -46,4 +46,4 @@ Managers.Name.List={P1.Name.Full} and {P2.Name.Full}
 
 TMP.Name.Full={P3.Name.Full}
 
-=[LLC/Form/ParticipatoryOrgs_LLC-DE-Operating-Agreement-Simple.md]
+=[ParticipatoryOrgs/Form/ParticipatoryOrgs_LLC-DE-Operating-Agreement-Simple.md]

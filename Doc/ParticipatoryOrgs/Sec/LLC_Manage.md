@@ -20,7 +20,7 @@ Ti=MANAGEMENT AND CONTROL OF THE COMPANY
 
 3.Ti=Powers
 
-3.1.sec=Without limiting the generality of Section 5.1, but subject to the limitations set forth elsewhere in this agreement, the Managers have all necessary powers to manage and carry out the purposes, business, property, and affairs of the Company.
+3.1.sec=Without limiting the generality of Section {Manage.Xnum}.1, but subject to the limitations set forth elsewhere in this agreement, the Managers have all necessary powers to manage and carry out the purposes, business, property, and affairs of the Company.
 
 3.2.0.sec=The Managers do not have the authority to:
 
