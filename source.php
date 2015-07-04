@@ -13,9 +13,11 @@ include("header.php");
 echo "<h4>
 
 <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/><img src='assets/arrowup.png' height=25>$rootdir[dirname]</a>/<b>$filenameX</b><br><center>
-<a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>Render the Document</b></a>
+<a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>document</b></a>
   &emsp; 
 
+ <a href=$_SERVER[PHP_SELF]?action=openedit&file=$rootdir[dirname]/$filenameX>Edit and complete</a>
+  &emsp; 
 
 <a href=https://github.com/$GitHubRepo/blob/master/Doc/$rootdir[dirname]/$filenameX>GitHub</a>
 </center></h5>

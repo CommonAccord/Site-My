@@ -2,7 +2,9 @@
 <?php
 
 echo "<a href=index.php?action=source&file=" .$dir.">Source</a> &emsp; ";
-echo "<a href=index.php?action=opens&file=" .$dir.">Opens</a> &emsp; ";
+
+echo "<a href=index.php?action=openedit&file=" .$dir.">Fill in blanks</a> &emsp; ";
+
 echo "<a href=index.php?action=print&file=" .$dir.">Print</a><br><br>";
 
 $document = `perl parser-print.pl $path/$dir`;
@@ -23,7 +25,7 @@ $document=str_replace("(-Curly)","}",$document);
  
   echo $document;}
  else {
-   echo "Nothing to Show";
+   echo "Rien à voir - soit pas de 'Model.Root', soit un lien n'existe pas";
 
 
 }
