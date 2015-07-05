@@ -13,4 +13,3 @@ DEFINE('TEXTEDITWINDOWSIZE', 'cols=140 rows=35'); //Sets the size of the text ed
 
 include("cmacc_helpers.php");
 
-
