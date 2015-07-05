@@ -16,7 +16,7 @@ $Complete_Fields_Message="Edit and Complete";
 
 $Edit_Message= "Edit";
 
-$Text_Edit_Window_Size = "cols=120 rows=35";
+$Text_Edit_Window_Size = TEXTEDITWINDOWSIZE ;
 
 if (!isset($_REQUEST['action'])) {
     $_REQUEST['action'] = "landing";
