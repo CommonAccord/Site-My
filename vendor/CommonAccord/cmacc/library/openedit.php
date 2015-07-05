@@ -1,27 +1,32 @@
+<body style="margin:20;padding:0">
+
 <?php
 /*require('./vendor/autoload.php'); */
 ini_set("allow_url_include", true);
-include("header.php");
 
-$document = `perl openedit-parser.pl $path/$dir`;
-
-?>
-
-<div class="container">
-<?php
-
-//This displays the path, current file name, and provides the edit and show options //
-
+$lib_path = LIB_PATH;
+$document = `perl $lib_path/openedit-parser.pl $path/$dir`;
 
 
 echo "<a href=index.php?action=source&file=" .$dir.">Source</a> &emsp; ";
 
-?>
+echo "<a href=index.php?action=edit&file=" .$dir.">$Edit_Message</a> &emsp; ";
 
-<?php
+echo " &emsp;  &emsp;  &emsp; &emsp; ";
+
+
+echo "<a href=index.php?action=doc&file=" .$dir.">$Doc_Message</a> &emsp; ";
+
+echo "<a href=index.php?action=print&file=" .$dir.">$Print_Message</a> &emsp; ";
+
+echo "<a href=" . URLFORDOCSINREPO . $dir.">Github</a>";
+
+echo "<hr>";
+
+
+
   echo "
 <div id='tabs'><ul>
-<li><a href='#tab-edit'>éditer</a></li>
 </ul><div id='tab-render'>" ;
 ?>
 </div>
@@ -38,7 +43,8 @@ echo "<a href=index.php?action=source&file=" .$dir.">Source</a> &emsp; ";
 
 <?php
 echo "<form action=$_SERVER[PHP_SELF] method='post'>
-        <textarea id='textedit' cols=125 rows=30 name='newcontent' style='padding:20px;'>";
+        <textarea id='textedit' $Text_Edit_Window_Size name='newcontent' style='padding:20px;'>";
+
 echo $document;
 
 echo "\nWAS=" . date("Y/m/d") . " : " . time() . "\n\n";
