@@ -36,7 +36,7 @@ foreach($files as $f) {
         if(is_dir($path.$dir.$f)) {
                 if( !( ($f == '.') || ($f == '..') || ($f == '.git')) ) {
 
-                        echo "<br><a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/><img height=20 src='" . "assets/folder.png'> $f</a>";
+                        echo "<br><a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/><img height=20 src='" . ASSETS_PATH . "/folder.png'> $f</a>";
                 }
         }
         else {
