@@ -19,8 +19,8 @@ echo "<a href=index.php?action=edit&file=" .$dir.">Edit</a> &emsp; ";
 
 echo "<a href=index.php?action=openedit&file=" .$dir.">$Complete_Fields_Message</a> &emsp; ";
 
-echo "<a href=index.php?action=doc&file=" .$dir.">$Doc_Message
-</a> &emsp; ";
+echo "<b><a href=index.php?action=doc&file=" .$dir.">$Doc_Message
+</a></b> &emsp; ";
 
 echo "<a href=index.php?action=print&file=" .$dir.">$Print_Message</a> &emsp; ";
 

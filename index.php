@@ -9,7 +9,9 @@ DEFINE('ASSETS_PATH', 'visual');  // Create global variable to our css and js as
 
 DEFINE('URLFORDOCSINREPO', 'https://github.com/CommonAccord/Site-My/blob/master/Doc/');	// Use for customizing the link to a repo
 
-DEFINE('TEXTEDITWINDOWSIZE', 'cols=140 rows=35'); //Sets the size of the text edit window in both edit.php and openedit.php
+DEFINE('TEXTEDITWINDOWSIZE', 'cols=120 rows=30'); //Sets the size of the text edit window in both edit.php and openedit.php
+
+DEFINE('TEXTEDITAREASTYLE', 'font-size: 16px; padding:10px;'); //Sets the size of the text edit window in both edit.php and openedit.php
 
 include("cmacc_helpers.php");
 

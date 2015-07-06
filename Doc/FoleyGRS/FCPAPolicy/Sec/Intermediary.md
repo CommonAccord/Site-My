@@ -10,9 +10,9 @@ Ti=Third Party Intermediaries
 
 3.2.sec=A third-party representative may not be retained to do things that are prohibited by {this_Policy} or {the_Company}’s Code of Business Conduct.
 
-3.3.sec=Each third-party representative will be carefully selected and evaluated by {IDENTIFY POSITION} or his or her designee before being retained by {the_Company}.
+3.3.sec=Each third-party representative will be carefully selected and evaluated by {the_Company}’s {Intermediary.Supervisor.Title} (the “{Intermediary_Supervisor}”) or his or her designee before being retained by {the_Company}.
 
-3.4.sec=No oral agreements or arrangements are to be made with any third-party representative.  All arrangements with a third-party representative must be in writing and must be reviewed and pre-approved by the {IDENTIFY POSITION}.
+3.4.sec=No oral agreements or arrangements are to be made with any third-party representative.  All arrangements with a third-party representative must be in writing and must be reviewed and pre-approved by the {Intermediary_Supervisor}.
 
 3.5.sec=All agreements or contracts with third party representatives shall contain language prohibiting the third party from violating any laws, including specifically the FCPA and other applicable anti-corruption laws.
 
@@ -26,6 +26,6 @@ Ti=Third Party Intermediaries
 
 3.=[Z/Sec/s9]
 
-4.sec={IDENTIFY POSITION} or his or her designee will create and maintain a file documenting the due diligence conducted on each third party representative.
+4.sec=The {Intermediary_Supervisor} or his or her designee will create and maintain a file documenting the due diligence conducted on each third party representative.
 
 =[Z/paras/s4]

@@ -17,7 +17,8 @@ echo " &emsp;  &emsp;  &emsp; &emsp; ";
 
 echo "<a href=index.php?action=openedit&file=" .$dir.">$Complete_Fields_Message</a> &emsp; ";
 
-echo "<a href=index.php?action=doc&file=" .$dir.">$Document_Message</a> &emsp; ";
+echo "<b><a href=index.php?action=doc&file=" .$dir.">$Doc_Message
+</a></b> &emsp; ";
 
 echo "<a href=index.php?action=print&file=" .$dir.">$Print_Message</a> &emsp; ";
 
@@ -43,7 +44,7 @@ echo "<div id='tabs'><ul></ul><div id='tab-render'>" ;
 
 <?php
 echo "<form action=$_SERVER[PHP_SELF] method='post'>
-        <textarea id='textedit' $Text_Edit_Window_Size name='newcontent' style='padding:20px;'>";
+        <textarea id='textedit' $Text_Edit_Window_Size name='newcontent' style='".TEXTEDITAREASTYLE."'>";
 
 echo file_get_contents($path.$dir, FILE_USE_INCLUDE_PATH);
 
