@@ -7,7 +7,9 @@ ini_set('include_path', ini_get('include_path') . PATH_SEPARATOR . LIB_PATH . DI
 
 DEFINE('ASSETS_PATH', 'visual');  // Create global variable to our css and js assets
 
-DEFINE('URLFORDOCSINREPO', 'https://github.com/CommonAccord/Site-My/blob/master/Doc/');	// Use for customizing the link to a repo
+DEFINE('URLFORREPO', 'https://github.com/CommonAccord/Site-My/');	// The repo home
+
+DEFINE('URLFORDOCSINREPO', 'URLFORREPO . "/blob/master/Doc/');	// Docs in the repo
 
 DEFINE('TEXTEDITWINDOWSIZE', 'cols=120 rows=30'); //Sets the size of the text edit window in both edit.php and openedit.php
 
