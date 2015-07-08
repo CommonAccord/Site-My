@@ -33,7 +33,7 @@ echo "<hr>";
 <?php
 
 $lib_path = LIB_PATH;
-$document = `perl $lib_path/parser-print.pl $path/$dir`;
+$document = `perl $lib_path/parser.pl $path/$dir`;
 
 $minDocLength = 1;
 
