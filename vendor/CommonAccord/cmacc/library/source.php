@@ -26,7 +26,7 @@ echo "<a href=index.php?action=print&file=" .$dir.">$Print_Message</a> &emsp; ";
 
 echo "<a href=" . URLFORDOCSINREPO . $dir.">Github</a> &emsp;";
 
-echo "<a href=" . URLFORREPO . "search?utf8=✓&q=" . URLFORREPO . "/search?utf8=✓&q=\"" .$dir. "\">Used By</a>";
+echo "<a href=" . URLFORREPO . "search?utf8=✓&q=" . URLFORREPO . "/search?utf8=✓&q=" .$dir. ">Used By</a>";
 
 echo "<br><br>";
 
