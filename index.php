@@ -9,7 +9,7 @@ DEFINE('ASSETS_PATH', 'visual');  // Create global variable to our css and js as
 
 DEFINE('URLFORREPO', 'https://github.com/CommonAccord/Site-My/');	// The repo home
 
-DEFINE('URLFORDOCSINREPO', 'URLFORREPO . "/blob/master/Doc/');	// Docs in the repo
+DEFINE('URLFORDOCSINREPO', URLFORREPO . "/blob/master/Doc/");	// Docs in the repo
 
 DEFINE('TEXTEDITWINDOWSIZE', 'cols=120 rows=30'); //Sets the size of the text edit window in both edit.php and openedit.php
 
