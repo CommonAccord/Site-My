@@ -13,9 +13,10 @@ include("header.php");
 
 if(! ($dir == './')) {
         $rootdir = pathinfo($dir);
-
  	
-	echo "<div id='updir'><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/><img src='" . ASSETS_PATH . "/arrowup.png' height=25>".$rootdir['dirname']."</a>/".$rootdir['filename']."</h3><br>";
+
+	echo "<div id='updir'><h3 class='sc subtitle'><a href=index.php?action=list&file=><img src='" . ASSETS_PATH . "/arrowup.png' height=25></a>
+<a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>" . $rootdir['dirname']."</a>/".$rootdir['filename']."</h3><br>";
 
  	echo "<center><a href=https://github.com/$GitHubRepo/blob/master/Doc/".$dir.">Github</a></center></div>";
 
