@@ -1,6 +1,6 @@
 Ti=Engagement
 
-Secs={Disclose.Sec}<li>{Care.Sec}<li>{Access.Sec}
+xlist=<ol><li>{Disclose.Sec}<li>{Care.Sec}<li>{Access.Sec}</ol>
 
 Disclose.=[NDA/Sec/Sec_Engage_Disclose.md]
 
