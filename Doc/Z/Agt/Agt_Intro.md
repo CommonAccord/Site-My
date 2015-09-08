@@ -12,6 +12,8 @@ Parties.Sec=<b>{Parties.Ti}</b>{Parties.xlist}
 
 Parties.Ti=By and Betweeen:
 
+Parties.Ti.Among=By and Among:
+
 Parties.xlist=<ul type="none"><li>{Parties.List}<li>{Parties.Def.sec}</ul>
 
 Parties.Def.sec=Each a "{party}" and collectively the "{parties}."
