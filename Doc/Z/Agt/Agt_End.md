@@ -1,6 +1,6 @@
 Note=Parameterize
 
-Sign.sec={Sign.List-2}
+Sign.List={Sign.List-2}
 
 Model.Root={Sec}
 
@@ -12,7 +12,7 @@ secs={Witness.sec}
 
 Witness.sec=IN WITNESS WHEREOF, the {parties} have executed {this_Agreement} as of the {Effective_Date}.
 
-Sign.Sec=<br>{Sign.sec}<br>
+Sign.Sec=<br>{Sign.List}<br>
 
 Sign.List-2=<table><tr>{P1.Sign.td}<td width="100px"></td>{P2.Sign.td}</tr></table>
 
